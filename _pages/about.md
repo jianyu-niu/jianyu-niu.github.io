@@ -14,13 +14,13 @@ I obtained my Ph.D. degree from the Ohio State University. My advisors are [Prof
 
 Publications
 ------
-1. <font id="conf">[DSC'19]</font> **Defeating Speculative-Execution Attacks on SGX with HyperRace**  
+1. <font id="conf">[DSC'19]</font>**Defeating Speculative-Execution Attacks on SGX with HyperRace**  
 **Guoxing Chen**, Mengyuan Li, Fengwei Zhang, Yinqian Zhang  
 _IEEE Conference on Dependable and Secure Computing_, Hangzhou, China, Nov. 2019.
-1. <font color="blue">[CCS'19]</font> **OPERA: Open Remote Attestation for Intel’s Secure Enclaves**  
+1. <font color="blue">[CCS'19]</font>**OPERA: Open Remote Attestation for Intel’s Secure Enclaves**  
 **Guoxing Chen**, Yinqian Zhang, Ten-Hwang Lai  
 _ACM Conference on Computer and Communications Security_, London, UK, Nov. 2019.
-1. <font color="blue" size=10>[EuroS&P'19]</font> **SgxPectre: Stealing Intel Secrets from SGX Enclaves via Speculative Execution**  
+1. <font color="blue" font-size="small">[EuroS&P'19]</font>**SgxPectre: Stealing Intel Secrets from SGX Enclaves via Speculative Execution**  
 **Guoxing Chen**, Sanchuan Chen, Yuan Xiao, Yinqian Zhang, Zhiqiang Lin, Ten H. Lai  
 _IEEE European Symposium on Security and Privacy_, Stockholm, Sweden, Jun. 2019.
 1. [S&P'18] **Racing in Hyperspace: Closing Hyper-Threading Side Channels on SGX with Contrived Data Races**  
