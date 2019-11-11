@@ -11,21 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Computer Science and Engineering, **The Ohio State University**, May 2019
+* M.S. in Information and Communication Engineering, **Shanghai Jiao Tong University**, Mar. 2013
+* B.S. in Information Engineering (Honors Class), Minor in Finance, **Shanghai Jiao Tong University**, Jul. 2010
 
-Work experience
+Professional Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Research Scientist**, Facebook Inc., Menlo Park, CA, USA, Jan. 2019 - Present
+* **Research Assistant**, The Ohio State University, OH, USA, Aug. 2013 - Dec. 2018
+* **Software Engineer Intern**, Facebook Inc., Menlo Park, CA, USA, May 2017 - Aug. 2017
+* **Research Assistant**, University of Macau, Macau, China, Jun. 2016 - Aug. 2016
+* **Research Assistant**, University of Macau, Macau, China, Jun. 2015 - Aug. 2015
   
 Skills
 ======

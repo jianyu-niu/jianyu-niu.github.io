@@ -11,21 +11,7 @@ redirect_from:
 I am a Research Scientist at Facebook, Inc.
 
 I obtained my Ph.D. degree from the Ohio State University. My advisors are [Prof. Ten H. Lai](http://web.cse.ohio-state.edu/~lai.1/) and [Prof. Yinqian Zhang](http://web.cse.ohio-state.edu/~zhang.834/). I received my B.S. and M.S. degrees from Shanghai Jiao Tong University.
-<!-- 
-Education
-------
-* Ph.D. in Computer Science and Engineering, **The Ohio State University**, May 2019
-* M.S. in Information and Communication Engineering, **Shanghai Jiao Tong University**, Mar. 2013
-* B.S. in Information Engineering (Honors Class), Minor in Finance, **Shanghai Jiao Tong University**, Jul. 2010
 
-Professional Experience
-------
-* **Research Scientist**, Facebook Inc., Menlo Park, CA, USA, Jan. 2019 - Present
-* **Research Assistant**, The Ohio State University, OH, USA, Aug. 2013 - Dec. 2018
-* **Software Engineer Intern**, Facebook Inc., Menlo Park, CA, USA, May 2017 - Aug. 2017
-* **Research Assistant**, University of Macau, Macau, China, Jun. 2016 - Aug. 2016
-* **Research Assistant**, University of Macau, Macau, China, Jun. 2015 - Aug. 2015
- -->
 Publications
 ------
 1. [DSC'19] **Defeating Speculative-Execution Attacks on SGX with HyperRace**  
