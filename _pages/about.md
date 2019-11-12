@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Research Scientist at Facebook, Inc.
 
-I obtained my Ph.D. degree from the Ohio State University. My advisors are [Prof. Ten H. Lai](http://web.cse.ohio-state.edu/~lai.1/) and [Prof. Yinqian Zhang](http://web.cse.ohio-state.edu/~zhang.834/). I received my B.S. and M.S. degrees from Shanghai Jiao Tong University.
+I obtained my Ph.D. degree from the Ohio State University in 2019. My advisors are [Prof. Ten H. Lai](http://web.cse.ohio-state.edu/~lai.1/) and [Prof. Yinqian Zhang](http://web.cse.ohio-state.edu/~zhang.834/). I received my B.S. and M.S. degrees from Shanghai Jiao Tong University in 2010 and 2013 respectively.
 
 Publications
 ------
