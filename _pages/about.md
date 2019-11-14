@@ -63,6 +63,7 @@ Professional Activities
 **Journal Reviewer**
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
 - IEEE Transactions on Information Forensics and Security (TIFS)
+- IEEE Transactions on Parallel and Distributed Systems (TPDS)
 - ACM Transactions on Privacy and Security (TOPS)
 - ACM Transactions on Sensor Networks (TOSN)
 - IEEE Transactions on Services Computing (TSC)
@@ -74,4 +75,4 @@ Professional Activities
 - IEEE Wireless Communications and Networking Conference (WCNC) 2012.
 
 
-Last updated: 2019/11/13.
+Last updated: 2019/11/14.
