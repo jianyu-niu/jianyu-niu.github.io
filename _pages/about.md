@@ -20,7 +20,7 @@ _IEEE Conference on Dependable and Secure Computing_, Hangzhou, China, Nov. 2019
 1. **<small>[CCS'19]</small> OPERA: Open Remote Attestation for Intel’s Secure Enclaves**  
 **Guoxing Chen**, Yinqian Zhang, Ten-Hwang Lai  
 _ACM Conference on Computer and Communications Security_, London, UK, Nov. 2019.  
-[[Pdf](https://dl.acm.org/ft_gateway.cfm?id=3354220&ftid=2095294&dwn=1&CFID=84660582&CFTOKEN=d83ef9fa9d388d01-0C7D69C7-0654-5C87-DD519A8A56C83362) | [[Project Homepage]](https://sites.google.com/site/operasgxkb/)
+[[Pdf]](https://dl.acm.org/ft_gateway.cfm?id=3354220&ftid=2095294&dwn=1&CFID=84660582&CFTOKEN=d83ef9fa9d388d01-0C7D69C7-0654-5C87-DD519A8A56C83362) | [[Project Homepage]](https://sites.google.com/site/operasgxkb/)
 1.  **<small>[EuroS&P'19]</small> SgxPectre: Stealing Intel Secrets from SGX Enclaves via Speculative Execution**  
 **Guoxing Chen**, Sanchuan Chen, Yuan Xiao, Yinqian Zhang, Zhiqiang Lin, Ten H. Lai  
 _IEEE European Symposium on Security and Privacy_, Stockholm, Sweden, Jun. 2019.  
