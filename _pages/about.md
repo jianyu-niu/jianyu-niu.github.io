@@ -61,8 +61,9 @@ _IEEE Wireless Communications Letters_, Dec. 2012.
 Professional Activities
 -----
 **Program Committee Member**
-- International Workshop on Secure Mobile Cloud Computing (IWoSeMC) [2020](https://iwosemc.eu/)
-- International Conference on Cyber Security for Emerging Technologies (CSET) [2019](http://www.qu.edu.qa/conference/CSET-2019)
+- ACM Asia Conference on Computer and Communications Security (ASIACCS) [2021](https://asiaccs2021.comp.polyu.edu.hk/)
+- ACM Cloud Computing Security Workshop (CCSW) [2020](https://ccsw.io/)
+- IEEE International Conference on Cloud Computing Technology and Science (CloudCom) [2020](https://2020.cloudcom.org/)
 
 **Student Program Committee Member**
 - IEEE Symposium on Security and Privacy (S&P) 2018
@@ -82,4 +83,4 @@ Professional Activities
 - IEEE Wireless Communications and Networking Conference (WCNC) 2012.
 
 
-Last updated: 2019/11/19.
+Last updated: 2020/08/04.
