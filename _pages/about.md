@@ -8,12 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist at Facebook, Inc.
+I am currently an assistant professor at the Department of Computer Science and Engineering of Shanghai Jiao Tong University (SJTU). Before joining SJTU in March 2021, I was a research scientist at Facebook, Inc. I received my Ph.D. degree from the Ohio State University in 2019. My advisors are [Prof. Ten H. Lai](http://web.cse.ohio-state.edu/~lai.1/) and [Prof. Yinqian Zhang](http://yinqian.org/). I obtained my master's and bachelor's degrees from SJTU in 2013 and 2010 respectively.
 
-I obtained my Ph.D. degree from the Ohio State University in 2019. My advisors are [Prof. Ten H. Lai](http://web.cse.ohio-state.edu/~lai.1/) and [Prof. Yinqian Zhang](http://web.cse.ohio-state.edu/~zhang.834/). I received my B.S. and M.S. degrees from Shanghai Jiao Tong University in 2010 and 2013 respectively.
+My research interests are in the areas of computer security and privacy, including system security, side channels, and data privacy.
 
 Publications
 ------
+1. **<small>[IEEE Secur & Priv]</small> SgxPectre: Stealing Intel Secrets from SGX Enclaves via Speculative Execution**  
+**Guoxing Chen**, Sanchuan Chen, Yuan Xiao, Yinqian Zhang, Zhiqiang Lin, Ten H. Lai  
+_EEE Secur. Priv._ 18(3): 28-37 (2020).
 1. **<small>[DSC'19]</small> Defeating Speculative-Execution Attacks on SGX with HyperRace**  
 **Guoxing Chen**, Mengyuan Li, Fengwei Zhang, Yinqian Zhang  
 _IEEE Conference on Dependable and Secure Computing_, Hangzhou, China, Nov. 2019.
@@ -83,4 +86,4 @@ Professional Activities
 - IEEE Wireless Communications and Networking Conference (WCNC) 2012.
 
 
-Last updated: 2020/08/04.
+Last updated: 2021/04/08.
