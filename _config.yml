@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Guoxing Chen"
   avatar           : "profile.jpg"
-  bio              : "Research Scientist at Facebook, Inc."
-  location         : "Sunnyvale, California"
+  bio              : "Assistant Professor of Computer Science & Engineering Department, Shanghai Jiao Tong University"
+  location         : "Shanghai, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=OnQv6VYAAAAJ&hl=en"
-  email            : gxchen.osu@gmail.com
+  email            : guoxingchen@sjtu.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        : "donnod"
