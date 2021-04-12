@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an assistant professor at the Department of Computer Science and Engineering of Shanghai Jiao Tong University (SJTU). Before joining SJTU in March 2021, I was a research scientist at Facebook, Inc. I received my Ph.D. degree from the Ohio State University in 2019. My advisors are [Prof. Ten H. Lai](http://web.cse.ohio-state.edu/~lai.1/) and [Prof. Yinqian Zhang](http://yinqian.org/). I obtained my master's and bachelor's degrees from SJTU in 2013 and 2010 respectively.
+I am currently an assistant professor at the [Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/) of [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) (SJTU). Before joining SJTU in March 2021, I was a research scientist at Facebook, Inc. I received my Ph.D. degree from the Ohio State University in 2019. My advisors are [Prof. Ten H. Lai](http://web.cse.ohio-state.edu/~lai.1/) and [Prof. Yinqian Zhang](http://yinqian.org/). I obtained my master's and bachelor's degrees from SJTU in 2013 and 2010 respectively.
 
 My research interests are in the areas of computer security and privacy, including system security, side channels, and data privacy.
 
