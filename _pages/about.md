@@ -8,15 +8,32 @@ redirect_from:
   - /about.html
 ---
 
+**We welcome students (both undergrad and graduate) with interests in topics related to computer security and privacy, including system security/side channels/data privacy/trusted execution environments/privacy-preserving technologies etc. Please drop me an [email](mailto:guoxingchen@sjtu.edu.cn) for more information.**
+
+Short Bios
+------
 I am currently an assistant professor at the [Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/en/) of [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) (SJTU). Before joining SJTU in March 2021, I was a research scientist at Facebook, Inc. I received my Ph.D. degree from the Ohio State University in 2019. My advisors are [Prof. Ten H. Lai](http://web.cse.ohio-state.edu/~lai.1/) and [Prof. Yinqian Zhang](http://yinqian.org/). I obtained my master's and bachelor's degrees from SJTU in 2013 and 2010 respectively.
 
-My research interests are in the areas of computer security and privacy, including system security, side channels, and data privacy.
+News
+------
+- (2021/06)**[Committee]** I am invited to serve on the Program Committee for CCSW 2021.
+- (2021/06)**[Paper]** Our paper, "Towards Formal Verification of State Continuity for Enclave Programs", has been accepted to appear in USENIX 2021!
+- (2021/05)**[Committee]** I am invited to serve on the Program Committee for ASIACCS 2022.
+- (2021/04)**[Paper]** Our paper, "SPECULARIZER: Detecting Speculative Execution Attacks via Performance Tracing", has been accepted to appear in DIMVA 2021!
+- (2021/03)**[Committee]** I am invited to serve on the Program Committee for IEEE SEED 2021.
+
 
 Publications
 ------
+1. **<small>[Security'21]</small> Towards Formal Verification of State Continuity for Enclave Programs**  
+Mohit Kumar Jangid, **Guoxing Chen**, Yinqian Zhang, Zhiqiang Lin  
+_USENIX Security Symposium_, Virtual, Aug. 2021.
+1. **<small>[DIMVA'21]</small> SPECULARIZER: Detecting Speculative Execution Attacks via Performance Tracing**  
+Wubing Wang, **Guoxing Chen**, Yueqiang Cheng, Yinqian Zhang, Zhiqiang Lin  
+_Conference on Detection of Intrusions and Malware & Vulnerability Assessment_, Virtual, Jul. 2021.
 1. **<small>[IEEE Secur & Priv]</small> SgxPectre: Stealing Intel Secrets from SGX Enclaves via Speculative Execution**  
 **Guoxing Chen**, Sanchuan Chen, Yuan Xiao, Yinqian Zhang, Zhiqiang Lin, Ten H. Lai  
-_EEE Secur. Priv._ 18(3): 28-37 (2020).
+_IEEE Secur. Priv._ 18(3): 28-37 (2020).
 1. **<small>[DSC'19]</small> Defeating Speculative-Execution Attacks on SGX with HyperRace**  
 **Guoxing Chen**, Mengyuan Li, Fengwei Zhang, Yinqian Zhang  
 _IEEE Conference on Dependable and Secure Computing_, Hangzhou, China, Nov. 2019.
@@ -64,8 +81,9 @@ _IEEE Wireless Communications Letters_, Dec. 2012.
 Professional Activities
 -----
 **Program Committee Member**
-- ACM Asia Conference on Computer and Communications Security (ASIACCS) [2021](https://asiaccs2021.comp.polyu.edu.hk/)
-- ACM Cloud Computing Security Workshop (CCSW) [2020](https://ccsw.io/)
+- ACM Asia Conference on Computer and Communications Security (ASIACCS) [2021](https://asiaccs2021.comp.polyu.edu.hk/), [2022](https://asiaccs2022.conferenceservice.jp/)
+- IEEE International Symposium on Secure and Private Execution Environment Design (SEED) [2021](https://seed-symposium.org/)
+- ACM Cloud Computing Security Workshop (CCSW) [2020](https://ccsw.io/2020/), [2021](https://ccsw.io/)
 - IEEE International Conference on Cloud Computing Technology and Science (CloudCom) [2020](https://2020.cloudcom.org/)
 
 **Student Program Committee Member**
@@ -86,4 +104,4 @@ Professional Activities
 - IEEE Wireless Communications and Networking Conference (WCNC) 2012.
 
 
-Last updated: 2021/04/08.
+Last updated: 2021/07/01.
