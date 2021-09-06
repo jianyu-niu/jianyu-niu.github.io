@@ -14,8 +14,7 @@ I am currently a research associate at the [Department of Computer Science and E
 
 News
 ------
-- (2021/06)**[Committee]** I am invited to serve on the Program Committee for MSN 2021.
-
+- (2021/05)**[Committee]** I am invited to serve on the Program Committee for MSN 2021.
 
 Conference Publications
 ------
