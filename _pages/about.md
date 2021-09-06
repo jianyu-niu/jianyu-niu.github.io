@@ -29,16 +29,16 @@ _IEEE/ACM International Symposium on Quality of Service_, Virtual, Jun. 2021.
 **Jianyu Niu**, Fangyu Gai, Mohammad Mussadiq Jalalzai, and Chen Feng  
 _IEEE International Conference on Computer Communications_, Virtual, May. 2021.
 1. **<small>[Performance'20]</small> Incentive Analysis of Bitcoin-NG, Revisited**  
-**Jianyu Niu**, Ziyu Wang, Fangyu Gai, and Chen Feng 
+**Jianyu Niu**, Ziyu Wang, Fangyu Gai, and Chen Feng  
 _International Symposium on Computer Performance, Modeling, Measurements and Evaluation_, Virtual, Nov. 2020.
 1. **<small>[ICDCS'19]</small> Selfish Mining in Ethereum**  
-**Jianyu Niu**, and Chen Feng 
+**Jianyu Niu**, and Chen Feng  
 _IEEE International Conference on Distributed Computing Systems_, Dallas, Texas, Jun. 2019.
 
 Journal Publications
 ---
 1. **<small>[TDSC]</small> The Hermes BFT for Blockchains**  
-Mohammad Jalalzai, Chen Feng, Costas Busch, Golden, Richard III, and **Jianyu Niu**  
+Mohammad Jalalzai, Chen Feng, Costas Busch, Golden, Richard III, and **Jianyu Niu** 
 _IEEE Transactions on Dependable and Secure Computing_, 2021.
 1. **<small>[OE]</small> Error Rate Analysis of Few-Mode Fiber Based Free-Space Optical Communication**  
 Xingjie Fan, **Jianyu Niu**, Jing Ma, Yiming Bian and Julian Cheng  
