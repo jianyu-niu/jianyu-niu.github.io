@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Guoxing Chen's Homepage"
+title                    : "Jianyu Niu's Homepage"
 title_separator          : "-"
-name                     : &name "Guoxing Chen"
-description              : &description "Research Scientist at Facebook, Inc."
+name                     : &name "Jianyu Niu"
+description              : &description "Research Associate at Southern University of Science and Technology (SUSTech)"
 url                      : https://donnod.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "donnod/donnod.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Guoxing Chen"
-  avatar           : "profile.jpg"
-  bio              : "Assistant Professor of Computer Science & Engineering Department, Shanghai Jiao Tong University"
-  location         : "Shanghai, China"
+  name             : "Jianyu Niu"
+  avatar           : "profile_niu.jpg"
+  bio              : "Research Associate of Computer Science & Engineering Department, Southern University of Science and Technology"
+  location         : "Shenzhen, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=OnQv6VYAAAAJ&hl=en"
-  email            : guoxingchen@sjtu.edu.cn
+  googlescholar    : "https://scholar.google.com/citations?user=2BakBVcAAAAJ&hl=en"
+  email            : njianyu@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        : "donnod"
