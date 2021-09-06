@@ -11,17 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science and Engineering, **The Ohio State University**, May 2019
-* M.S. in Information and Communication Engineering, **Shanghai Jiao Tong University**, Mar. 2013
-* B.S. in Information Engineering (Honors Class), Minor in Finance, **Shanghai Jiao Tong University**, Jul. 2010
+* Ph.D. in Electrical Engineering, **The University of British Columbia**, Sep 2021
+* M.S. in Communication and Information Engineering, **Northwestern Polytechnical University**, Mar. 2017
+* B.S. in Communication Engineering, **Northwestern Polytechnical University**, Jul. 2014
 
 Professional Experience
 ======
-* **Research Scientist**, Facebook Inc., Menlo Park, CA, USA, Jan. 2019 - Present
-* **Research Assistant**, The Ohio State University, OH, USA, Aug. 2013 - Dec. 2018
-* **Software Engineer Intern**, Facebook Inc., Menlo Park, CA, USA, May 2017 - Aug. 2017
-* **Research Assistant**, University of Macau, Macau, China, Jun. 2016 - Aug. 2016
-* **Research Assistant**, University of Macau, Macau, China, Jun. 2015 - Aug. 2015
+* **Research Assistant**, The University of British Columbia, Kelowna, BC, Canada, Jan. 2018 - Sep. 2021
+* **Engineer**, Huawei Technologies Co., Ltd., Xi'an, China, Mar. 2017 - Oct. 2017
   
 Skills
 ======
