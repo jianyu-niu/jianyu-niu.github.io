@@ -10,7 +10,7 @@ redirect_from:
 
 Short Bios
 ------
-I am currently a research associate at the [Department of Computer Science and Engineering](http://cse.sustech.edu.cn/en) of [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech). I received my Ph.D. degree from the University of British Columbia in 2021. My advisors are [Chen Feng](https://engineering.ok.ubc.ca/about/contact/chen-feng/). I obtained my master's and bachelor's degrees from Northwestern Polytechnical University in 2017 and 2014 respectively.
+I am currently a research associate at the [Department of Computer Science and Engineering](http://cse.sustech.edu.cn/en) of [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech). I received my Ph.D. degree from the University of British Columbia in 2021. My advisors is [Chen Feng](https://engineering.ok.ubc.ca/about/contact/chen-feng/). I obtained my master's and bachelor's degrees from Northwestern Polytechnical University in 2017 and 2014, respectively.
 
 News
 ------
@@ -29,28 +29,28 @@ _IEEE/ACM International Symposium on Quality of Service_, Virtual, Jun. 2021.
 **Jianyu Niu**, Fangyu Gai, Mohammad Mussadiq Jalalzai, and Chen Feng  
 _IEEE International Conference on Computer Communications_, Virtual, May. 2021.
 1. **<small>[Performance'20]</small> Incentive Analysis of Bitcoin-NG, Revisited**  
-**Jianyu Niu**, Ziyu Wang, Fangyu Gai, and Chen Feng
-_{IFIP $WG_{7.3}$ Performance_, Virtual, Nov. 2020.
+**Jianyu Niu**, Ziyu Wang, Fangyu Gai, and Chen Feng 
+_International Symposium on Computer Performance, Modeling, Measurements and Evaluation_, Virtual, Nov. 2020.
 1. **<small>[ICDCS'19]</small> Selfish Mining in Ethereum**  
-**Jianyu Niu**, and Chen Feng,
+**Jianyu Niu**, and Chen Feng 
 _IEEE International Conference on Distributed Computing Systems_, Dallas, Texas, Jun. 2019.
 
 Journal Publications
 ---
 1. **<small>[TDSC]</small> The Hermes BFT for Blockchains**  
-Mohammad Jalalzai, Chen Feng, Costas Busch, Golden, Richard III, and **Jianyu Niu**
+Mohammad Jalalzai, Chen Feng, Costas Busch, Golden, Richard III, and **Jianyu Niu**  
 _IEEE Transactions on Dependable and Secure Computing_, 2021.
 1. **<small>[OE]</small> Error Rate Analysis of Few-Mode Fiber Based Free-Space Optical Communication**  
-Xingjie Fan, **Jianyu Niu**, Jing Ma, Yiming Bian and Julian Cheng
+Xingjie Fan, **Jianyu Niu**, Jing Ma, Yiming Bian and Julian Cheng  
 _Optics Express_, 2021.
 1. **<small>[CWL]</small> An Efficient Information Sampling Method for Multi-category RFID Systems**  
-Chu Chu, **Jianyu Niu**, Hui Ma, Jian Su, Rui Xu, and Guangjun Wen
+Chu Chu, **Jianyu Niu**, Hui Ma, Jian Su, Rui Xu, and Guangjun Wen 
 _IEEE Wireless Communications Letters_, 2021.
 1. **<small>[PTL]</small> Few-Mode Fiber Based Free-Space Optical Communication With Nonzero Boresight Pointing Errors**  
-Xingjie Fan, **Jianyu Niu**, Julian Cheng, and Jing Ma
+Xingjie Fan, **Jianyu Niu**, Julian Cheng, and Jing Ma  
 _Photonics Technology Letters_, 2021.
 1. **<small>[PEVA]</small> Incentive Analysis of Bitcoin-NG, Revisited**  
-**Jianyu Niu**, Ziyu Wang, Fangyu Gai, and Chen Feng,
+**Jianyu Niu**, Ziyu Wang, Fangyu Gai, and Chen Feng  
 _Elsevier journal Performance Evaluation_, 2020.
 
 Professional Activities
