@@ -21,7 +21,7 @@ Conference Publications
 1. **<small>[ICDCS'21]</small> Dissecting the Performance of Chained-BFT**  
 Fangyu Gai, Ali Farahbakhsh, **Jianyu Niu**, Chen Feng, Ivan Beschastnikh, Hao Duan  
 _IEEE International Conference on Distributed Computing Systems_, Virtual, Jul. 2021.
-1. **<small>[IQWoS'21]</small> Cumulus: A Secure BFT-based Sidechain for Off-chain Scaling (short paper)**  
+1. **<small>[IWQoS'21]</small> Cumulus: A Secure BFT-based Sidechain for Off-chain Scaling (short paper)**  
 Fangyu Gai, **Jianyu Niu**, Chen Feng, Seyed Ali Tabatabaee, Mohammad Mussadiq Jalalzai, Chen Feng  
 _IEEE/ACM International Symposium on Quality of Service_, Virtual, Jun. 2021.
 1. **<small>[INFOCOM'21]</small> On the Performance of Pipelined HotStuff**  
