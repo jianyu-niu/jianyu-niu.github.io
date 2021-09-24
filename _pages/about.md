@@ -16,8 +16,27 @@ News
 ------
 - (2021/05)**[Committee]** I am invited to serve on the Program Committee for MSN 2021.
 
+
+Preprints
+------
+1. **Leaderless Byzantine Fault Tolerant Consensus**  
+**Jianyu Niu**, and Chen Feng 
+[Paper](https://arxiv.org/pdf/2012.01636.pdf)[Selected as reading list by Stanford EE374](http://web.stanford.edu/class/ee374/)
+1. **Fast-Hotstuff: A Fast and Resilient Hotstuff Protocol**  
+Mohammad Jalalzai, **Jianyu Niu**, Chen Feng, and Fangyu Gai
+[Paper](https://arxiv.org/pdf/2010.11454.pdf)[Selected as reading list by Stanford EE374](http://web.stanford.edu/class/ee374/)
+1. **Analysis of Nakamoto Consensus, Revisited**  
+**Jianyu Niu**, Chen Feng, Hoang Dau, Yu-Chih Huang, and Jingge Zhu
+[Paper](https://arxiv.org/pdf/1910.08510.pdf)[Selected as "Paper of the Week" (Issue #31) by ZK Capital](https://zkcapital.substack.com/p/this-week-in-blockchain-research-927?token=eyJ1c2VyX2lkIjoyNzY3MzU2LCJwb3N0X2lkIjoxNTI4MDcsIl8iOiIrK24rMCIsImlhdCI6MTYzMjQ0ODMxNCwiZXhwIjoxNjMyNDUxOTE0LCJpc3MiOiJwdWItNjQ0MSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.n361wEaWHTRxnXO63B-vNwv9mzFIUGk5qCs0q2yScJk)
+1. **SodsBC: A Practical Post-quantum by Design Asynchronous Blockchain Framework**  
+Shlomi~Dolev, Bingyong~Guo, **Jianyu Niu**, and Ziyu~Wang
+[Paper](https://eprint.iacr.org/2020/205.pdf)
+
 Conference Publications
 ------
+1. **<small>[MSN'21]</small> Publish or Perish: Defending Withholding Attack in Dfinity Consensus**  
+Hanzheng Lyu, **Jianyu Niu**, Fangyu Gai and Chen Feng  
+_IEEE International Conference on Mobility, Sensing and Networking_, Virtual, Dec. 2021.
 1. **<small>[ICDCS'21]</small> Dissecting the Performance of Chained-BFT**  
 Fangyu Gai, Ali Farahbakhsh, **Jianyu Niu**, Chen Feng, Ivan Beschastnikh, Hao Duan  
 _IEEE International Conference on Distributed Computing Systems_, Virtual, Jul. 2021.
