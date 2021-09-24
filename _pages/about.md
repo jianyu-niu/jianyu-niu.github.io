@@ -29,7 +29,7 @@ Mohammad Jalalzai, **Jianyu Niu**, Chen Feng, and Fangyu Gai
 **Jianyu Niu**, Chen Feng, Hoang Dau, Yu-Chih Huang, and Jingge Zhu  
 [[Paper]](https://arxiv.org/pdf/1910.08510.pdf) [[Selected as "Paper of the Week" (Issue #31) by ZK Capital]](https://zkcapital.substack.com/p/this-week-in-blockchain-research-927?token=eyJ1c2VyX2lkIjoyNzY3MzU2LCJwb3N0X2lkIjoxNTI4MDcsIl8iOiIrK24rMCIsImlhdCI6MTYzMjQ0ODMxNCwiZXhwIjoxNjMyNDUxOTE0LCJpc3MiOiJwdWItNjQ0MSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.n361wEaWHTRxnXO63B-vNwv9mzFIUGk5qCs0q2yScJk)
 1. **SodsBC: A Practical Post-quantum by Design Asynchronous Blockchain Framework**  
-Shlomi~Dolev, Bingyong~Guo, **Jianyu Niu**, and Ziyu~Wang  
+Shlomi Dolev, Bingyong Guo, **Jianyu Niu**, and Ziyu Wang  
 [[Paper]](https://eprint.iacr.org/2020/205.pdf)
 
 Conference Publications
