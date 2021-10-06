@@ -61,7 +61,7 @@ _IEEE Transactions on Dependable and Secure Computing_, 2021.
 1. **<small>[OE]</small> Error Rate Analysis of Few-Mode Fiber Based Free-Space Optical Communication**  
 Xingjie Fan, **Jianyu Niu**, Jing Ma, Yiming Bian, Julian Cheng  
 _Optics Express_, 2021.
-1. **<small>[CWL]</small> An Efficient Information Sampling Method for Multi-category RFID Systems**  
+1. **<small>[WCL]</small> An Efficient Information Sampling Method for Multi-category RFID Systems**  
 Chu Chu, **Jianyu Niu**, Hui Ma, Jian Su, Rui Xu, Guangjun Wen  
 _IEEE Wireless Communications Letters_, 2021.
 1. **<small>[PTL]</small> Few-Mode Fiber Based Free-Space Optical Communication With Nonzero Boresight Pointing Errors**  
