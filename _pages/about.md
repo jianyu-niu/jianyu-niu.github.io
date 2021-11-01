@@ -10,7 +10,7 @@ redirect_from:
 
 Short Bios
 ------
-I am currently a research associate at the [Department of Computer Science and Engineering](http://cse.sustech.edu.cn/en) of [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech). I received my Ph.D. degree from the University of British Columbia in 2021. My advisors is [Chen Feng](https://engineering.ok.ubc.ca/about/contact/chen-feng/). I obtained my master's and bachelor's degrees from Northwestern Polytechnical University in 2017 and 2014, respectively.
+I am currently a research associate in the lab at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech), hosted by [Yinqian Zhang](https://yinqian.org/). I received my Ph.D. degree from the University of British Columbia in 2021, under the supervision of [Chen Feng](https://engineering.ok.ubc.ca/about/contact/chen-feng/). I obtained my M.S. degree and B.E. degree from Northwestern Polytechnical University in 2017 and 2014, respectively.
 
 News
 ------
