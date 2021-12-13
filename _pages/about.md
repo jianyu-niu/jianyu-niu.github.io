@@ -43,8 +43,8 @@ _IEEE International Conference on Distributed Computing Systems_, Virtual, Jul. 
 1. **<small>[IWQoS'21]</small> Cumulus: A Secure BFT-based Sidechain for Off-chain Scaling (short paper)**  
 Fangyu Gai, **Jianyu Niu**, Chen Feng, Seyed Ali Tabatabaee, Mohammad Mussadiq Jalalzai, Chen Feng  
 _IEEE/ACM International Symposium on Quality of Service_, Virtual, Jun. 2021.
-1. **<small>[INFOCOM'21]</small> On the Performance of Pipelined HotStuff**  
-**Jianyu Niu**, Fangyu Gai, Mohammad Mussadiq Jalalzai, Chen Feng  [[Blogs]](https://salemal.medium.com/on-the-performance-of-pipelined-hotstuff-a8e468f66095)
+1. **<small>[INFOCOM'21]</small> On the Performance of Pipelined HotStuff**  [[Blogs]](https://salemal.medium.com/on-the-performance-of-pipelined-hotstuff-a8e468f66095)  
+**Jianyu Niu**, Fangyu Gai, Mohammad Mussadiq Jalalzai, Chen Feng  
 _IEEE International Conference on Computer Communications_, Virtual, May. 2021.
 1. **<small>[Performance'20]</small> Incentive Analysis of Bitcoin-NG, Revisited**  
 **Jianyu Niu**, Ziyu Wang, Fangyu Gai, Chen Feng  
