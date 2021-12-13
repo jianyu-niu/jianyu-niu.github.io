@@ -44,7 +44,7 @@ _IEEE International Conference on Distributed Computing Systems_, Virtual, Jul. 
 Fangyu Gai, **Jianyu Niu**, Chen Feng, Seyed Ali Tabatabaee, Mohammad Mussadiq Jalalzai, Chen Feng  
 _IEEE/ACM International Symposium on Quality of Service_, Virtual, Jun. 2021.
 1. **<small>[INFOCOM'21]</small> On the Performance of Pipelined HotStuff**  
-**Jianyu Niu**, Fangyu Gai, Mohammad Mussadiq Jalalzai, Chen Feng  
+**Jianyu Niu**, Fangyu Gai, Mohammad Mussadiq Jalalzai, Chen Feng  [[Blogs]](https://salemal.medium.com/on-the-performance-of-pipelined-hotstuff-a8e468f66095)
 _IEEE International Conference on Computer Communications_, Virtual, May. 2021.
 1. **<small>[Performance'20]</small> Incentive Analysis of Bitcoin-NG, Revisited**  
 **Jianyu Niu**, Ziyu Wang, Fangyu Gai, Chen Feng  
@@ -77,8 +77,9 @@ Professional Activities
 - International Conference on Mobility, Sensing and Networking (MSN) [2021](https://ieee-msn.org/2021/)
 
 **Journal Reviewer**
-- IEEE Communications Letters (CL)
+- IEEE Communications Letters (CL), Exemplary Reviewers (2019)
 - IEEE Communications Surveys & Tutorials (COMST)
+- IEEE Transactions on Dependable and Secure Computing (TDSC)
 
 **Conference Reviewer**
 - International Symposium on Cyber Security Cryptology and Machine Learning (CSCML 2021)
