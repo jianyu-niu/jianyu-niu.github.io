@@ -34,7 +34,7 @@ Shlomi Dolev, Bingyong Guo, **Jianyu Niu**, Ziyu Wang
 
 Conference Publications
 ------
-1. **<small>[MSN'21]</small> Publish or Perish: Defending Withholding Attack in Dfinity Consensus [Best paper award]**  
+1. **<small>[MSN'21][Best paper award]</small> Publish or Perish: Defending Withholding Attack in Dfinity Consensus **  
 Hanzheng Lyu, **Jianyu Niu**, Fangyu Gai and Chen Feng  
 _IEEE International Conference on Mobility, Sensing and Networking_, Virtual, Dec. 2021.
 1. **<small>[ICDCS'21]</small> Dissecting the Performance of Chained-BFT**  
