@@ -41,7 +41,7 @@ _IEEE International Conference on Mobility, Sensing and Networking_, Virtual, De
 Fangyu Gai, Ali Farahbakhsh, **Jianyu Niu**, Chen Feng, Ivan Beschastnikh, Hao Duan  
 _IEEE International Conference on Distributed Computing Systems_, Virtual, Jul. 2021.
 1. **<small>[IWQoS'21]</small> Cumulus: A Secure BFT-based Sidechain for Off-chain Scaling (short paper)**  
-Fangyu Gai, **Jianyu Niu**, Chen Feng, Seyed Ali Tabatabaee, Mohammad Mussadiq Jalalzai, Chen Feng  
+Fangyu Gai, **Jianyu Niu**, Seyed Ali Tabatabaee, Chen Feng, Mohammad Mussadiq Jalalzai
 _IEEE/ACM International Symposium on Quality of Service_, Virtual, Jun. 2021.
 1. **<small>[INFOCOM'21]</small> On the Performance of Pipelined HotStuff**  [[Blogs]](https://salemal.medium.com/on-the-performance-of-pipelined-hotstuff-a8e468f66095)  
 **Jianyu Niu**, Fangyu Gai, Mohammad Mussadiq Jalalzai, Chen Feng  
@@ -55,6 +55,9 @@ _IEEE International Conference on Distributed Computing Systems_, Dallas, Texas,
 
 Journal Publications
 ---
+1. **<small>[IOTJ]</small> A Time-Efficient Protocol for Unknown Tag Identification in Large-Scale RFID Systems**  
+Chu Chu, **Jianyu Niu**, Wenxian Zheng, Jian Su, Guangjun Wen   
+_IEEE Internet of Things Journal_, 2022.
 1. **<small>[TDSC]</small> The Hermes BFT for Blockchains**  
 Mohammad Jalalzai, Chen Feng, Costas Busch, Golden, Richard III, **Jianyu Niu**  
 _IEEE Transactions on Dependable and Secure Computing_, 2021.
