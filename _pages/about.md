@@ -12,9 +12,9 @@ Short Bios
 ------
 I am currently a research associate in the lab at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech), hosted by [Yinqian Zhang](https://yinqian.org/). I received my Ph.D. degree from the University of British Columbia in 2021, under the supervision of [Chen Feng](https://engineering.ok.ubc.ca/about/contact/chen-feng/). My research fields include blockchain, distributed system, TEE and computer networks. 
 
-```diff
--Our research lab has multiple openings for Research Associate, Post-doctoral Researchers, Research/Software Engineers, Research Assistants, Research Interns. If you are interested in working with me or any directions of our lab, please drop me an an email for more information.
-```
+
+**Our research lab has multiple openings for Research Associate, Post-doctoral Researchers, Research/Software Engineers, Research Assistants, Research Interns. If you are interested in working with me or any directions of our lab, please drop me an an email for more information.**
+
 News
 ------
 - (2021/05)**[Committee]** I am invited to serve on the Program Committee for MSN 2021.
