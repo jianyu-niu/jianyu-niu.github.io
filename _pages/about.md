@@ -33,6 +33,12 @@ Mohammad Jalalzai, **Jianyu Niu**, Chen Feng, Fangyu Gai
 1. **SodsBC: A Practical Post-quantum by Design Asynchronous Blockchain Framework**  
 Shlomi Dolev, Bingyong Guo, **Jianyu Niu**, Ziyu Wang  
 [[Paper]](https://eprint.iacr.org/2020/205.pdf)
+1. **Crystal: Enhance Blockchain Mining Transparency with Quorum Certificate**  
+**Jianyu Niu**, Fangyu Gai, Runchao Han, Ren Zhang, Yinqian Zhang, Chen Feng  
+[[Paper]]()
+1. **When Power-of-d-Choices Meets Priority**  
+Jianyu Niu, Chunpu Wang, Hong Xu, Chen Feng  
+[[Paper]]()
 
 Conference Publications
 ------
@@ -85,7 +91,7 @@ Professional Activities
 - IEEE Communications Letters (CL), Exemplary Reviewers (2019)
 - IEEE Communications Surveys & Tutorials (COMST)
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
-
+- IEEE Transactions on Communications (TCOM)
 **Conference Reviewer**
 - International Symposium on Cyber Security Cryptology and Machine Learning (CSCML 2021)
 
