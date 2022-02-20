@@ -37,7 +37,7 @@ Shlomi Dolev, Bingyong Guo, **Jianyu Niu**, Ziyu Wang
 **Jianyu Niu**, Fangyu Gai, Runchao Han, Ren Zhang, Yinqian Zhang, Chen Feng  
 [[Paper]]()
 1. **When Power-of-d-Choices Meets Priority**  
-Jianyu Niu, Chunpu Wang, Hong Xu, Chen Feng  
+**Jianyu Niu**, Chunpu Wang, Hong Xu, Chen Feng  
 [[Paper]]()
 
 Conference Publications
