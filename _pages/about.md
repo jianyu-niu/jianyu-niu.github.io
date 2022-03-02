@@ -84,6 +84,9 @@ _Elsevier journal Performance Evaluation_, 2020.
 
 Professional Activities
 -----
+**Editorial Review Board**
+- International Journal of Blockchain Applications and Secure Computing (IJBASC)
+
 **Program Committee Member**
 - International Conference on Mobility, Sensing and Networking (MSN) [2021](https://ieee-msn.org/2021/)
 
@@ -92,6 +95,7 @@ Professional Activities
 - IEEE Communications Surveys & Tutorials (COMST)
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
 - IEEE Transactions on Communications (TCOM)
+
 **Conference Reviewer**
 - International Symposium on Cyber Security Cryptology and Machine Learning (CSCML 2021)
 
