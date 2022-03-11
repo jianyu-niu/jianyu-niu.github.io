@@ -39,7 +39,7 @@ Shlomi Dolev, Bingyong Guo, **Jianyu Niu**, Ziyu Wang
 1. **When Power-of-d-Choices Meets Priority**  
 **Jianyu Niu**, Chunpu Wang, Hong Xu, Chen Feng  
 [[Paper]]()
-1. **Devouring the Leader Bottleneck in BFT Consensus**
+1. **Devouring the Leader Bottleneck in BFT Consensus**  
 Fangyu Gai, **Jianyu Niu**, Ivan Beschastnikh, Chen Feng, Sheng Wang  
 [[Paper]](https://arxiv.org/pdf/2203.05158.pdf)
 
