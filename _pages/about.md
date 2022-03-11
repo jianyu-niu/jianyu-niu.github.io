@@ -39,6 +39,9 @@ Shlomi Dolev, Bingyong Guo, **Jianyu Niu**, Ziyu Wang
 1. **When Power-of-d-Choices Meets Priority**  
 **Jianyu Niu**, Chunpu Wang, Hong Xu, Chen Feng  
 [[Paper]]()
+1. **Devouring the Leader Bottleneck in BFT Consensus**
+Fangyu Gai, **Jianyu Niu**, Ivan Beschastnikh, Chen Feng, Sheng Wang  
+[[Paper]](https://arxiv.org/pdf/2203.05158.pdf)
 
 Conference Publications
 ------
@@ -99,4 +102,4 @@ Professional Activities
 **Conference Reviewer**
 - International Symposium on Cyber Security Cryptology and Machine Learning (CSCML 2021)
 
-Last updated: 2021/09/01.
+Last updated: 2022/03/11.
