@@ -36,15 +36,15 @@ Shlomi Dolev, Bingyong Guo, **Jianyu Niu**, Ziyu Wang
 1. **Crystal: Enhance Blockchain Mining Transparency with Quorum Certificate**  
 **Jianyu Niu**, Fangyu Gai, Runchao Han, Ren Zhang, Yinqian Zhang, Chen Feng  
 [[Paper]]()
-1. **When Power-of-d-Choices Meets Priority**  
-**Jianyu Niu**, Chunpu Wang, Hong Xu, Chen Feng  
-[[Paper]]()
 1. **Devouring the Leader Bottleneck in BFT Consensus**  
 Fangyu Gai, **Jianyu Niu**, Ivan Beschastnikh, Chen Feng, Sheng Wang  
 [[Paper]](https://arxiv.org/pdf/2203.05158.pdf)
 
 Conference Publications
 ------
+1. **<small>[IWQoS'22]</small> When Power-of-d-Choices Meets Priority**  
+**Jianyu Niu**, Chunpu Wang, Hong Xu, Chen Feng  
+_IEEE/ACM International Symposium on Quality of Service_, Virtual, Jun. 2022.
 1. **<small>[MSN'21][Best paper award]</small> Publish or Perish: Defending Withholding Attack in Dfinity Consensus**  
 Hanzheng Lyu, **Jianyu Niu**, Fangyu Gai and Chen Feng  
 _IEEE International Conference on Mobility, Sensing and Networking_, Virtual, Dec. 2021.
