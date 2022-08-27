@@ -17,7 +17,7 @@ I am currently a research assistant professor at [Southern University of Science
 
 News
 ------
-- (2022/08)**[Paper]** Our paper, “Devouring the Leader Bottleneck in BFT Consensus”, has been accepted to [ICDE 2023](https://icde2023.ics.uci.edu/).
+- (2022/08)**[Paper]** Our paper, “Scaling Blockchain Consensus via a Robust Shared Mempool”, has been accepted to [ICDE 2023](https://icde2023.ics.uci.edu/).
 - (2022/04)**[Paper]** Our paper, “When Power-of-d-Choices Meets Priority”, has been accepted to [IWQoS 2022](https://iwqos2022.ieee-iwqos.org/).
 - (2021/12)**[Paper]** Our paper, “Publish or Perish: Defending Withholding Attack in Dfinity Consensus”, has been selected as the best paper in [MSN 2021](https://www.ieee-msn.org/2021/).
 - (2021/05)**[Committee]** I am invited to serve on the Program Committee for [MSN 2021](https://www.ieee-msn.org/2021/).
@@ -43,7 +43,7 @@ Shlomi Dolev, Bingyong Guo, **Jianyu Niu**, Ziyu Wang
 
 Conference Publications
 ------
- 1. **<small>[ICDE'23]</small> Devouring the Leader Bottleneck in BFT Consensus**  
+ 1. **<small>[ICDE'23]</small> Scaling Blockchain Consensus via a Robust Shared Mempool**  
 Fangyu Gai*, **Jianyu Niu***(*co-first authors), Ivan Beschastnikh, Chen Feng, Sheng Wang  
 _IEEE International Conference on Data Engineering_.
 1. **<small>[IWQoS'22]</small> When Power-of-d-Choices Meets Priority**  
