@@ -17,6 +17,8 @@ I am currently a research assistant professor at [Southern University of Science
 
 News
 ------
+- (2022/08)**[Paper]** Our paper, “Narrator: Secure and Practical State Continuity for Trusted Execution on Cloud”, has been accepted to [CCS 2022](https://www.sigsac.org/ccs/CCS2022/).
+- (2022/08)**[Paper]** Our paper, “ENGRAFT: Enclave-guarded Raft on Byzantine Faulty Nodes”, has been accepted to [CCS 2022](https://www.sigsac.org/ccs/CCS2022/).
 - (2022/08)**[Paper]** Our paper, “Scaling Blockchain Consensus via a Robust Shared Mempool”, has been accepted to [ICDE 2023](https://icde2023.ics.uci.edu/).
 - (2022/04)**[Paper]** Our paper, “When Power-of-d-Choices Meets Priority”, has been accepted to [IWQoS 2022](https://iwqos2022.ieee-iwqos.org/).
 - (2021/12)**[Paper]** Our paper, “Publish or Perish: Defending Withholding Attack in Dfinity Consensus”, has been selected as the best paper in [MSN 2021](https://www.ieee-msn.org/2021/).
@@ -43,8 +45,14 @@ Shlomi Dolev, Bingyong Guo, **Jianyu Niu**, Ziyu Wang
 
 Conference Publications
 ------
+ 1. **<small>[CCS'22]</small> Scaling Blockchain Consensus via a Robust Shared Mempool**  
+**Jianyu Niu**, Wei Peng, Xiaokuan Zhang, Yinqian Zhang  
+_ACM Conference on Computer and Communications Security_.
+ 1. **<small>[CCS'22]</small> ENGRAFT: Enclave-guarded Raft on Byzantine Faulty Nodes**  
+Wei Li, Deng Sen, **Jianyu Niu**, Michael K. Reiter, Yinqian Zhang  
+_ACM Conference on Computer and Communications Security_.
  1. **<small>[ICDE'23]</small> Scaling Blockchain Consensus via a Robust Shared Mempool**  
-Fangyu Gai*, **Jianyu Niu***(*co-first authors), Ivan Beschastnikh, Chen Feng, Sheng Wang  
+Fangyu Gai*, **Jianyu Niu*** (*co-first authors), Ivan Beschastnikh, Chen Feng, Sheng Wang  
 _IEEE International Conference on Data Engineering_.
 1. **<small>[IWQoS'22]</small> When Power-of-d-Choices Meets Priority**  
 **Jianyu Niu**, Chunpu Wang, Hong Xu, Chen Feng  
