@@ -22,7 +22,6 @@ News
 - (2022/08)**[Paper]** Our paper, “Scaling Blockchain Consensus via a Robust Shared Mempool”, has been accepted to [ICDE 2023](https://icde2023.ics.uci.edu/).
 - (2022/04)**[Paper]** Our paper, “When Power-of-d-Choices Meets Priority”, has been accepted to [IWQoS 2022](https://iwqos2022.ieee-iwqos.org/).
 - (2021/12)**[Paper]** Our paper, “Publish or Perish: Defending Withholding Attack in Dfinity Consensus”, has been selected as the best paper in [MSN 2021](https://www.ieee-msn.org/2021/).
-- (2021/05)**[Committee]** I am invited to serve on the Program Committee for [MSN 2021](https://www.ieee-msn.org/2021/).
 
 Preprints
 ------
