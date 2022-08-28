@@ -48,7 +48,7 @@ Conference Publications
 **Jianyu Niu**, Wei Peng, Xiaokuan Zhang, Yinqian Zhang  
 _ACM Conference on Computer and Communications Security_.
  1. **<small>[CCS'22]</small> ENGRAFT: Enclave-guarded Raft on Byzantine Faulty Nodes**  
-Wei Li, Deng Sen, **Jianyu Niu**, Michael K. Reiter, Yinqian Zhang  
+Weili Wang, Sen Deng, **Jianyu Niu**, Michael K. Reiter, Yinqian Zhang  
 _ACM Conference on Computer and Communications Security_.
  1. **<small>[ICDE'23]</small> Scaling Blockchain Consensus via a Robust Shared Mempool**  
 Fangyu Gai*, **Jianyu Niu*** (*co-first authors), Ivan Beschastnikh, Chen Feng, Sheng Wang  
