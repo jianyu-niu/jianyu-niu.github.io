@@ -44,7 +44,7 @@ Shlomi Dolev, Bingyong Guo, **Jianyu Niu**, Ziyu Wang
 
 Conference Publications
 ------
- 1. **<small>[CCS'22]</small> Scaling Blockchain Consensus via a Robust Shared Mempool**  
+ 1. **<small>[CCS'22]</small> Narrator: Secure and Practical State Continuity for Trusted Execution on Cloud**  
 **Jianyu Niu**, Wei Peng, Xiaokuan Zhang, Yinqian Zhang  
 _ACM Conference on Computer and Communications Security_.
  1. **<small>[CCS'22]</small> ENGRAFT: Enclave-guarded Raft on Byzantine Faulty Nodes**  
