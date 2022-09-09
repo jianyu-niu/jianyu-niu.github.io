@@ -17,7 +17,7 @@ I am currently a research assistant professor at [Southern University of Science
 
 News
 ------
-- (2022/08)**[Paper]** Our paper, “Narrator: Secure and Practical State Continuity for Trusted Execution on Cloud”, has been accepted to [CCS 2022](https://www.sigsac.org/ccs/CCS2022/).
+- (2022/08)**[Paper]** Our paper, “Narrator: Secure and Practical State Continuity for Trusted Execution in the Cloud”, has been accepted to [CCS 2022](https://www.sigsac.org/ccs/CCS2022/).
 - (2022/08)**[Paper]** Our paper, “ENGRAFT: Enclave-guarded Raft on Byzantine Faulty Nodes”, has been accepted to [CCS 2022](https://www.sigsac.org/ccs/CCS2022/).
 - (2022/08)**[Paper]** Our paper, “Scaling Blockchain Consensus via a Robust Shared Mempool”, has been accepted to [ICDE 2023](https://icde2023.ics.uci.edu/).
 - (2022/04)**[Paper]** Our paper, “When Power-of-d-Choices Meets Priority”, has been accepted to [IWQoS 2022](https://iwqos2022.ieee-iwqos.org/).
@@ -44,7 +44,7 @@ Shlomi Dolev, Bingyong Guo, **Jianyu Niu**, Ziyu Wang
 
 Conference Publications
 ------
- 1. **<small>[CCS'22]</small> Narrator: Secure and Practical State Continuity for Trusted Execution on Cloud**  
+ 1. **<small>[CCS'22]</small> Narrator: Secure and Practical State Continuity for Trusted Execution in the Cloud**  
 **Jianyu Niu**, Wei Peng, Xiaokuan Zhang, Yinqian Zhang  
 _ACM Conference on Computer and Communications Security_.
  1. **<small>[CCS'22]</small> ENGRAFT: Enclave-guarded Raft on Byzantine Faulty Nodes**  
@@ -77,21 +77,9 @@ _IEEE International Conference on Distributed Computing Systems_, Dallas, Texas,
 
 Journal Publications
 ---
-1. **<small>[IOTJ]</small> A Time-Efficient Protocol for Unknown Tag Identification in Large-Scale RFID Systems**  
-Chu Chu, **Jianyu Niu**, Wenxian Zheng, Jian Su, Guangjun Wen   
-_IEEE Internet of Things Journal_, 2022.
 1. **<small>[TDSC]</small> The Hermes BFT for Blockchains**  
 Mohammad Jalalzai, Chen Feng, Costas Busch, Golden, Richard III, **Jianyu Niu**  
 _IEEE Transactions on Dependable and Secure Computing_, 2021.
-1. **<small>[OE]</small> Error Rate Analysis of Few-Mode Fiber Based Free-Space Optical Communication**  
-Xingjie Fan, **Jianyu Niu**, Jing Ma, Yiming Bian, Julian Cheng  
-_Optics Express_, 2021.
-1. **<small>[WCL]</small> An Efficient Information Sampling Method for Multi-category RFID Systems**  
-Chu Chu, **Jianyu Niu**, Hui Ma, Jian Su, Rui Xu, Guangjun Wen  
-_IEEE Wireless Communications Letters_, 2021.
-1. **<small>[PTL]</small> Few-Mode Fiber Based Free-Space Optical Communication With Nonzero Boresight Pointing Errors**  
-Xingjie Fan, **Jianyu Niu**, Julian Cheng, Jing Ma  
-_Photonics Technology Letters_, 2021.
 1. **<small>[PEVA]</small> Incentive Analysis of Bitcoin-NG, Revisited**  
 **Jianyu Niu**, Ziyu Wang, Fangyu Gai, Chen Feng  
 _Elsevier journal Performance Evaluation_, 2020.
