@@ -77,7 +77,7 @@ Journal Publications
 ---
 1. **<small>[TDSC]</small> Crystal: Enhance Blockchain Mining Transparency with Quorum Certificate**  
 **Jianyu Niu**, Fangyu Gai, Runchao Han, Ren Zhang, Yinqian Zhang, Chen Feng  
-_IEEE Transactions on Dependable and Secure Computing_, 2021.
+_IEEE Transactions on Dependable and Secure Computing_, 2022.
 1. **<small>[TDSC]</small> The Hermes BFT for Blockchains**  
 Mohammad Jalalzai, Chen Feng, Costas Busch, Golden, Richard III, **Jianyu Niu**  
 _IEEE Transactions on Dependable and Secure Computing_, 2021.
