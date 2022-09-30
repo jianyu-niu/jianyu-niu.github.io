@@ -17,6 +17,7 @@ I am currently a research assistant professor at [Southern University of Science
 
 News
 ------
+- (2022/08)**[Paper]** Our paper, “Crystal: Enhancing Blockchain Mining Transparency with Quorum Certificate”, has been accepted to [TDSC](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=8858).
 - (2022/08)**[Paper]** Our paper, “Narrator: Secure and Practical State Continuity for Trusted Execution in the Cloud”, has been accepted to [CCS 2022](https://www.sigsac.org/ccs/CCS2022/).
 - (2022/08)**[Paper]** Our paper, “ENGRAFT: Enclave-guarded Raft on Byzantine Faulty Nodes”, has been accepted to [CCS 2022](https://www.sigsac.org/ccs/CCS2022/).
 - (2022/08)**[Paper]** Our paper, “Scaling Blockchain Consensus via a Robust Shared Mempool”, has been accepted to [ICDE 2023](https://icde2023.ics.uci.edu/).
@@ -37,9 +38,6 @@ Mohammad Jalalzai, **Jianyu Niu**, Chen Feng, Fangyu Gai
 1. **SodsBC: A Practical Post-quantum by Design Asynchronous Blockchain Framework**  
 Shlomi Dolev, Bingyong Guo, **Jianyu Niu**, Ziyu Wang  
 [[Paper]](https://eprint.iacr.org/2020/205.pdf)
-1. **Crystal: Enhance Blockchain Mining Transparency with Quorum Certificate**  
-**Jianyu Niu**, Fangyu Gai, Runchao Han, Ren Zhang, Yinqian Zhang, Chen Feng  
-[[Paper]]()
 
 
 Conference Publications
@@ -77,6 +75,9 @@ _IEEE International Conference on Distributed Computing Systems_, Dallas, Texas,
 
 Journal Publications
 ---
+1. **<small>[TDSC]</small> Crystal: Enhance Blockchain Mining Transparency with Quorum Certificate**  
+**Jianyu Niu**, Fangyu Gai, Runchao Han, Ren Zhang, Yinqian Zhang, Chen Feng  
+_IEEE Transactions on Dependable and Secure Computing_, 2021.
 1. **<small>[TDSC]</small> The Hermes BFT for Blockchains**  
 Mohammad Jalalzai, Chen Feng, Costas Busch, Golden, Richard III, **Jianyu Niu**  
 _IEEE Transactions on Dependable and Secure Computing_, 2021.
