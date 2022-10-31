@@ -42,20 +42,20 @@ Shlomi Dolev, Bingyong Guo, **Jianyu Niu**, Ziyu Wang
 
 Conference Publications
 ------
+ 1. **<small>[ICDE'23]</small> Scaling Blockchain Consensus via a Robust Shared Mempool**  
+Fangyu Gai*, **Jianyu Niu*** (*co-first authors), Ivan Beschastnikh, Chen Feng, Sheng Wang  
+_IEEE International Conference on Data Engineering_.
  1. **<small>[CCS'22]</small> Narrator: Secure and Practical State Continuity for Trusted Execution in the Cloud**  
 **Jianyu Niu**, Wei Peng, Xiaokuan Zhang, Yinqian Zhang  
 _ACM Conference on Computer and Communications Security_.
  1. **<small>[CCS'22]</small> ENGRAFT: Enclave-guarded Raft on Byzantine Faulty Nodes**  
 Weili Wang, Sen Deng, **Jianyu Niu**, Michael K. Reiter, Yinqian Zhang  
 _ACM Conference on Computer and Communications Security_.
- 1. **<small>[ICDE'23]</small> Scaling Blockchain Consensus via a Robust Shared Mempool**  
-Fangyu Gai*, **Jianyu Niu*** (*co-first authors), Ivan Beschastnikh, Chen Feng, Sheng Wang  
-_IEEE International Conference on Data Engineering_.
 1. **<small>[IWQoS'22]</small> When Power-of-d-Choices Meets Priority**  
 **Jianyu Niu**, Chunpu Wang, Hong Xu, Chen Feng  
 _IEEE/ACM International Symposium on Quality of Service_, Virtual, Jun. 2022.
 1. **<small>[MSN'21]</small> Publish or Perish: Defending Withholding Attack in Dfinity Consensus**  (<font color=Red>Best Paper Award</font>)  
-Hanzheng Lyu, **Jianyu Niu**, Fangyu Gai and Chen Feng   
+Hanzheng Lyu, **Jianyu Niu**, Fangyu Gai, Chen Feng   
 _IEEE International Conference on Mobility, Sensing and Networking_, Virtual, Dec. 2021.  
 1. **<small>[ICDCS'21]</small> Dissecting the Performance of Chained-BFT**  
 Fangyu Gai, Ali Farahbakhsh, **Jianyu Niu**, Chen Feng, Ivan Beschastnikh, Hao Duan  
@@ -102,4 +102,4 @@ Professional Activities
 **Conference Reviewer**
 - International Symposium on Cyber Security Cryptology and Machine Learning (CSCML 2021)
 
-Last updated: 2022/03/11.
+Last updated: 2022/10/31.
