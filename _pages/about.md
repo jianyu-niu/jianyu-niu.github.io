@@ -28,7 +28,7 @@ Preprints
 ------
 1. **Analysis of Nakamoto Consensus, Revisited**  
 **Jianyu Niu**, Chen Feng, Hoang Dau, Yu-Chih Huang, Jingge Zhu  
-[[Paper]](https://arxiv.org/pdf/1910.08510.pdf) [[Selected as "Paper of the Week" (Issue #31) by ZK Capital]](https://zkcapital.substack.com/p/this-week-in-blockchain-research-927?
+[[Paper]](https://arxiv.org/pdf/1910.08510.pdf) [[Selected as "Paper of the Week" (Issue #31) by ZK Capital]](https://zkcapital.substack.com/p/this-week-in-blockchain-research-927?token=eyJ1c2VyX2lkIjoyNzY3MzU2LCJwb3N0X2lkIjoxNTI4MDcsIl8iOiIrK24rMCIsImlhdCI6MTYzMjQ0ODMxNCwiZXhwIjoxNjMyNDUxOTE0LCJpc3MiOiJwdWItNjQ0MSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.n361wEaWHTRxnXO63B-vNwv9mzFIUGk5qCs0q2yScJk)
 1. **Leaderless Byzantine Fault Tolerant Consensus**  
 **Jianyu Niu**, Chen Feng  
 [[Paper]](https://arxiv.org/pdf/2012.01636.pdf) [[Selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/)
@@ -38,7 +38,7 @@ Shlomi Dolev, Bingyong Guo, **Jianyu Niu**, Ziyu Wang
 1. **Fast-Hotstuff: A Fast and Resilient Hotstuff Protocol**  
 Mohammad Jalalzai, **Jianyu Niu**, Chen Feng, Fangyu Gai  
 [[Paper]](https://arxiv.org/pdf/2010.11454.pdf) [[Selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/)
-token=eyJ1c2VyX2lkIjoyNzY3MzU2LCJwb3N0X2lkIjoxNTI4MDcsIl8iOiIrK24rMCIsImlhdCI6MTYzMjQ0ODMxNCwiZXhwIjoxNjMyNDUxOTE0LCJpc3MiOiJwdWItNjQ0MSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.n361wEaWHTRxnXO63B-vNwv9mzFIUGk5qCs0q2yScJk)
+
 
 
 Conference Publications
@@ -100,4 +100,4 @@ Professional Activities
 **Conference Reviewer**
 - International Symposium on Cyber Security Cryptology and Machine Learning (CSCML 2021)
 
-Last updated: 2022/10/31.
+Last updated: 2022/11/24.
