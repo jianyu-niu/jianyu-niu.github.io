@@ -10,7 +10,7 @@ redirect_from:
 
 Short Bios
 ------
-I am currently a research assistant professor at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech), working with by [Prof. Yinqian Zhang](https://yinqian.org/). I received my Ph.D. degree from [The University of British Columbia](https://ok.ubc.ca/) (UBC) in Sep. 2021, under the supervision of [Prof. Chen Feng](https://engineering.ok.ubc.ca/about/contact/chen-feng/). My research fields include blockchain, distributed system, TEE and computer networks. 
+I am currently a research assistant professor at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech), working with [Prof. Yinqian Zhang](https://yinqian.org/). I received my Ph.D. degree from [The University of British Columbia](https://ok.ubc.ca/) (UBC) in Sep. 2021, under the supervision of [Prof. Chen Feng](https://engineering.ok.ubc.ca/about/contact/chen-feng/). My research fields include blockchain, distributed systems, TEE and computer networks. 
 
 
 **Our research lab has multiple openings for Research Associate, Post-doctoral Researchers, Research/Software Engineers, Research Assistants, Research Interns. If you are interested in working with me or any directions of our lab, please drop me or Prof. Zhang an email for more information.**
@@ -26,18 +26,19 @@ News
 
 Preprints
 ------
+1. **Analysis of Nakamoto Consensus, Revisited**  
+**Jianyu Niu**, Chen Feng, Hoang Dau, Yu-Chih Huang, Jingge Zhu  
+[[Paper]](https://arxiv.org/pdf/1910.08510.pdf) [[Selected as "Paper of the Week" (Issue #31) by ZK Capital]](https://zkcapital.substack.com/p/this-week-in-blockchain-research-927?
 1. **Leaderless Byzantine Fault Tolerant Consensus**  
 **Jianyu Niu**, Chen Feng  
 [[Paper]](https://arxiv.org/pdf/2012.01636.pdf) [[Selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/)
-1. **Fast-Hotstuff: A Fast and Resilient Hotstuff Protocol**  
-Mohammad Jalalzai, **Jianyu Niu**, Chen Feng, Fangyu Gai  
-[[Paper]](https://arxiv.org/pdf/2010.11454.pdf) [[Selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/)
-1. **Analysis of Nakamoto Consensus, Revisited**  
-**Jianyu Niu**, Chen Feng, Hoang Dau, Yu-Chih Huang, Jingge Zhu  
-[[Paper]](https://arxiv.org/pdf/1910.08510.pdf) [[Selected as "Paper of the Week" (Issue #31) by ZK Capital]](https://zkcapital.substack.com/p/this-week-in-blockchain-research-927?token=eyJ1c2VyX2lkIjoyNzY3MzU2LCJwb3N0X2lkIjoxNTI4MDcsIl8iOiIrK24rMCIsImlhdCI6MTYzMjQ0ODMxNCwiZXhwIjoxNjMyNDUxOTE0LCJpc3MiOiJwdWItNjQ0MSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.n361wEaWHTRxnXO63B-vNwv9mzFIUGk5qCs0q2yScJk)
 1. **SodsBC: A Practical Post-quantum by Design Asynchronous Blockchain Framework**  
 Shlomi Dolev, Bingyong Guo, **Jianyu Niu**, Ziyu Wang  
 [[Paper]](https://eprint.iacr.org/2020/205.pdf)
+1. **Fast-Hotstuff: A Fast and Resilient Hotstuff Protocol**  
+Mohammad Jalalzai, **Jianyu Niu**, Chen Feng, Fangyu Gai  
+[[Paper]](https://arxiv.org/pdf/2010.11454.pdf) [[Selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/)
+token=eyJ1c2VyX2lkIjoyNzY3MzU2LCJwb3N0X2lkIjoxNTI4MDcsIl8iOiIrK24rMCIsImlhdCI6MTYzMjQ0ODMxNCwiZXhwIjoxNjMyNDUxOTE0LCJpc3MiOiJwdWItNjQ0MSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.n361wEaWHTRxnXO63B-vNwv9mzFIUGk5qCs0q2yScJk)
 
 
 Conference Publications
@@ -60,9 +61,6 @@ _IEEE International Conference on Mobility, Sensing and Networking_, Virtual, De
 1. **<small>[ICDCS'21]</small> Dissecting the Performance of Chained-BFT**  
 Fangyu Gai, Ali Farahbakhsh, **Jianyu Niu**, Chen Feng, Ivan Beschastnikh, Hao Duan  
 _IEEE International Conference on Distributed Computing Systems_, Virtual, Jul. 2021.
-1. **<small>[IWQoS'21]</small> Cumulus: A Secure BFT-based Sidechain for Off-chain Scaling (short paper)**  
-Fangyu Gai, **Jianyu Niu**, Seyed Ali Tabatabaee, Chen Feng, Mohammad Mussadiq Jalalzai  
-_IEEE/ACM International Symposium on Quality of Service_, Virtual, Jun. 2021.
 1. **<small>[INFOCOM'21]</small> On the Performance of Pipelined HotStuff**  [[Blogs]](https://salemal.medium.com/on-the-performance-of-pipelined-hotstuff-a8e468f66095)  
 **Jianyu Niu**, Fangyu Gai, Mohammad Mussadiq Jalalzai, Chen Feng  
 _IEEE International Conference on Computer Communications_, Virtual, May. 2021.
