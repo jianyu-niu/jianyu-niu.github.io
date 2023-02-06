@@ -17,6 +17,7 @@ I am currently a research assistant professor at [Southern University of Science
 
 News
 ------
+- (2023/02)**[Paper]** Our paper, “SodsBC: A Practical Post-quantum by Design Asynchronous Blockchain Framework”, has been accepted to TDSC.
 - (2022/10)**[Paper]** Our paper, “Crystal: Enhancing Blockchain Mining Transparency with Quorum Certificate”, has been accepted to [TDSC](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=8858).
 - (2022/08)**[Paper]** Our paper, “Narrator: Secure and Practical State Continuity for Trusted Execution in the Cloud”, has been accepted to [CCS 2022](https://www.sigsac.org/ccs/CCS2022/).
 - (2022/08)**[Paper]** Our paper, “ENGRAFT: Enclave-guarded Raft on Byzantine Faulty Nodes”, has been accepted to [CCS 2022](https://www.sigsac.org/ccs/CCS2022/).
@@ -26,18 +27,14 @@ News
 
 Preprints
 ------
-1. **Analysis of Nakamoto Consensus, Revisited**  
+1. **Analysis of Nakamoto Consensus, Revisited** [[Paper]](https://arxiv.org/pdf/1910.08510.pdf) [[Selected as "Paper of the Week" (Issue #31) by ZK Capital]](https://zkcapital.substack.com/p/this-week-in-blockchain-research-927?token=eyJ1c2VyX2lkIjoyNzY3MzU2LCJwb3N0X2lkIjoxNTI4MDcsIl8iOiIrK24rMCIsImlhdCI6MTYzMjQ0ODMxNCwiZXhwIjoxNjMyNDUxOTE0LCJpc3MiOiJwdWItNjQ0MSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.n361wEaWHTRxnXO63B-vNwv9mzFIUGk5qCs0q2yScJk)  
 **Jianyu Niu**, Chen Feng, Hoang Dau, Yu-Chih Huang, Jingge Zhu  
-[[Paper]](https://arxiv.org/pdf/1910.08510.pdf) [[Selected as "Paper of the Week" (Issue #31) by ZK Capital]](https://zkcapital.substack.com/p/this-week-in-blockchain-research-927?token=eyJ1c2VyX2lkIjoyNzY3MzU2LCJwb3N0X2lkIjoxNTI4MDcsIl8iOiIrK24rMCIsImlhdCI6MTYzMjQ0ODMxNCwiZXhwIjoxNjMyNDUxOTE0LCJpc3MiOiJwdWItNjQ0MSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.n361wEaWHTRxnXO63B-vNwv9mzFIUGk5qCs0q2yScJk)
-1. **Leaderless Byzantine Fault Tolerant Consensus**  
+1. **Leaderless Byzantine Fault Tolerant Consensus** [[Paper]](https://arxiv.org/pdf/2012.01636.pdf) [[Selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/)  
 **Jianyu Niu**, Chen Feng  
-[[Paper]](https://arxiv.org/pdf/2012.01636.pdf) [[Selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/)
-1. **SodsBC: A Practical Post-quantum by Design Asynchronous Blockchain Framework**  
-Shlomi Dolev, Bingyong Guo, **Jianyu Niu**, Ziyu Wang  
-[[Paper]](https://eprint.iacr.org/2020/205.pdf)
-1. **Fast-Hotstuff: A Fast and Resilient Hotstuff Protocol**  
+1. **Fast-Hotstuff: A Fast and Resilient Hotstuff Protocol** [[Paper]](https://arxiv.org/pdf/2010.11454.pdf) [[Selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/)  
 Mohammad Jalalzai, **Jianyu Niu**, Chen Feng, Fangyu Gai  
-[[Paper]](https://arxiv.org/pdf/2010.11454.pdf) [[Selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/)
+1. **An Empirical Study on Ethereum Private Transactions and the Security Implications** [[Paper]](https://arxiv.org/abs/2208.02858)  
+Xingyu Lyu, Mengya Zhang, Xiaokuan Zhang, **Jianyu Niu**, Yinqian Zhang, Zhiqiang Lin
 
 
 
@@ -73,6 +70,9 @@ _IEEE International Conference on Distributed Computing Systems_, Dallas, Texas,
 
 Journal Publications
 ---
+1. **<small>[TDSC]</small>  SodsBC: A Practical Post-quantum by Design Asynchronous Blockchain Framework**  
+Shlomi Dolev, Bingyong Guo, **Jianyu Niu**, Ziyu Wang (Alphabetically ordered)  
+_IEEE Transactions on Dependable and Secure Computing_, 2023. 
 1. **<small>[TDSC]</small> Crystal: Enhancing Blockchain Mining Transparency with Quorum Certificate**  
 **Jianyu Niu**, Fangyu Gai, Runchao Han, Ren Zhang, Yinqian Zhang, Chen Feng  
 _IEEE Transactions on Dependable and Secure Computing_, 2022.
