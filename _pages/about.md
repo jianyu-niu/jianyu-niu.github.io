@@ -17,7 +17,7 @@ I am currently a research assistant professor at [Southern University of Science
 
 News
 ------
-- (2023/02)**[Paper]** Our paper, “SodsBC: A Practical Post-quantum by Design Asynchronous Blockchain Framework”, has been accepted to TDSC.
+- (2023/02)**[Paper]** Our paper, “SodsBC: A Practical Post-quantum by Design Asynchronous Blockchain Framework”, has been accepted to [TDSC](https://ieeexplore.ieee.org/document/10041785).
 - (2022/10)**[Paper]** Our paper, “Crystal: Enhancing Blockchain Mining Transparency with Quorum Certificate”, has been accepted to [TDSC](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=8858).
 - (2022/08)**[Paper]** Our paper, “Narrator: Secure and Practical State Continuity for Trusted Execution in the Cloud”, has been accepted to [CCS 2022](https://www.sigsac.org/ccs/CCS2022/).
 - (2022/08)**[Paper]** Our paper, “ENGRAFT: Enclave-guarded Raft on Byzantine Faulty Nodes”, has been accepted to [CCS 2022](https://www.sigsac.org/ccs/CCS2022/).
