@@ -38,10 +38,10 @@ Xingyu Lyu, Mengya Zhang, Xiaokuan Zhang, **Jianyu Niu**, Yinqian Zhang, Zhiqian
 
 
 
-Conference Publications
+Conference Publications (*corresponding author)
 ------
  1. **<small>[ICDE'23]</small> Scaling Blockchain Consensus via a Robust Shared Mempool**  
-Fangyu Gai*, **Jianyu Niu*** (*co-first authors), Ivan Beschastnikh, Chen Feng, Sheng Wang  
+Fangyu Gai, **Jianyu Niu***, Ivan Beschastnikh, Chen Feng, Sheng Wang  
 _IEEE International Conference on Data Engineering_.
  1. **<small>[CCS'22]</small> Narrator: Secure and Practical State Continuity for Trusted Execution in the Cloud**  
 **Jianyu Niu**, Wei Peng, Xiaokuan Zhang, Yinqian Zhang  
@@ -71,7 +71,7 @@ _IEEE International Conference on Distributed Computing Systems_, Dallas, Texas,
 Journal Publications
 ---
 1. **<small>[TDSC]</small>  SodsBC: A Practical Post-quantum by Design Asynchronous Blockchain Framework**  
-Shlomi Dolev, Bingyong Guo, **Jianyu Niu**, Ziyu Wang (Alphabetically ordered)  
+Shlomi Dolev, Bingyong Guo, **Jianyu Niu**, Ziyu Wang (**Alphabetically ordered**)  
 _IEEE Transactions on Dependable and Secure Computing_, 2023. 
 1. **<small>[TDSC]</small> Crystal: Enhancing Blockchain Mining Transparency with Quorum Certificate**  
 **Jianyu Niu**, Fangyu Gai, Runchao Han, Ren Zhang, Yinqian Zhang, Chen Feng  
