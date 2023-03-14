@@ -29,8 +29,9 @@ Preprints
 ------
 1. **Analysis of Nakamoto Consensus, Revisited** [[Paper]](https://arxiv.org/pdf/1910.08510.pdf) [[Selected as "Paper of the Week" (Issue #31) by ZK Capital]](https://zkcapital.substack.com/p/this-week-in-blockchain-research-927?token=eyJ1c2VyX2lkIjoyNzY3MzU2LCJwb3N0X2lkIjoxNTI4MDcsIl8iOiIrK24rMCIsImlhdCI6MTYzMjQ0ODMxNCwiZXhwIjoxNjMyNDUxOTE0LCJpc3MiOiJwdWItNjQ0MSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.n361wEaWHTRxnXO63B-vNwv9mzFIUGk5qCs0q2yScJk)  
 **Jianyu Niu**, Chen Feng, Hoang Dau, Yu-Chih Huang, Jingge Zhu  
-1. **Leaderless Byzantine Fault Tolerant Consensus** [[A variant used in VeChain]](https://www.vechain.org/poa-2-0-finality-with-one-bit/) [[Paper]](https://arxiv.org/pdf/2012.01636.pdf) [[Selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/)  
-**Jianyu Niu**, Chen Feng  
+1. **EBFT: Simplifying BFT Consensus Through Egalitarianism**  
+**Jianyu Niu**, Runchao Han, Shengqi Liu, Fangyu Gai, Ivan Beschastnikh, Yinqian Zhang, Chen Feng  
+**[[One variant used in VeChain]](https://www.vechain.org/poa-2-0-finality-with-one-bit/) [[Paper]](https://arxiv.org/pdf/2012.01636.pdf) [[Previous version selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/)**  
 1. **Fast-Hotstuff: A Fast and Resilient Hotstuff Protocol** [[Paper]](https://arxiv.org/pdf/2010.11454.pdf) [[Selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/)  
 Mohammad Jalalzai, **Jianyu Niu**, Chen Feng, Fangyu Gai  
 1. **An Empirical Study on Ethereum Private Transactions and the Security Implications** [[Paper]](https://arxiv.org/abs/2208.02858)  
