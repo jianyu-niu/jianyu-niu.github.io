@@ -97,8 +97,8 @@ Professional Activities
 - IEEE Communications Surveys & Tutorials (COMST)
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
 - IEEE Transactions on Communications (TCOM)
+- IEEE Transactions on Computer (TOC)
 
-**Conference Reviewer**
-- International Symposium on Cyber Security Cryptology and Machine Learning (CSCML 2021)
 
-Last updated: 2022/11/24.
+
+Last updated: 2023/03/20.
