@@ -10,13 +10,14 @@ redirect_from:
 
 Short Bios
 ------
-I am currently a research assistant professor at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech), working with [Prof. Yinqian Zhang](https://yinqian.org/). I received my Ph.D. degree from [The University of British Columbia](https://ok.ubc.ca/) (UBC) in Sep. 2021, under the supervision of [Prof. Chen Feng](https://engineering.ok.ubc.ca/about/contact/chen-feng/). My research fields include blockchain, distributed systems, TEE and computer networks. 
+I am currently a research assistant professor at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech), working with [Prof. Yinqian Zhang](https://yinqian.org/). I received my Ph.D. degree from [The University of British Columbia](https://ok.ubc.ca/) (UBC) in Sep. 2021, under the supervision of [Prof. Chen Feng](https://engineering.ok.ubc.ca/about/contact/chen-feng/). My research fields include blockchain, distributed systems, and confidential computing. 
 
 
-**Our research lab has multiple openings for Research Associate, Post-doctoral Researchers, Research/Software Engineers, Research Assistants, Research Interns. If you are interested in working with me or any directions of our lab, please drop me or Prof. Zhang an email for more information.**
+**Our research lab has multiple openings for Research Associates, Post-doctoral Researchers, Research/Software Engineers, Research Assistants, and Research Interns. If you are interested in working with me or any directions for our lab, please drop me or Prof. Zhang an email for more information.**
 
 News
 ------
+- (2023/08)**[Paper]** Our works, Cumulus and Fast-HotStuff, have been accepted to [IoTJ](https://ieeexplore.ieee.org/abstract/document/10197622/) and [TDSC](https://ieeexplore.ieee.org/document/10041785), respectively.
 - (2023/02)**[Paper]** Our paper, “SodsBC: A Practical Post-quantum by Design Asynchronous Blockchain Framework”, has been accepted to [TDSC](https://ieeexplore.ieee.org/document/10041785).
 - (2022/10)**[Paper]** Our paper, “Crystal: Enhancing Blockchain Mining Transparency with Quorum Certificate”, has been accepted to [TDSC](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=8858).
 - (2022/08)**[Paper]** Our paper, “Narrator: Secure and Practical State Continuity for Trusted Execution in the Cloud”, has been accepted to [CCS 2022](https://www.sigsac.org/ccs/CCS2022/).
@@ -32,8 +33,6 @@ Preprints
 1. **EBFT: Simplifying BFT Consensus Through Egalitarianism**  
 **Jianyu Niu**, Runchao Han, Shengqi Liu, Fangyu Gai, Ivan Beschastnikh, Yinqian Zhang, Chen Feng  
 **[[One variant used in VeChain]](https://www.vechain.org/poa-2-0-finality-with-one-bit/) [[Paper]](https://arxiv.org/pdf/2012.01636.pdf) [[Previous version selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/)**  
-1. **Fast-Hotstuff: A Fast and Resilient Hotstuff Protocol** [[Paper]](https://arxiv.org/pdf/2010.11454.pdf) [[Selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/)  
-Mohammad Jalalzai, **Jianyu Niu**, Chen Feng, Fangyu Gai  
 1. **An Empirical Study on Ethereum Private Transactions and the Security Implications** [[Paper]](https://arxiv.org/abs/2208.02858)  
 Xingyu Lyu, Mengya Zhang, Xiaokuan Zhang, **Jianyu Niu**, Yinqian Zhang, Zhiqiang Lin
 
@@ -71,6 +70,12 @@ _IEEE International Conference on Distributed Computing Systems_, Dallas, Texas,
 
 Journal Publications
 ---
+1. **Fast-Hotstuff: A Fast and Resilient Hotstuff Protocol** [[Paper]](https://arxiv.org/pdf/2010.11454.pdf) [[Selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/)  
+Mohammad Jalalzai, **Jianyu Niu**, Chen Feng, Fangyu Gai  
+_IEEE Transactions on Dependable and Secure Computing_, 2023.
+1. **A Secure Sidechain for Decentralized Trading in Internet of Things**  
+Fangyu Gai , **Jianyu Niu**, Mohammad M. Jalalzai , Seyed Ali Tabatabaee, Chen Feng  
+_IEEE Internet of Things Journal_, 2023.
 1. **<small>[TDSC]</small>  SodsBC: A Practical Post-quantum by Design Asynchronous Blockchain Framework**  
 Shlomi Dolev, Bingyong Guo, **Jianyu Niu**, Ziyu Wang (**Alphabetically ordered**)  
 _IEEE Transactions on Dependable and Secure Computing_, 2023. 
@@ -101,4 +106,4 @@ Professional Activities
 
 
 
-Last updated: 2023/03/20.
+Last updated: 2023/08.
