@@ -38,8 +38,11 @@ Xingyu Lyu, Mengya Zhang, Xiaokuan Zhang, **Jianyu Niu**, Yinqian Zhang, Zhiqian
 
 
 
-Conference Publications (*corresponding author)
+Conference Publications (*corresponding author, _ supervised students)
 ------
+ 1. **<small>[SecureComm'23]</small> Scaling Blockchain Consensus via a Robust Shared Mempool**  
+<ins>Hanzheng Lyu, Shaokang Xie,</ins> **Jianyu Niu***, Chen Feng   
+_EAI International Conference on Security and Privacy in Communication Networks_.  
  1. **<small>[ICDE'23]</small> Scaling Blockchain Consensus via a Robust Shared Mempool**  
 Fangyu Gai, **Jianyu Niu***, Ivan Beschastnikh, Chen Feng, Sheng Wang  
 _IEEE International Conference on Data Engineering_.
@@ -70,10 +73,10 @@ _IEEE International Conference on Distributed Computing Systems_, Dallas, Texas,
 
 Journal Publications
 ---
-1. **Fast-Hotstuff: A Fast and Resilient Hotstuff Protocol** [[Paper]](https://arxiv.org/pdf/2010.11454.pdf) [[Selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/)  
+1. **<small>[TDSC]</small>  Fast-Hotstuff: A Fast and Resilient Hotstuff Protocol** [[Paper]](https://arxiv.org/pdf/2010.11454.pdf) [[Selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/)  
 Mohammad Jalalzai, **Jianyu Niu**, Chen Feng, Fangyu Gai  
 _IEEE Transactions on Dependable and Secure Computing_, 2023.
-1. **A Secure Sidechain for Decentralized Trading in Internet of Things**  
+1. **<small>[IoTJ]</small> A Secure Sidechain for Decentralized Trading in Internet of Things**  
 Fangyu Gai , **Jianyu Niu**, Mohammad M. Jalalzai , Seyed Ali Tabatabaee, Chen Feng  
 _IEEE Internet of Things Journal_, 2023.
 1. **<small>[TDSC]</small>  SodsBC: A Practical Post-quantum by Design Asynchronous Blockchain Framework**  
