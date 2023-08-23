@@ -77,7 +77,7 @@ Journal Publications
 Mohammad Jalalzai, **Jianyu Niu**, Chen Feng, Fangyu Gai  
 _IEEE Transactions on Dependable and Secure Computing_, 2023.
 1. **<small>[IoTJ]</small> A Secure Sidechain for Decentralized Trading in Internet of Things**  
-Fangyu Gai , **Jianyu Niu**, Mohammad M. Jalalzai , Seyed Ali Tabatabaee, Chen Feng  
+Fangyu Gai , **Jianyu Niu***, Mohammad M. Jalalzai , Seyed Ali Tabatabaee, Chen Feng  
 _IEEE Internet of Things Journal_, 2023.
 1. **<small>[TDSC]</small>  SodsBC: A Practical Post-quantum by Design Asynchronous Blockchain Framework**  
 Shlomi Dolev, Bingyong Guo, **Jianyu Niu**, Ziyu Wang (**Alphabetically ordered**)  
