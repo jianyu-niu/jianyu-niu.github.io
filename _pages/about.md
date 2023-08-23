@@ -41,7 +41,7 @@ Xingyu Lyu, Mengya Zhang, Xiaokuan Zhang, **Jianyu Niu**, Yinqian Zhang, Zhiqian
 Conference Publications (*corresponding author, _ supervised students)
 ------
  1. **<small>[SecureComm'23]</small> Byzantine Protocols with Asymptotically Optimal Communication Complexity**  
-<ins>Hanzheng Lyu</ins>, <ins>Shaokang Xie,</ins> **Jianyu Niu***, Chen Feng   
+<ins>Hanzheng Lyu</ins>, <ins>Shaokang Xie,</ins> **Jianyu Niu**, Chen Feng   
 _EAI International Conference on Security and Privacy in Communication Networks_.  
  1. **<small>[ICDE'23]</small> Scaling Blockchain Consensus via a Robust Shared Mempool**  
 Fangyu Gai, **Jianyu Niu***, Ivan Beschastnikh, Chen Feng, Sheng Wang  
