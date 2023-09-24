@@ -90,7 +90,7 @@ Mohammad Jalalzai, Chen Feng, Costas Busch, Golden, Richard III, **Jianyu Niu**
 _IEEE Transactions on Dependable and Secure Computing_, 2021.
 1. **<small>[PEVA]</small> Incentive Analysis of Bitcoin-NG, Revisited**  
 **Jianyu Niu**, Ziyu Wang, Fangyu Gai, Chen Feng  
-_Elsevier journal Performance Evaluation_, 2020.
+_Elsevier journal Performance Evaluation_ （**Fast tracked from Performance'20**), 2020.
 
 Professional Activities
 -----
