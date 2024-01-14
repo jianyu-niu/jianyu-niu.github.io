@@ -10,13 +10,23 @@ redirect_from:
 
 Short Bios
 ------
-I am currently a research assistant professor at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech), working with [Prof. Yinqian Zhang](https://yinqian.org/). I received my Ph.D. degree from [The University of British Columbia](https://ok.ubc.ca/) (UBC) in Sep. 2021, under the supervision of [Prof. Chen Feng](https://engineering.ok.ubc.ca/about/contact/chen-feng/). My research fields include blockchain, distributed systems, and confidential computing. 
-
+I am currently a research assistant professor at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech), working with [Prof. Yinqian Zhang](https://yinqian.org/). I received my Ph.D. degree from [The University of British Columbia](https://ok.ubc.ca/) (UBC) in Sep. 2021, under the supervision of [Prof. Chen Feng](https://engineering.ok.ubc.ca/about/contact/chen-feng/). 
 
 **Our research lab has multiple openings for Research Associates, Post-doctoral Researchers, Research/Software Engineers, Research Assistants, and Research Interns. If you are interested in working with me or any directions for our lab, please drop me or Prof. Zhang an email for more information.**
 
+Research
+------
+My research fields include blockchain, distributed systems, and confidential computing.  Below are some of my major research projects.
+
+**Incentive Design and Analysis for Blockchains**: This project focuses on incentive design and analysis of decentralized systems. 
+
+**BFT Consensus Design and Performance Analysis**: This project targets to search for more scalable, simpler, and secure BFT consensus by developing better performance analysis frameworks and new design principles.
+
+**Distributed Confidential Computing**: This project explores integrations of confidential computing and various distributed computing techniques (e.g., blockchains, Federated Learning) to design more secure and high-performance systems. 
+
 News
 ------
+- (2023/08)**[Paper]** Our paper has been accepted to [SecureComm'23](https://securecomm.eai-conferences.org/2023/). Congrats to Hanzheng and Shaokang, and my collaborators!
 - (2023/08)**[Paper]** Our works, Cumulus and Fast-HotStuff, have been accepted to [IoTJ](https://ieeexplore.ieee.org/abstract/document/10197622/) and [TDSC](https://ieeexplore.ieee.org/document/10041785), respectively.
 - (2023/02)**[Paper]** Our paper, “SodsBC: A Practical Post-quantum by Design Asynchronous Blockchain Framework”, has been accepted to [TDSC](https://ieeexplore.ieee.org/document/10041785).
 - (2022/10)**[Paper]** Our paper, “Crystal: Enhancing Blockchain Mining Transparency with Quorum Certificate”, has been accepted to [TDSC](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=8858).
@@ -94,8 +104,6 @@ _Elsevier journal Performance Evaluation_ （**Fast tracked from Performance'20*
 
 Professional Activities
 -----
-**Editorial Review Board**
-- International Journal of Blockchain Applications and Secure Computing (IJBASC)
 
 **Program Committee Member**
 - International Conference on Mobility, Sensing and Networking (MSN) [2021](https://ieee-msn.org/2021/)
@@ -106,6 +114,8 @@ Professional Activities
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
 - IEEE Transactions on Communications (TCOM)
 - IEEE Transactions on Computer (TOC)
+- IEEE Network Magazine 
+- IEEE Open Journal of the Communications Society
 
 
 
