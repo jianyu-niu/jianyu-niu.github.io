@@ -102,6 +102,27 @@ _IEEE Transactions on Dependable and Secure Computing_, 2021.
 **Jianyu Niu**, Ziyu Wang, Fangyu Gai, Chen Feng  
 _Elsevier journal Performance Evaluation_ （**Fast tracked from Performance'20**), 2020.
 
+
+Mentoring Students 
+-----
+
+**Ph.D. Students:**
+- Hanzheng Lyu  (2021.9-, UBCO, co-advised with Prof. Chen Feng)
+- Xiaoqing Wen  (2022.11-, UBCO, co-advised with Prof. Chen Feng)
+
+**Master Students:**
+- Yining Tang  (2022.11-, SUSTech, co-advised with Prof. Yinqian Zhang)
+
+**Research Assistants & Interns:**
+- Yinan Mi (2023.9-)
+
+**Undergraduate Students:**
+- Shaokang Xie (2022.6-)
+- Quanbi Feng (2022.9-)
+- Shuobo Peng (2022.6-)
+- Huang Hang (2023.3-)
+
+
 Professional Activities
 -----
 
