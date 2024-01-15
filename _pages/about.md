@@ -12,17 +12,17 @@ Short Bios
 ------
 I am currently a research assistant professor at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech), working with [Prof. Yinqian Zhang](https://yinqian.org/). I received my Ph.D. degree from [The University of British Columbia](https://ok.ubc.ca/) (UBC) in Sep. 2021, under the supervision of [Prof. Chen Feng](https://engineering.ok.ubc.ca/about/contact/chen-feng/). 
 
-**Our research lab has multiple openings for Research Associates, Post-doctoral Researchers, Research/Software Engineers, Research Assistants, and Research Interns. If you are interested in working with me or any directions for our lab, please drop me or Prof. Zhang an email for more information.**
+**Our research lab has multiple openings for Research Associates, Post-doctoral Researchers, Research/Software Engineers, Research Assistants, and Research Interns. If you are interested in working with me or have any directions for our lab, please drop me or Prof. Zhang an email for more information.**
 
 Research
 ------
-My research fields include blockchain, distributed systems, and confidential computing.  Below are some of my major research projects.
+My research fields include blockchain, distributed systems, and confidential computing.  Below are some research projects.
 
-**Incentive Design and Analysis for Blockchains**: This project focuses on incentive design and analysis of decentralized systems. 
+**Incentive Analysis(Design) and Consensus Security Analysis**: This project applies stochastic processes to analyze incentive design and consensus algorithms of blockchains. Related works include selfish mining analysis of Ethereum ([ICDCS'19](https://arxiv.org/abs/1901.04620)), incentive analysis of Bitcoin-NG ([Performance'20](https://arxiv.org/pdf/2001.05082.pdf)), performance analysis of chained HotStuff ([INFOCOM'21](https://arxiv.org/abs/2107.04947)), and transparent mining ([TDSC'22](https://arxiv.org/abs/2312.00741)), . 
 
-**BFT Consensus Design and Performance Analysis**: This project targets to search for more scalable, simpler, and secure BFT consensus by developing better performance analysis frameworks and new design principles.
+**Scalable and Simple BFT Consensus**: This project aims to search for scalable, simple, and secure BFT consensus designs. Related works include the simplest BFT consensus algorithms EBFT([Arxiv](https://arxiv.org/abs/2012.01636)), shared mempool ([ICDE'23](https://github.com/gitferry/bamboo-stratus)).
 
-**Distributed Confidential Computing**: This project explores integrations of confidential computing and various distributed computing techniques (e.g., blockchains, Federated Learning) to design more secure and high-performance systems. 
+**Distributed Confidential Computing**: This project explores integrations of confidential computing and various distributed computing techniques, e.g., blockchains and Federated Learning.  Related works include confidential blockchains ([CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560639)) and rollback-resilient confidential computing services on the cloud ([CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560620)).  
 
 News
 ------
@@ -120,7 +120,7 @@ Mentoring Students
 - Shaokang Xie (2022.6-)
 - Quanbi Feng (2022.9-)
 - Shuobo Peng (2022.6-)
-- Huang Hang (2023.3-)
+- Hang Huang(2023.3-)
 
 
 Professional Activities
@@ -140,4 +140,4 @@ Professional Activities
 
 
 
-Last updated: 2023/08.
+Last updated: 2024/01.
