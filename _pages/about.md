@@ -119,9 +119,12 @@ Mentoring Students
 **Undergraduate Students:**
 - Shaokang Xie (2022.6-)
 - Quanbi Feng (2022.9-)
-- Shuobo Peng (2022.6-)
-- Hang Huang(2023.3-)
-
+- Shuobo Peng (2022.9-)
+- Hang Huang (2023.3-)
+- Shengqi Liu (2024.1-)
+  
+**Visting Students:**
+- Yuanhang Zhou (2023.6-2023.10, Master student at Southeast University)
 
 Professional Activities
 -----
