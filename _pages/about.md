@@ -18,7 +18,7 @@ Research
 ------
 My research fields include blockchain, distributed systems, and confidential computing.  Below are some research projects.
 
-**Incentive Analysis(Design) and Consensus Security Analysis**: This project applies stochastic processes to analyze incentive design and consensus algorithms of blockchains. Related works include selfish mining analysis of Ethereum ([ICDCS'19](https://arxiv.org/abs/1901.04620)), incentive analysis of Bitcoin-NG ([Performance'20](https://arxiv.org/pdf/2001.05082.pdf)), performance analysis of chained HotStuff ([INFOCOM'21](https://arxiv.org/abs/2107.04947)), and transparent mining ([TDSC'22](https://arxiv.org/abs/2312.00741)), . 
+**Incentive Analysis(Design) and Consensus Security Analysis**: This project applies stochastic processes to analyze incentive design and consensus algorithms of blockchains. Related works include selfish mining analysis of Ethereum ([ICDCS'19](https://arxiv.org/abs/1901.04620)), incentive analysis of Bitcoin-NG ([Performance'20](https://arxiv.org/pdf/2001.05082.pdf)), performance analysis of chained HotStuff ([INFOCOM'21](https://arxiv.org/abs/2107.04947)), and transparent mining ([TDSC'22](https://arxiv.org/abs/2312.00741)). 
 
 **Scalable and Simple BFT Consensus**: This project aims to search for scalable, simple, and secure BFT consensus designs. Related works include the simplest BFT consensus algorithms EBFT([Arxiv](https://arxiv.org/abs/2012.01636)), shared mempool ([ICDE'23](https://github.com/gitferry/bamboo-stratus)).
 
