@@ -26,7 +26,7 @@ My research fields include blockchain, distributed systems, and confidential com
 
 News
 ------
-- (2023/12)**[Service]** I am invited to serve on the program committee of ACM CCS 2024.
+- (2023/12)**[Service]** I am invited to serve on the program committee of ACM [CCS 2024](https://www.sigsac.org/ccs/CCS2024/).
 - (2023/08)**[Paper]** Our paper has been accepted to [SecureComm'23](https://securecomm.eai-conferences.org/2023/). Congrats to Hanzheng and Shaokang, and my collaborators!
 - (2023/08)**[Paper]** Our works, Cumulus and Fast-HotStuff, have been accepted to [IoTJ](https://ieeexplore.ieee.org/abstract/document/10197622/) and [TDSC](https://ieeexplore.ieee.org/document/10041785), respectively.
 - (2023/02)**[Paper]** Our paper, “SodsBC: A Practical Post-quantum by Design Asynchronous Blockchain Framework”, has been accepted to [TDSC](https://ieeexplore.ieee.org/document/10041785).
