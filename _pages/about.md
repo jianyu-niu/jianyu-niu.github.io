@@ -1,4 +1,4 @@
----
+m---
 permalink: /
 title: ""
 excerpt: "About me"
@@ -20,13 +20,13 @@ My research fields include blockchain, distributed systems, and confidential com
 
 **Incentive Analysis (Design) and Consensus Security Analysis**: This project applies stochastic processes to analyze incentive design and consensus algorithms of blockchains. Related works include selfish mining analysis of Ethereum ([ICDCS'19](https://arxiv.org/abs/1901.04620)), incentive analysis of Bitcoin-NG ([Performance'20](https://arxiv.org/pdf/2001.05082.pdf)), performance analysis of chained HotStuff ([INFOCOM'21](https://arxiv.org/abs/2107.04947)), and transparent mining ([TDSC'22](https://arxiv.org/abs/2312.00741)). 
 
-**Scalable and Simple BFT Consensus**: This project aims to search for scalable, simple, and secure BFT consensus designs. Related works include the simplest BFT consensus algorithms EBFT([Arxiv](https://arxiv.org/abs/2012.01636)), shared mempool ([ICDE'23](https://github.com/gitferry/bamboo-stratus)).
+**Scalable and Simple BFT Consensus**: This project aims to search for scalable, simple, and secure BFT consensus designs. Related works include the simplest BFT consensus algorithms EBFT([Arxiv](https://arxiv.org/abs/2012.01636)), robust chained BFT protocol Fast-HotStuff ([TDSC'23](https://arxiv.org/abs/2010.11454)), shared mempool that decouples dissemination and ordering ([ICDE'23](https://github.com/gitferry/bamboo-stratus)).
 
 **Distributed Confidential Computing**: This project explores integrations of confidential computing and various distributed computing techniques, e.g., blockchains and Federated Learning.  Related works include confidential blockchains ([CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560639)) and rollback-resilient confidential computing services on the cloud ([CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560620)).  
 
 News
 ------
-- (2023/12)**[Service]** I am invited to serve on the program committee of ACM [CCS 2024](https://www.sigsac.org/ccs/CCS2024/).
+- (2024/01)**[Service]** I am invited to serve on the program committee of ACM [CCS 2024](https://www.sigsac.org/ccs/CCS2024/).
 - (2023/08)**[Paper]** Our paper has been accepted to [SecureComm'23](https://securecomm.eai-conferences.org/2023/). Congrats to Hanzheng and Shaokang, and my collaborators!
 - (2023/08)**[Paper]** Our works, Cumulus and Fast-HotStuff, have been accepted to [IoTJ](https://ieeexplore.ieee.org/abstract/document/10197622/) and [TDSC](https://ieeexplore.ieee.org/document/10041785), respectively.
 - (2023/02)**[Paper]** Our paper, “SodsBC: A Practical Post-quantum by Design Asynchronous Blockchain Framework”, has been accepted to [TDSC](https://ieeexplore.ieee.org/document/10041785).
@@ -117,7 +117,7 @@ Mentoring Students
 **Research Assistants & Interns:**
 - Yinan Mi (2023.9-)
 
-**Undergraduate Students:**
+**Undergraduate Students (Thesis):**
 - Shaokang Xie (2022.6-)
 - Quanbi Feng (2022.9-)
 - Shuobo Peng (2022.9-)
