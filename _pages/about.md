@@ -43,7 +43,7 @@ Preprints
 **Jianyu Niu**, Chen Feng, Hoang Dau, Yu-Chih Huang, Jingge Zhu  
 1. **EBFT: Simplifying BFT Consensus Through Egalitarianism**  
 **Jianyu Niu**, Runchao Han, Shengqi Liu, Fangyu Gai, Ivan Beschastnikh, Yinqian Zhang, Chen Feng  
-**[[One variant used in VeChain]](https://www.vechain.org/poa-2-0-finality-with-one-bit/) [[Paper]](https://arxiv.org/pdf/2012.01636.pdf) [[Previous version selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/)**  
+**[[One variant used in VeChain]](https://github.com/vechain/VIPs/blob/master/vips/VIP-220.md) [[Paper]](https://arxiv.org/pdf/2012.01636.pdf) [[Previous version selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/)**  
 1. **An Empirical Study on Ethereum Private Transactions and the Security Implications** [[Paper]](https://arxiv.org/abs/2208.02858)  
 Xingyu Lyu, Mengya Zhang, Xiaokuan Zhang, **Jianyu Niu**, Yinqian Zhang, Zhiqiang Lin
 
@@ -84,6 +84,9 @@ _IEEE International Conference on Distributed Computing Systems_, Dallas, Texas,
 
 Journal Publications
 ---
+1. **<small>[TDSC]</small>  A Privacy-Preserving Incentive Mechanism for Mobile Crowdsensing based on Blockchain**  
+Fei Tong, Yuanhang Zhou, Kaiming Wang, Guang Cheng, **Jianyu Niu**, Shibo He  
+_IEEE Transactions on Dependable and Secure Computing_, 2024.
 1. **<small>[TDSC]</small>  Fast-Hotstuff: A Fast and Resilient Hotstuff Protocol** [[Paper]](https://arxiv.org/pdf/2010.11454.pdf) [[Selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/)  
 Mohammad Jalalzai, **Jianyu Niu**, Chen Feng, Fangyu Gai  
 _IEEE Transactions on Dependable and Secure Computing_, 2023.
