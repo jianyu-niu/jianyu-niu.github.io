@@ -26,7 +26,9 @@ My research fields include blockchain, distributed systems, and confidential com
 
 News
 ------
-- (2024/01)**[Service]** I am invited to serve on the program committee of ACM [CCS 2024](https://www.sigsac.org/ccs/CCS2024/).
+- (2024/03)**[Service]** I am invited to serve on the technical program committee of [IEEE GBC'24](http://ieee-gbc.org/).
+- (2024/01)**[Service]** I am invited to serve on the technical program committee of [ACM CCS'24](https://www.sigsac.org/ccs/CCS2024/).
+- (2023/12)**[Paper]** Our paper has been accepted to [SEED'24](https://seed-symposium.org/2024/). Congrats to Tong Liu and Zhen Huang, and my collaborators!
 - (2023/08)**[Paper]** Our paper has been accepted to [SecureComm'23](https://securecomm.eai-conferences.org/2023/). Congrats to Hanzheng and Shaokang, and my collaborators!
 - (2023/08)**[Paper]** Our works, Cumulus and Fast-HotStuff, have been accepted to [IoTJ](https://ieeexplore.ieee.org/abstract/document/10197622/) and [TDSC](https://ieeexplore.ieee.org/document/10041785), respectively.
 - (2023/02)**[Paper]** Our paper, “SodsBC: A Practical Post-quantum by Design Asynchronous Blockchain Framework”, has been accepted to [TDSC](https://ieeexplore.ieee.org/document/10041785).
@@ -51,6 +53,10 @@ Xingyu Lyu, Mengya Zhang, Xiaokuan Zhang, **Jianyu Niu**, Yinqian Zhang, Zhiqian
 
 Conference Publications (*corresponding author, _ supervised students)
 ------
+ 1. **<small>[SEED'24]</small> SoK: Opportunities for Accelerating Multi-Party Computation via 
+  Trusted Hardware**  
+Tong Liu, Zhen Huang, Jiaao Li, **Jianyu Niu**, Guoxing Chen, Yinqian Zhang   
+_International Symposium on Secure and Private Execution Environment Design_.  
  1. **<small>[SecureComm'23]</small> Byzantine Protocols with Asymptotically Optimal Communication Complexity**  
 <ins>Hanzheng Lyu</ins>, <ins>Shaokang Xie,</ins> **Jianyu Niu**, Chen Feng   
 _EAI International Conference on Security and Privacy in Communication Networks_.  
@@ -135,6 +141,7 @@ Professional Activities
 -----
 
 **Program Committee Member**
+- IEEE Global Blockchain Conference (GBC) [2024](http://ieee-gbc.org/)
 - ACM Conference on Computer and Communications Security (CCS) [2024](https://www.sigsac.org/ccs/CCS2024/)
 - International Conference on Mobility, Sensing and Networking (MSN) [2021](https://ieee-msn.org/2021/)
 
