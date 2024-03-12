@@ -93,7 +93,7 @@ Journal Publications
 1. **<small>[TDSC]</small>  A Privacy-Preserving Incentive Mechanism for Mobile Crowdsensing based on Blockchain**  
 Fei Tong, Yuanhang Zhou, Kaiming Wang, Guang Cheng, **Jianyu Niu**, Shibo He  
 _IEEE Transactions on Dependable and Secure Computing_, 2024.
-1. **<small>[TDSC]</small>  Fast-Hotstuff: A Fast and Resilient Hotstuff Protocol** [[Paper]](https://arxiv.org/pdf/2010.11454.pdf) [[Selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/)  
+1. **<small>[TDSC]</small>  Fast-Hotstuff: A Fast and Resilient Hotstuff Protocol** [[Paper]](https://arxiv.org/pdf/2010.11454.pdf) [[Selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/) [\[Used in Deso](https://revolution.deso.com/) [and Zilliqa 2.0\]](https://blog.zilliqa.com/evm-and-the-road-to-zilliqa-2-0-upgrading-network-efficiency/)  
 Mohammad Jalalzai, **Jianyu Niu**, Chen Feng, Fangyu Gai  
 _IEEE Transactions on Dependable and Secure Computing_, 2023.
 1. **<small>[IoTJ]</small> A Secure Sidechain for Decentralized Trading in Internet of Things**  
