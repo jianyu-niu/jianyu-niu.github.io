@@ -26,14 +26,15 @@ My research fields include blockchain, distributed systems, and confidential com
 
 News
 ------
+- (2024/03)**[Paper]** Our work, Narrator-Pro (an extension to Narrator), has been accepted to [TDSC](). 
 - (2024/03)**[Service]** I am invited to serve on the technical program committee of [IEEE GBC'24](http://ieee-gbc.org/).
 - (2024/01)**[Service]** I am invited to serve on the technical program committee of [ACM CCS'24](https://www.sigsac.org/ccs/CCS2024/).
 - (2023/12)**[Paper]** Our paper has been accepted to [SEED'24](https://seed-symposium.org/2024/). Congrats to Tong Liu and Zhen Huang, and my collaborators!
 - (2023/08)**[Paper]** Our paper has been accepted to [SecureComm'23](https://securecomm.eai-conferences.org/2023/). Congrats to Hanzheng and Shaokang, and my collaborators!
 - (2023/08)**[Paper]** Our works, Cumulus and Fast-HotStuff, have been accepted to [IoTJ](https://ieeexplore.ieee.org/abstract/document/10197622/) and [TDSC](https://ieeexplore.ieee.org/document/10041785), respectively.
-- (2023/02)**[Paper]** Our paper, “SodsBC: A Practical Post-quantum by Design Asynchronous Blockchain Framework”, has been accepted to [TDSC](https://ieeexplore.ieee.org/document/10041785).
+- (2023/02)**[Paper]** Our work, SodsBC, has been accepted to [TDSC](https://ieeexplore.ieee.org/document/10041785).
 - (2022/10)**[Paper]** Our paper, “Crystal: Enhancing Blockchain Mining Transparency with Quorum Certificate”, has been accepted to [TDSC](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=8858).
-- (2022/08)**[Paper]** Our paper, “Narrator: Secure and Practical State Continuity for Trusted Execution in the Cloud”, has been accepted to [CCS 2022](https://www.sigsac.org/ccs/CCS2022/).
+- (2022/08)**[Paper]** Our work, Narrator, has been accepted to [CCS 2022](https://www.sigsac.org/ccs/CCS2022/).
 - (2022/08)**[Paper]** Our paper, “ENGRAFT: Enclave-guarded Raft on Byzantine Faulty Nodes”, has been accepted to [CCS 2022](https://www.sigsac.org/ccs/CCS2022/).
 - (2022/08)**[Paper]** Our paper, “Scaling Blockchain Consensus via a Robust Shared Mempool”, has been accepted to [ICDE 2023](https://icde2023.ics.uci.edu/).
 - (2022/04)**[Paper]** Our paper, “When Power-of-d-Choices Meets Priority”, has been accepted to [IWQoS 2022](https://iwqos2022.ieee-iwqos.org/).
@@ -90,12 +91,16 @@ _IEEE International Conference on Distributed Computing Systems_, Dallas, Texas,
 
 Journal Publications
 ---
+1. **<small>[TDSC]</small>  Ensuring State Continuity for Confidential Computing: A Blockchain-based Approach**  
+Wei Peng, Xiang Li, **Jianyu Niu***, Xiaokuan Zhang, Yinqian Zhang  
+_IEEE Transactions on Dependable and Secure Computing_, 2024.  
 1. **<small>[TDSC]</small>  A Privacy-Preserving Incentive Mechanism for Mobile Crowdsensing based on Blockchain**  
 Fei Tong, Yuanhang Zhou, Kaiming Wang, Guang Cheng, **Jianyu Niu**, Shibo He  
 _IEEE Transactions on Dependable and Secure Computing_, 2024.
-1. **<small>[TDSC]</small>  Fast-Hotstuff: A Fast and Resilient Hotstuff Protocol** [[Paper]](https://arxiv.org/pdf/2010.11454.pdf) [[Selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/) [\[Used in Deso](https://revolution.deso.com/) [and Zilliqa 2.0\]](https://blog.zilliqa.com/evm-and-the-road-to-zilliqa-2-0-upgrading-network-efficiency/)  
+1. **<small>[TDSC]</small>  Fast-Hotstuff: A Fast and Resilient Hotstuff Protocol**  
 Mohammad Jalalzai, **Jianyu Niu**, Chen Feng, Fangyu Gai  
-_IEEE Transactions on Dependable and Secure Computing_, 2023.
+[[Paper]](https://arxiv.org/pdf/2010.11454.pdf) [[Selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/) [\[Used in Deso](https://revolution.deso.com/) [and Zilliqa 2.0\]](https://blog.zilliqa.com/evm-and-the-road-to-zilliqa-2-0-upgrading-network-efficiency/)  
+_IEEE Transactions on Dependable and Secure Computing_, 2023.  
 1. **<small>[IoTJ]</small> A Secure Sidechain for Decentralized Trading in Internet of Things**  
 Fangyu Gai , **Jianyu Niu***, Mohammad M. Jalalzai , Seyed Ali Tabatabaee, Chen Feng  
 _IEEE Internet of Things Journal_, 2023.
