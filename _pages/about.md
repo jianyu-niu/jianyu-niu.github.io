@@ -130,7 +130,8 @@ Mentoring Students
 
 **Research Assistants & Interns:**
 - Yinan Mi (2023.9-)
-
+- Hongyan Sun (2024.4-)
+- 
 **Undergraduate Students (Thesis):**
 - Shaokang Xie (2022.6-)
 - Quanbi Feng (2022.9-)
