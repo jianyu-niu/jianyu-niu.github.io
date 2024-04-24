@@ -22,7 +22,7 @@ My research fields include blockchain, distributed systems, and confidential com
 
 **BFT Consensus at Scale**: This project aims to search for scalable, simple, and secure BFT consensus designs. Related works include the simplest BFT consensus algorithms EBFT([Arxiv](https://arxiv.org/abs/2012.01636), [Animation](www.luoqihang123.me)), robust chained BFT protocol Fast-HotStuff ([TDSC'23](https://arxiv.org/abs/2010.11454)), shared mempool that decouples dissemination and ordering ([ICDE'23](https://github.com/gitferry/bamboo-stratus)).
 
-**Distributed Confidential Computing**: This project explores integrations of confidential computing and various distributed computing techniques, e.g., blockchains and Federated Learning.  Related works include confidential blockchains ([CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560639)) and rollback-resilient confidential computing services on the cloud ([CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560620)).  
+**Distributed Confidential Computing**: This project explores integrations of confidential computing and various distributed computing techniques, e.g., blockchains and Federated Learning.  Related works include confidential blockchains ([CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560639)) and rollback-resilient protocols ([CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560620), [TDSC'24](https://ieeexplore.ieee.org/abstract/document/10480251)).  
 
 News
 ------
@@ -54,6 +54,9 @@ Xingyu Lyu, Mengya Zhang, Xiaokuan Zhang, **Jianyu Niu**, Yinqian Zhang, Zhiqian
 
 Conference Publications (*corresponding author, _ supervised students)
 ------
+ 1. **<small>[FORTE'24]</small> Formally Verifying a Rollback-Prevention Protocol for TEEs**  
+ Weili Wang1,  **Jianyu Niu**, Michael K. Reiter, Yinqian Zhang  
+_International Conference on Formal Techniques for Distributed Objects, Components, and Systems_.
  1. **<small>[SEED'24]</small> SoK: Opportunities for Accelerating Multi-Party Computation via 
   Trusted Hardware**  
 Tong Liu, Zhen Huang, Jiaao Li, **Jianyu Niu**, Guoxing Chen, Yinqian Zhang   
