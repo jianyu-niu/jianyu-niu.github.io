@@ -20,7 +20,7 @@ My research fields include blockchain, distributed systems, and confidential com
 
 **Incentive Analysis (Design) and BFT Consensus Analysis**: This project applies stochastic processes to analyze incentive design and consensus algorithms of blockchains. Incentive analysis (design) includes Ethereum ([ICDCS'19](https://arxiv.org/abs/1901.04620)), Bitcoin-NG ([Performance'20](https://arxiv.org/pdf/2001.05082.pdf)) and transparent mining ([TDSC'22](https://arxiv.org/abs/2312.00741)). Security and performance analysis includes chained HotStuff ([INFOCOM'21](https://arxiv.org/abs/2107.04947)). 
 
-**BFT Consensus at Scale**: This project aims to search for scalable, simple, and secure BFT consensus designs. Related works include the simplest BFT consensus, EBFT([Arxiv](https://arxiv.org/abs/2012.01636), [Animation](http://www.luoqihang123.me)), robust chained BFT, Fast-HotStuff ([TDSC'23](https://arxiv.org/abs/2010.11454)), shared mempool design, Stratus ([ICDE'23](https://github.com/gitferry/bamboo-stratus)).
+**BFT Consensus at Scale**: This project aims to search for scalable, simple, and secure BFT consensus designs. Related works include the simplest BFT consensus, EBFT([Arxiv](https://arxiv.org/abs/2012.01636), [Homepage](https://ebftalgorithm.github.io/)), robust chained BFT, Fast-HotStuff ([TDSC'23](https://arxiv.org/abs/2010.11454)), shared mempool design, Stratus ([ICDE'23](https://github.com/gitferry/bamboo-stratus)).
 
 **Distributed Confidential Computing**: This project explores integrations of confidential computing and various distributed computing techniques, e.g., blockchains and Federated Learning.  Related works include confidential blockchains ([CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560639)) and rollback-resilient protocols ([CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560620), [TDSC'24](https://ieeexplore.ieee.org/abstract/document/10480251)).  
 
@@ -55,6 +55,9 @@ Xingyu Lyu, Mengya Zhang, Xiaokuan Zhang, **Jianyu Niu**, Yinqian Zhang, Zhiqian
 
 Conference Publications (*corresponding author, _ supervised students)
 ------
+ 1. **<small>[ICMC'24]</small> SoK: AI-Powered Security Analysis of Smart Contract**  
+<ins>Shuo Yang</ins>, **Jianyu Niu**, Yinqian Zhang  
+_International Conference on Meta Computing, Qingdao, China, Jun. 2024_.  
  1. **<small>[FORTE'24]</small> Formally Verifying a Rollback-Prevention Protocol for TEEs**  
  Weili Wang,  **Jianyu Niu**, Michael K. Reiter, Yinqian Zhang  
 _International Conference on Formal Techniques for Distributed Objects, Components, and Systems_.
