@@ -162,7 +162,7 @@ Professional Activities
 - IEEE Communications Letters (CL), Exemplary Reviewers (2019), 2019.
 - IEEE Transactions on Dependable and Secure Computing (TDSC), 2024.
 - IEEE Transactions on Computer (TOC), 2023.
-- IEEE Network Magazine (ToN), 2023. 
+- IEEE Network, 2023. 
 - IEEE Open Journal of the Communications Society, 2020, 2021, 2022, 2023, 2024.
 - Asia Conference on Computer and Communications Security (Asia CCS), 2023.
 
