@@ -50,8 +50,8 @@ Preprints
 **[[One variant used in VeChain]](https://github.com/vechain/VIPs/blob/master/vips/VIP-220.md) [[Paper]](https://arxiv.org/pdf/2012.01636.pdf) [[Previous version selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/)**  
 1. **An Empirical Study on Ethereum Private Transactions and the Security Implications** [[Paper]](https://arxiv.org/abs/2208.02858)  
 Xingyu Lyu, Mengya Zhang, Xiaokuan Zhang, **Jianyu Niu**, Yinqian Zhang, Zhiqiang Lin
-
-
+1. **KLOTSKI: Towards Consensus Enabled Collaborative Vehicles in Intelligent Transportation**  
+<ins>Yuanhang Zhou</ins>, <ins>Shubo Peng</ins>, <ins>Hanzheng Lyu</ins>, Fei Tong, Chengqiang Huang, **Jianyu Niu**, in submission.
 
 Conference Publications (*corresponding author, _ supervised students)
 ------
@@ -66,7 +66,7 @@ _International Conference on Formal Techniques for Distributed Objects, Componen
 Tong Liu, Zhen Huang, Jiaao Li, **Jianyu Niu**, Guoxing Chen, Yinqian Zhang   
 _International Symposium on Secure and Private Execution Environment Design_.  
  1. **<small>[SecureComm'23]</small> Byzantine Protocols with Asymptotically Optimal Communication Complexity**  
-<ins>Hanzheng Lyu</ins>, <ins>Shaokang Xie,</ins> **Jianyu Niu**, Chen Feng   
+<ins>Hanzheng Lyu</ins>, <ins>Shaokang Xie</ins>, **Jianyu Niu**, Chen Feng   
 _EAI International Conference on Security and Privacy in Communication Networks_.  
  1. **<small>[ICDE'23]</small> Scaling Blockchain Consensus via a Robust Shared Mempool**  
 Fangyu Gai, **Jianyu Niu***, Ivan Beschastnikh, Chen Feng, Sheng Wang  
