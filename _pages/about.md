@@ -164,7 +164,7 @@ Professional Activities
 - IEEE Transactions on Computer (TOC), 2023.
 - IEEE Network, 2023. 
 - IEEE Open Journal of the Communications Society, 2020, 2021, 2022, 2023, 2024.
-- Asia Conference on Computer and Communications Security (Asia CCS), 2023.
+- Asia Conference on Computer and Communications Security (AsiaCCS), 2024.
 
 
 
