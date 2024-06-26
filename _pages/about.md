@@ -137,18 +137,18 @@ Mentoring Students
 
 **Research Assistants & Interns:**
 - Yinan Mi (2023.9-)
-- Hongyan Sun (2024.4-)
+- Hongyan Sun (2024.4-2024.6)
 
 **Undergraduate Students (Thesis):**
-- Shaokang Xie (2022.6-)
-- Quanbi Feng (2022.9-)
-- Shuobo Peng (2022.9-)
-- Hang Huang (2023.3-)
-- Shengqi Liu (2024.1-)
+- Shaokang Xie (2022.6-2024.6, Ph.D. student at UC Davis)
+- Quanbi Feng (2022.9-2024.6, master student at SUSTech)
+- Shuobo Peng (2022.9-2024.6, master student at SUSTech)
+- Hang Huang (2023.3-2024.6, Huawei 2012 Lab)
+- Shengqi Liu (2024.1-2024.6, master student at UIUC)
   
 **Visting Students:**
 - Yuanhang Zhou (2023.6-2023.10, Master student at Southeast University)
-- Shuo Yang (2023.10-, Master student at The Chinese University of Hong Kong)
+- Shuo Yang (2023.10-, Master student at CUHK)
 
 Professional Activities
 -----
