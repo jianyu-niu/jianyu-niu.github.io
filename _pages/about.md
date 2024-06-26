@@ -143,9 +143,9 @@ Mentoring Students
 - Shaokang Xie (2022.6-2024.6, Ph.D. student at UC Davis)
 - Quanbi Feng (2022.9-2024.6, master student at SUSTech)
 - Shuobo Peng (2022.9-2024.6, master student at SUSTech)
+- Shengqi Liu (2023.1-2024.6, master student at UIUC)
 - Hang Huang (2023.3-2024.6, Huawei 2012 Lab)
-- Shengqi Liu (2024.1-2024.6, master student at UIUC)
-  
+
 **Visting Students:**
 - Yuanhang Zhou (2023.6-2023.10, Master student at Southeast University)
 - Shuo Yang (2023.10-, Master student at CUHK)
