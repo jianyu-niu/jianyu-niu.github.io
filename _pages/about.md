@@ -147,7 +147,7 @@ Mentoring Students
 - Hang Huang (2023.3-2024.6, next position: Huawei 2012 Lab)
 
 **Visting Students:**
-- Yuanhang Zhou (2023.6-2023.10, Master student at Southeast University, next position: PhD student at UW)
+- Yuanhang Zhou (2023.6-2023.10, Master student at SEU, next position: PhD student at UW)
 - Shuo Yang (2023.10-2024.8, Master student at CUHK, next position: PhD student at CityU)
 
 Professional Activities
