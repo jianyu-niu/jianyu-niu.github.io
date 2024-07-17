@@ -134,6 +134,9 @@ Mentoring Students
 
 **Master Students:**
 - Yining Tang  (2022.11-, SUSTech, co-advised with Prof. Yinqian Zhang)
+- Tong Liu (2024.6-, SUSTech, co-advised with Prof. Yinqian Zhang)
+- Quanbi Feng (2024.9-, SUSTech)
+- Shuobo Peng (2024.9-, SUSTech)
 
 **Research Assistants & Interns:**
 - Yinan Mi (2023.9-)
