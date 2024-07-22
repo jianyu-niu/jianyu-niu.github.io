@@ -20,9 +20,9 @@ My research fields include blockchain, distributed systems, and confidential com
 
 **Incentive Analysis (Design) and BFT Consensus Analysis**: This project applies stochastic processes to analyze incentive design and consensus algorithms of blockchains. Incentive analysis (design) includes Ethereum ([ICDCS'19](https://arxiv.org/abs/1901.04620)), Bitcoin-NG ([Performance'20](https://arxiv.org/pdf/2001.05082.pdf)) and transparent mining ([TDSC'22](https://arxiv.org/abs/2312.00741)). Security and performance analysis includes chained HotStuff ([INFOCOM'21](https://arxiv.org/abs/2107.04947)). 
 
-**BFT Consensus at Scale**: This project aims to search for scalable, simple, and secure BFT consensus designs. Related works include the simplest BFT consensus, EBFT([Arxiv](https://arxiv.org/abs/2012.01636), [Homepage](https://ebftalgorithm.github.io/)), robust chained BFT, Fast-HotStuff ([TDSC'23](https://arxiv.org/abs/2010.11454)), shared mempool design, Stratus ([ICDE'23](https://github.com/gitferry/bamboo-stratus)).
+**BFT Consensus at Scale**: This project aims to search for scalable, simple, and secure BFT consensus designs. Related works include EBFT(the simplest BFT consensus, [Arxiv](https://arxiv.org/abs/2012.01636), [Homepage](https://ebftalgorithm.github.io/)), Fast-HotStuff (robust chained BFT, [TDSC'23](https://arxiv.org/abs/2010.11454)), Stratus (shared mempool, [ICDE'23](https://github.com/gitferry/bamboo-stratus)), Ladon (multi-BFT consensus, [EuroSys'25]()).
 
-**Distributed Confidential Computing**: This project explores integrations of confidential computing and various distributed computing techniques, e.g., blockchains and Federated Learning.  Related works include confidential blockchains ([CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560639)) and rollback-resilient protocols ([CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560620), [TDSC'24](https://ieeexplore.ieee.org/abstract/document/10480251)).  
+**Distributed Confidential Computing**: This project explores integrations of confidential computing and various distributed computing techniques, e.g., blockchains and Federated Learning.  Related works include Engraft (confidential consensus, [CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560639)) and Narrator/Narrator-Pro (rollback-resilient systems, [CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560620)/[TDSC'24](https://ieeexplore.ieee.org/abstract/document/10480251)).  
 
 News
 ------
@@ -176,4 +176,4 @@ Professional Activities
 
 
 
-Last updated: 2024/01.
+Last updated: 2024/07.
