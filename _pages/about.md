@@ -26,12 +26,11 @@ My research fields include blockchain, distributed systems, and confidential com
 
 News
 ------
-- (2024/03)**[Paper]** Our work, Narrator-Pro (an extension to Narrator), has been accepted to [TDSC](). 
+- (2024/07)**[Paper]** Our work, Ladon, a high-performance multi-BFT protocol has been accepted to [EuroSys'25](). 
+- (2024/03)**[Paper]** Our work, Narrator-Pro (an extension to Narrator), has been accepted to [TDSC](https://ieeexplore.ieee.org/abstract/document/10480251). 
 - (2024/03)**[Service]** I am invited to serve on the technical program committee of [IEEE GBC'24](http://ieee-gbc.org/).
 - (2024/01)**[Service]** I am invited to serve on the technical program committee of [ACM CCS'24](https://www.sigsac.org/ccs/CCS2024/).
-- (2023/12)**[Paper]** Our paper has been accepted to [SEED'24](https://seed-symposium.org/2024/). Congrats to Tong Liu and Zhen Huang, and my collaborators!
-- (2023/08)**[Paper]** Our paper has been accepted to [SecureComm'23](https://securecomm.eai-conferences.org/2023/). Congrats to Hanzheng and Shaokang, and my collaborators!
-- (2023/08)**[Paper]** Our works, Cumulus and Fast-HotStuff, have been accepted to [IoTJ](https://ieeexplore.ieee.org/abstract/document/10197622/) and [TDSC](https://ieeexplore.ieee.org/document/10041785), respectively.
+- (2023/08)**[Paper]** Our work, Fast-HotStuff, has been accepted to [TDSC](https://ieeexplore.ieee.org/document/10041785), respectively.
 - (2023/02)**[Paper]** Our work, SodsBC, has been accepted to [TDSC](https://ieeexplore.ieee.org/document/10041785).
 - (2022/10)**[Paper]** Our paper, “Crystal: Enhancing Blockchain Mining Transparency with Quorum Certificate”, has been accepted to [TDSC](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=8858).
 - (2022/08)**[Paper]** Our work, Narrator, has been accepted to [CCS 2022](https://www.sigsac.org/ccs/CCS2022/).
@@ -55,6 +54,12 @@ Xingyu Lyu, Mengya Zhang, Xiaokuan Zhang, **Jianyu Niu**, Yinqian Zhang, Zhiqian
 
 Conference Publications (*corresponding author, _ supervised students)
 ------
+ 1. **<small>[EuroSys'25]</small> Ladon: High-Performance Multi-BFT Consensus via Dynamic Global Ordering**  
+<ins>Hanzheng Lyu</ins>, <ins>Shaokang Xie</ins>, **Jianyu Niu***, Chen Feng, Yinqian Zhang, Ivan Beschastnikh  
+_European Conference on Computer Systems, Rotterdam, Netherlands, Apr. 2025_.
+ 1. **<small>[GBC'24]</small> TeeData: Enabling Privacy-Preserving Blockchain Data Sharing and Trading via TEE**  
+<ins>Dahui Li</ins>, <ins>Pengru Chen</ins>, <ins>Hongyan Sun</ins>, **Jianyu Niu**, Yinqian Zhang  
+_IEEE Global Blockchain Conference, Shanghai, China, Nov. 2024_.
  1. **<small>[ICMC'24]</small> SoK: AI-Powered Security Analysis of Smart Contract**  
 <ins>Shuo Yang</ins>, **Jianyu Niu**, Yinqian Zhang  
 _International Conference on Meta Computing, Qingdao, China, Jun. 2024_.  
