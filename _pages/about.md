@@ -12,13 +12,13 @@ Short Bios
 ------
 I am currently a research assistant professor at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech), working with [Prof. Yinqian Zhang](https://yinqian.org/). I received my Ph.D. degree from [The University of British Columbia](https://ok.ubc.ca/) (UBC) in Sep. 2021, under the supervision of [Prof. Chen Feng](https://engineering.ok.ubc.ca/about/contact/chen-feng/). 
 
-**Our research lab has multiple openings for Research Associates, Post-doctoral Researchers, Research/Software Engineers, Research Assistants, and Research Interns. If you are interested in working with me or have any directions for our lab, please drop me or Prof. Zhang an email for more information.**
+**[Opening] I am looking for self-motivated students (1-2 Master students) to start in fall 2025 at SUSTech**
 
 Research
 ------
 My research fields include blockchain, distributed systems, and confidential computing.  Below are some research projects.
 
-**Incentive Analysis (Design) and BFT Consensus Analysis**: This project applies stochastic processes to analyze incentive design and consensus algorithms of blockchains. Incentive analysis (design) includes Ethereum ([ICDCS'19](https://arxiv.org/abs/1901.04620)), Bitcoin-NG ([Performance'20](https://arxiv.org/pdf/2001.05082.pdf)) and transparent mining ([TDSC'22](https://arxiv.org/abs/2312.00741)). Security and performance analysis includes chained HotStuff ([INFOCOM'21](https://arxiv.org/abs/2107.04947)). 
+**Incentive Analysis (Design) and BFT Consensus Analysis**: This project applies stochastic processes to analyze blockchains' incentive design and consensus algorithms. Incentive analysis (design) includes Ethereum (selfish mining, [ICDCS'19](https://arxiv.org/abs/1901.04620)), Bitcoin-NG (selfish mining, [Performance'20](https://arxiv.org/pdf/2001.05082.pdf)) and Crystal (transparent mining, [TDSC'22](https://arxiv.org/abs/2312.00741)). Security and performance analysis includes chained HotStuff (evaluation framework, [INFOCOM'21](https://arxiv.org/abs/2107.04947)). 
 
 **BFT Consensus at Scale**: This project aims to search for scalable, simple, and secure BFT consensus designs. Related works include EBFT(the simplest BFT consensus, [Arxiv](https://arxiv.org/abs/2012.01636), [Homepage](https://ebftalgorithm.github.io/)), Fast-HotStuff (robust chained BFT, [TDSC'23](https://arxiv.org/abs/2010.11454)), Stratus (shared mempool, [ICDE'23](https://github.com/gitferry/bamboo-stratus)), Ladon (multi-BFT consensus, [EuroSys'25]()).
 
