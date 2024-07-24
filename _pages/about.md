@@ -18,7 +18,7 @@ Research
 ------
 My research fields include blockchain, distributed systems, and confidential computing.  Below are some research projects.
 
-**Incentive and BFT Consensus Analysis**: This project applies stochastic processes to analyze blockchains' incentive design and BFT consensus algorithms. Related works include Ethereum (selfish mining, [ICDCS'19](https://arxiv.org/abs/1901.04620)), Bitcoin-NG (selfish mining, [Performance'20](https://arxiv.org/pdf/2001.05082.pdf)) and Crystal (transparent mining protocol, [TDSC'22](https://arxiv.org/abs/2312.00741)), and chained HotStuff (evaluation framework, [INFOCOM'21](https://arxiv.org/abs/2107.04947)). 
+**Incentive and BFT Consensus Analysis**: This project applies stochastic processes to analyze blockchains' incentive design and BFT consensus algorithms. Related works include Ethereum (selfish mining, [ICDCS'19](https://arxiv.org/abs/1901.04620)), Bitcoin-NG (selfish mining, [Performance'20](https://arxiv.org/pdf/2001.05082.pdf)), Crystal (transparent mining protocol, [TDSC'22](https://arxiv.org/abs/2312.00741)), and chained HotStuff (evaluation framework, [INFOCOM'21](https://arxiv.org/abs/2107.04947)). 
 
 **BFT Consensus at Scale**: This project aims to design scalable, simple, and secure BFT consensus. Related works include EBFT (the simplest BFT consensus, [Arxiv](https://arxiv.org/abs/2012.01636), [Homepage](https://ebftalgorithm.github.io/)), Fast-HotStuff (robust chained BFT, [TDSC'23](https://arxiv.org/abs/2010.11454)), Stratus (shared mempool, [ICDE'23](https://github.com/gitferry/bamboo-stratus)), and Ladon (multi-BFT consensus, [EuroSys'25]()).
 
