@@ -57,9 +57,6 @@ Conference Publications (*corresponding author, _ supervised students)
  1. **<small>[EuroSys'25]</small> Ladon: High-Performance Multi-BFT Consensus via Dynamic Global Ordering**  
 <ins>Hanzheng Lyu</ins>, <ins>Shaokang Xie</ins>, **Jianyu Niu***, Chen Feng, Yinqian Zhang, Ivan Beschastnikh  
 _European Conference on Computer Systems, Rotterdam, Netherlands, Apr. 2025_.
- 1. **<small>[GBC'24]</small> TeeData: Enabling Privacy-Preserving Blockchain Data Sharing and Trading via TEE**  
-<ins>Dahui Li</ins>, <ins>Pengru Chen</ins>, <ins>Hongyan Sun</ins>, **Jianyu Niu**, Yinqian Zhang  
-_IEEE Global Blockchain Conference, Shanghai, China, Nov. 2024_.
  1. **<small>[ICMC'24]</small> SoK: AI-Powered Security Analysis of Smart Contract**  
 <ins>Shuo Yang</ins>, **Jianyu Niu**, Yinqian Zhang  
 _International Conference on Meta Computing, Qingdao, China, Jun. 2024_.  
@@ -166,13 +163,14 @@ Professional Activities
 - ACM Conference on Computer and Communications Security (CCS) [2024](https://www.sigsac.org/ccs/CCS2024/)
 - International Conference on Mobility, Sensing and Networking (MSN) [2021](https://ieee-msn.org/2021/)
 
-**Journal Reviewer**
+**Journal & Conference Reviewer**
 - IEEE Communications Letters (CL), Exemplary Reviewers (2019), 2019.
 - IEEE Transactions on Dependable and Secure Computing (TDSC), 2024.
 - IEEE Transactions on Computer (TOC), 2023.
 - IEEE Network, 2023. 
 - IEEE Open Journal of the Communications Society, 2020, 2021, 2022, 2023, 2024.
 - Asia Conference on Computer and Communications Security (AsiaCCS), 2024.
+- International Conference on Parallel and Distributed Systems (ICPADS), 2024.
 
 
 
