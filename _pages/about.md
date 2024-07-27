@@ -45,12 +45,14 @@ Preprints
 **Jianyu Niu**, Chen Feng, Hoang Dau, Yu-Chih Huang, Jingge Zhu  
 [[Paper]](https://arxiv.org/pdf/1910.08510.pdf) [[Selected as "Paper of the Week" (Issue #31) by ZK Capital]](https://zkcapital.substack.com/p/this-week-in-blockchain-research-927?token=eyJ1c2VyX2lkIjoyNzY3MzU2LCJwb3N0X2lkIjoxNTI4MDcsIl8iOiIrK24rMCIsImlhdCI6MTYzMjQ0ODMxNCwiZXhwIjoxNjMyNDUxOTE0LCJpc3MiOiJwdWItNjQ0MSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.n361wEaWHTRxnXO63B-vNwv9mzFIUGk5qCs0q2yScJk)  
 1. **EBFT: Simplifying BFT Consensus Through Egalitarianism**  
-**Jianyu Niu**, Runchao Han, Shengqi Liu, Fangyu Gai, Ivan Beschastnikh, Yinqian Zhang, Chen Feng  
+**Jianyu Niu**, Runchao Han, <ins>Shengqi Liu</ins>, Fangyu Gai, Ivan Beschastnikh, Yinqian Zhang, Chen Feng  
 **[[One variant used in VeChain]](https://github.com/vechain/VIPs/blob/master/vips/VIP-220.md) [[Paper]](https://arxiv.org/pdf/2012.01636.pdf) [[Previous version selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/)**  
 1. **An Empirical Study on Ethereum Private Transactions and the Security Implications** [[Paper]](https://arxiv.org/abs/2208.02858)  
 Xingyu Lyu, Mengya Zhang, Xiaokuan Zhang, **Jianyu Niu**, Yinqian Zhang, Zhiqiang Lin
 1. **KLOTSKI: Towards Consensus Enabled Collaborative Vehicles in Intelligent Transportation**  
 <ins>Yuanhang Zhou</ins>, <ins>Shubo Peng</ins>, <ins>Hanzheng Lyu</ins>, Fei Tong, Chengqiang Huang, **Jianyu Niu**, in submission.
+1. **MERCURY: Practical Cross-Chain Exchange via Trusted Hardware**  
+<ins>Xiaoqing Wen</ins>, <ins>Quanbi Feng</ins>, **Jianyu Niu**, Yinqian Zhang, Chen Feng, in submission.
 
 Conference Publications (*corresponding author, _ supervised students)
 ------
