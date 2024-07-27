@@ -140,7 +140,7 @@ Mentoring Students
 - Yining Tang  (2022.11-, SUSTech, co-advised with Prof. Yinqian Zhang)
 - Tong Liu (2024.6-, SUSTech, co-advised with Prof. Yinqian Zhang)
 - Quanbi Feng (2024.9-, SUSTech)
-- Shuobo Peng (2024.9-, SUSTech)
+- Shubo Peng (2024.9-, SUSTech)
 
 **Research Assistants & Interns:**
 - Yinan Mi (2023.9-)
@@ -149,7 +149,7 @@ Mentoring Students
 **Undergraduate Students (Thesis):**
 - Shaokang Xie (2022.6-2024.6, next position: PhD student at UC Davis)
 - Quanbi Feng (2022.9-2024.6, next position:  Master student at SUSTech)
-- Shuobo Peng (2022.9-2024.6, next position: Master student at SUSTech)
+- Shubo Peng (2022.9-2024.6, next position: Master student at SUSTech)
 - Shengqi Liu (2023.1-2024.6, next position: Master student at UIUC)
 - Hang Huang (2023.3-2024.6, next position: Huawei 2012 Lab)
 
