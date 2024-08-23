@@ -58,10 +58,16 @@ Conference Publications (*corresponding author, _ supervised students)
 ------
  1. **<small>[EuroSys'25]</small> Ladon: High-Performance Multi-BFT Consensus via Dynamic Global Ordering**  
 <ins>Hanzheng Lyu</ins>, <ins>Shaokang Xie</ins>, **Jianyu Niu***, Chen Feng, Yinqian Zhang, Ivan Beschastnikh  
-_European Conference on Computer Systems, Rotterdam, Netherlands, Apr. 2025_.
+_European Conference on Computer Systems_, Rotterdam, Netherlands, Apr. 2025.
+ 1. **<small>[GBC'24]</small> TeeData: Enabling Privacy-Preserving Blockchain Data Sharing and Trading via TEE**  
+<ins>Dahui Li</ins>, <ins>Pengru Chen</ins>, <ins>Hongyan Sun</ins>, **Jianyu Niu**, Yinqian Zhang  
+_IEEE Global Blockchain Conference_, Shanghai, China, Nov. 2024.
+ 1. **<small>[ACSAC'24]</small> Breaking the Privacy Barrier: On the Feasibility of Reorganization Attacks on Ethereum Private Transaction**  
+ Mengya Zhang, Xingyu Lyu, **Jianyu Niu**, Xiaokuan Zhang, Yinqian Zhang, and Zhiqiang Lin  
+_Annual Computer Security Applications Conference_, December 2024.  
  1. **<small>[ICMC'24]</small> SoK: AI-Powered Security Analysis of Smart Contract**  
 <ins>Shuo Yang</ins>, **Jianyu Niu**, Yinqian Zhang  
-_International Conference on Meta Computing, Qingdao, China, Jun. 2024_.  
+_International Conference on Meta Computing_, Qingdao, China, Jun. 2024_.  
  1. **<small>[FORTE'24]</small> Formally Verifying a Rollback-Prevention Protocol for TEEs**  
  Weili Wang,  **Jianyu Niu**, Michael K. Reiter, Yinqian Zhang  
 _International Conference on Formal Techniques for Distributed Objects, Components, and Systems_.
