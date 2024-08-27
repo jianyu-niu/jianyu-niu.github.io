@@ -26,6 +26,7 @@ My research fields include blockchain, distributed systems, and confidential com
 
 News
 ------
+- (2024/08)**[Service]** I am invited to serve on the technical program committee of [AsiaCCS'25](https://asiaccs2025.hust.edu.vn/).
 - (2024/07)**[Paper]** Our work, Ladon, a high-performance multi-BFT protocol has been accepted to [EuroSys'25](). 
 - (2024/03)**[Paper]** Our work, Narrator-Pro (an extension to Narrator), has been accepted to [TDSC](https://ieeexplore.ieee.org/abstract/document/10480251). 
 - (2024/03)**[Service]** I am invited to serve on the technical program committee of [IEEE GBC'24](http://ieee-gbc.org/).
@@ -158,7 +159,7 @@ Mentoring Students
 - Shubo Peng (2022.9-2024.6, next position: Master student at SUSTech)
 - Shengqi Liu (2023.1-2024.6, next position: Master student at UIUC)
 - Hang Huang (2023.3-2024.6, next position: Huawei 2012 Lab)
-
+- 
 **Visting Students:**
 - Yuanhang Zhou (2023.6-2023.10, Master student at SEU, next position: PhD student at UW)
 - Shuo Yang (2023.10-2024.8, Master student at CUHK, next position: PhD student at CityU)
@@ -169,17 +170,18 @@ Professional Activities
 **Program Committee Member**
 - IEEE Global Blockchain Conference (GBC) [2024](http://ieee-gbc.org/)
 - ACM Conference on Computer and Communications Security (CCS) [2024](https://www.sigsac.org/ccs/CCS2024/)
-- International Conference on Mobility, Sensing and Networking (MSN) [2021](https://ieee-msn.org/2021/)
+- IEEE International Conference on Mobility, Sensing and Networking (MSN) [2021](https://ieee-msn.org/2021/)
+- ACM Asia Conference on Computer and Communications Security (AsiaCCS) [2025](https://asiaccs2025.hust.edu.vn/)
+
 
 **Journal & Conference Reviewer**
+- IEEE Network, 2023.
+- IEEE Transactions on Computer (TOC), 2023.
+- IEEE Internet of Things Journal (IoTJ), 2025.
 - IEEE Communications Letters (CL), Exemplary Reviewers (2019), 2019.
 - IEEE Transactions on Dependable and Secure Computing (TDSC), 2024.
-- IEEE Transactions on Computer (TOC), 2023.
-- IEEE Network, 2023. 
 - IEEE Open Journal of the Communications Society, 2020, 2021, 2022, 2023, 2024.
 - Asia Conference on Computer and Communications Security (AsiaCCS), 2024.
 - International Conference on Parallel and Distributed Systems (ICPADS), 2024.
 
-
-
-Last updated: 2024/07.
+Last updated: 2024/08.
