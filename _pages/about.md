@@ -50,9 +50,11 @@ Preprints
 **[[One variant used in VeChain]](https://github.com/vechain/VIPs/blob/master/vips/VIP-220.md) [[Paper]](https://arxiv.org/pdf/2012.01636.pdf) [[Previous version selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/)**  
 1. **An Empirical Study on Ethereum Private Transactions and the Security Implications** [[Paper]](https://arxiv.org/abs/2208.02858)  
 Xingyu Lyu, Mengya Zhang, Xiaokuan Zhang, **Jianyu Niu**, Yinqian Zhang, Zhiqiang Lin
-1. **KLOTSKI: Towards Consensus Enabled Collaborative Vehicles in Intelligent Transportation**  
+1. **Klotski: Towards Consensus Enabled Collaborative Vehicles in Intelligent Transportation**  
 <ins>Yuanhang Zhou</ins>, <ins>Shubo Peng</ins>, <ins>Hanzheng Lyu</ins>, Fei Tong, Chengqiang Huang, **Jianyu Niu**, in submission.
-1. **MERCURY: Practical Cross-Chain Exchange via Trusted Hardware**  
+1. **Mercury: Practical Cross-Chain Exchange via Trusted Hardware**  
+<ins>Xiaoqing Wen</ins>, <ins>Quanbi Feng</ins>, **Jianyu Niu**, Yinqian Zhang, Chen Feng, in submission.
+1. **TeeRollup: Efficient Rollup Design Using Heterogeneous TEE**  
 <ins>Xiaoqing Wen</ins>, <ins>Quanbi Feng</ins>, **Jianyu Niu**, Yinqian Zhang, Chen Feng, in submission.
 
 Conference Publications (*corresponding author, _ supervised students)
