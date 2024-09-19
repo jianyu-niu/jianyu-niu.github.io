@@ -156,12 +156,15 @@ Mentoring Students
 - Hongyan Sun (2024.4-2024.6)
 
 **Undergraduate Students (Thesis):**
-- Shaokang Xie (2022.6-2024.6, next position: PhD at UC Davis)
-- Quanbi Feng (2022.9-2024.6, next position:  MSc at SUSTech)
-- Shubo Peng (2022.9-2024.6, next position: MSc at SUSTech)
-- Shengqi Liu (2023.1-2024.6, next position: MSc at UIUC)
-- Hang Huang (2023.3-2024.6, next position: Huawei 2012 Lab)
-
+- Hongjing Huang (2024.9-)
+- Qihang Luo (2024.9-)
+- Dahui Li (2024.9-)
+- Shaokang Xie (2023.9-2024.6, next position: PhD at UC Davis)
+- Quanbi Feng (2023.9-2024.6, next position:  MSc at SUSTech)
+- Shubo Peng (2023.9-2024.6, next position: MSc at SUSTech)
+- Hang Huang (2023.9-2024.6, next position: Huawei 2012 Lab)
+- Shengqi Liu (2023.9-2024.6, next position: MSc at UIUC)
+  
 **Visting Students:**
 - Yuanhang Zhou (2023.6-2023.10, MSc at SEU, next position: PhD at UW)
 - Shuo Yang (2023.10-2024.8, MPhil at CUHK, next position: PhD at CityU)
