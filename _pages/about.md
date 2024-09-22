@@ -167,7 +167,7 @@ Mentoring Students
 - Shengqi Liu (2023.9-2024.6, next position: MSc at UIUC)
   
 **Visting Students:**
-- Yuanhang Zhou (2023.6-2023.10, MSc at SEU, next position: PhD at UW)
+- Yuanhang Zhou (2023.6-2023.11, MSc at SEU, next position: PhD at UW)
 - Shuo Yang (2023.10-2024.8, MPhil at CUHK, next position: PhD at CityU)
 
 Professional Activities
