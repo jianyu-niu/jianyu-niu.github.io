@@ -56,6 +56,8 @@ Xingyu Lyu, Mengya Zhang, Xiaokuan Zhang, **Jianyu Niu**, Yinqian Zhang, Zhiqian
 <ins>Xiaoqing Wen</ins>, <ins>Quanbi Feng</ins>, **Jianyu Niu**, Yinqian Zhang, Chen Feng, in submission.
 1. **TeeRollup: Efficient Rollup Design Using Heterogeneous TEE**  
 <ins>Xiaoqing Wen</ins>, <ins>Quanbi Feng</ins>, **Jianyu Niu**, Yinqian Zhang, Chen Feng, in submission.
+1. **Leader Rotation Is Not Enough: Scrutinizing Leadership Democracy of Chained BFT Consensus**  
+<ins>Yining Tang</ins>, **Jianyu Niu**, Runchao Han, Chen Feng, and Yinqian Zhang, in submission.
 
 Conference Publications (*corresponding author, _ supervised students)
 ------
@@ -140,7 +142,6 @@ _Elsevier journal Performance Evaluation_ （**Fast tracked from Performance'20*
 
 Mentoring Students 
 -----
-
 **Ph.D. Students:**
 - Hanzheng Lyu  (2021.9-, UBCO, co-advised with Prof. Chen Feng)
 - Xiaoqing Wen  (2022.11-, UBCO, co-advised with Prof. Chen Feng)
@@ -171,13 +172,11 @@ Mentoring Students
 
 Professional Activities
 -----
-
 **Program Committee Member**
 - IEEE Global Blockchain Conference (GBC) [2024](http://ieee-gbc.org/)
 - ACM Conference on Computer and Communications Security (CCS) [2024](https://www.sigsac.org/ccs/CCS2024/)
 - IEEE International Conference on Mobility, Sensing and Networking (MSN) [2021](https://ieee-msn.org/2021/)
 - ACM Asia Conference on Computer and Communications Security (AsiaCCS) [2025](https://asiaccs2025.hust.edu.vn/)
-
 
 **Journal & Conference Reviewer**
 - IEEE Network, 2023.
@@ -189,4 +188,4 @@ Professional Activities
 - Asia Conference on Computer and Communications Security (AsiaCCS), 2024.
 - International Conference on Parallel and Distributed Systems (ICPADS), 2024.
 
-Last updated: 2024/08.
+Last updated: 2024/09.
