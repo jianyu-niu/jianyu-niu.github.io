@@ -153,7 +153,7 @@ Mentoring Students
 - Shubo Peng (2024.9-, SUSTech)
 
 **Research Assistants & Interns:**
-- Yinan Mi (2023.9-2014.10)
+- Yinan Mi (2023.9-2024.10)
 - Hongyan Sun (2024.4-2024.6)
 
 **Undergraduate Students (Thesis):**
