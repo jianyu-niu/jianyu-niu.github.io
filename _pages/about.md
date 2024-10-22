@@ -16,16 +16,17 @@ I am currently a research assistant professor at [Southern University of Science
 
 Research
 ------
-My research fields include blockchain, distributed systems, and confidential computing.  Below are some research projects.
+My research fields include blockchain, distributed systems, and confidential computing.  Below are some major research projects.
 
 **Incentive and BFT Consensus Analysis**: This project applies stochastic processes to analyze decentralized incentive and BFT consensus designs. Related works include Ethereum (selfish mining, [ICDCS'19](https://arxiv.org/abs/1901.04620)), Bitcoin-NG (selfish mining, [Performance'20](https://arxiv.org/pdf/2001.05082.pdf)), chained HotStuff (evaluation framework, [INFOCOM'21](https://arxiv.org/abs/2107.04947)),  Crystal (transparent mining protocol, [TDSC'22](https://arxiv.org/abs/2312.00741)), and private transactions ([ACSAC'24](https://jianyu-niu.github.io/)).  
 
-**BFT Consensus at Scale**: This project aims to design simple and scalable BFT systems. Related works include EBFT (the simplest BFT consensus, [Arxiv](https://arxiv.org/abs/2012.01636), [Homepage](https://ebftalgorithm.github.io/)), Fast-HotStuff (robust chained BFT, [TDSC'23](https://arxiv.org/abs/2010.11454)), Stratus (shared mempool, [ICDE'23](https://github.com/gitferry/bamboo-stratus)), and Ladon (multi-BFT consensus, [EuroSys'25]()).
+**BFT Consensus at Scale**: This project aims to design simple and scalable BFT systems. Related works include EBFT (the simplest BFT consensus, [Homepage](https://ebftalgorithm.github.io/)), Fast-HotStuff (robust chained BFT, [TDSC'23](https://arxiv.org/abs/2010.11454)), Stratus (shared mempool, [ICDE'23](https://github.com/gitferry/bamboo-stratus)), and Ladon (multi-BFT consensus, [EuroSys'25](https://arxiv.org/abs/2409.10954)).
 
-**Distributed Confidential Computing**: This project explores integrations of confidential computing and various distributed computing techniques like blockchains and Federated Learning. Related works include Engraft (confidential consensus, [CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560639)), and Narrator/Narrator-Pro (rollback-resilient systems, [CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560620)/[TDSC'24](https://ieeexplore.ieee.org/abstract/document/10480251)), and Mercury/TeeRollup ([TEE-assisted Layer 2](https://arxiv.org/abs/2409.14647) and [exchange](https://arxiv.org/abs/2409.14640)).  
+**Distributed Confidential Computing**: This project explores integrations of confidential computing and various distributed computing techniques like blockchains and Federated Learning. Related works include Engraft (confidential consensus, [CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560639)), and Narrator/Narrator-Pro (rollback-resilient systems, [CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560620)/[TDSC'24](https://ieeexplore.ieee.org/abstract/document/10480251)), and Mercury/TeeRollup ([Exchange](https://arxiv.org/abs/2409.14640)/[Layer 2](https://arxiv.org/abs/2409.14647)).  
 
 News
 ------
+- (2024/10)**[Service]** I am invited to serve on the technical program committee of [ACM CCS'25](https://www.sigsac.org/ccs/CCS2025/).
 - (2024/08)**[Service]** I am invited to serve on the technical program committee of [AsiaCCS'25](https://asiaccs2025.hust.edu.vn/).
 - (2024/07)**[Paper]** Our work, Ladon, a high-performance multi-BFT protocol has been accepted to [EuroSys'25](). 
 - (2024/03)**[Paper]** Our work, Narrator-Pro (an extension to Narrator), has been accepted to [TDSC](https://ieeexplore.ieee.org/abstract/document/10480251). 
@@ -72,7 +73,7 @@ _IEEE Global Blockchain Conference_, Shanghai, China, Nov. 2024.
 _Annual Computer Security Applications Conference_, December 2024.  
  1. **<small>[ICMC'24]</small> SoK: AI-Powered Security Analysis of Smart Contract**  
 <ins>Shuo Yang</ins>, **Jianyu Niu**, Yinqian Zhang  
-_International Conference on Meta Computing_, Qingdao, China, Jun. 2024_.  
+_International Conference on Meta Computing_, Qingdao, China, Jun. 2024.  
  1. **<small>[FORTE'24]</small> Formally Verifying a Rollback-Prevention Protocol for TEEs**  
  Weili Wang,  **Jianyu Niu**, Michael K. Reiter, Yinqian Zhang  
 _International Conference on Formal Techniques for Distributed Objects, Components, and Systems_.
@@ -174,7 +175,7 @@ Professional Activities
 -----
 **Program Committee Member**
 - IEEE Global Blockchain Conference (GBC) [2024](http://ieee-gbc.org/)
-- ACM Conference on Computer and Communications Security (CCS) [2024](https://www.sigsac.org/ccs/CCS2024/)
+- ACM Conference on Computer and Communications Security (CCS) [2024](https://www.sigsac.org/ccs/CCS2024/), [2025](https://www.sigsac.org/ccs/CCS2025/)
 - IEEE International Conference on Mobility, Sensing and Networking (MSN) [2021](https://ieee-msn.org/2021/)
 - ACM Asia Conference on Computer and Communications Security (AsiaCCS) [2025](https://asiaccs2025.hust.edu.vn/)
 
