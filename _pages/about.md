@@ -22,7 +22,7 @@ My research fields include blockchain, distributed systems, and confidential com
 
 **BFT Consensus at Scale**: This project aims to design simple and scalable BFT systems. Related works include EBFT (the simplest BFT consensus, [Homepage](https://ebftalgorithm.github.io/)), Fast-HotStuff (robust chained BFT, [TDSC'23](https://arxiv.org/abs/2010.11454)), Stratus (shared mempool, [ICDE'23](https://github.com/gitferry/bamboo-stratus)), and Ladon (multi-BFT consensus, [EuroSys'25](https://arxiv.org/abs/2409.10954)).
 
-**Distributed Confidential Computing**: This project explores integrations of confidential computing and various distributed computing techniques like blockchains and Federated Learning. Related works include Engraft (confidential consensus, [CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560639)), and Narrator/Narrator-Pro (rollback-resilient systems, [CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560620)/[TDSC'24](https://ieeexplore.ieee.org/abstract/document/10480251)), and Mercury/TeeRollup ([Exchange](https://arxiv.org/abs/2409.14640)/[Layer 2](https://arxiv.org/abs/2409.14647)).  
+**Distributed Confidential Computing**: This project explores integrations of confidential computing and various distributed computing techniques like blockchains and Federated Learning. Related works include Engraft (confidential consensus, [CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560639)), and Narrator/Narrator-Pro (state continuity system, [CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560620)/[TDSC'24](https://ieeexplore.ieee.org/abstract/document/10480251)), and Mercury/TeeRollup ([Exchange](https://arxiv.org/abs/2409.14640)/[Layer 2](https://arxiv.org/abs/2409.14647)).  
 
 News
 ------
