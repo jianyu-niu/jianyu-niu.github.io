@@ -144,7 +144,7 @@ _Elsevier journal Performance Evaluation_ （**Fast tracked from Performance'20*
 Mentoring Students 
 -----
 **Ph.D. Students:**
-- Hanzheng Lyu  (2021.9-, UBCO, co-advised with Prof. Chen Feng)
+- [Hanzheng Lyu](https://hanzheng2021.github.io/)  (2021.9-, UBCO, co-advised with Prof. Chen Feng)
 - Xiaoqing Wen  (2022.11-, UBCO, co-advised with Prof. Chen Feng)
 
 **Master Students:**
@@ -168,7 +168,7 @@ Mentoring Students
 - Shengqi Liu (2023.9-2024.6, next position: MSc at UIUC)
   
 **Visting Students:**
-- Yuanhang Zhou (2023.6-2023.11, MSc at SEU, next position: PhD at UW)
+- [Yuanhang Zhou](https://scholar.google.com/citations?user=Cu431uMAAAAJ) (2023.6-2023.11, MSc at SEU, next position: PhD at UW)
 - Shuo Yang (2023.10-2024.8, MPhil at CUHK, next position: PhD at CityU)
 
 Professional Activities
