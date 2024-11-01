@@ -62,9 +62,12 @@ Xingyu Lyu, Mengya Zhang, Xiaokuan Zhang, **Jianyu Niu**, Yinqian Zhang, Zhiqian
 
 Conference Publications (*corresponding author, _ supervised students)
 ------
+ 1. **<small>[NDSS'25]</small> I Know What You Asked: Prompt Leakage via KV-Cache Sharing in Multi-Tenant LLM Serving**  
+Guanlong Wu, Zheng Zhang, Weili Wang, **Jianyu Niu***, Yao Zhang, Ye Wu, Yinqian Zhang  
+_The Network and Distributed System Security Symposium_, San Diego, California. Feb 2025.
  1. **<small>[EuroSys'25]</small> Ladon: High-Performance Multi-BFT Consensus via Dynamic Global Ordering** [[Extended]](https://arxiv.org/abs/2409.10954)  
 <ins>Hanzheng Lyu</ins>, <ins>Shaokang Xie</ins>, **Jianyu Niu***, Chen Feng, Yinqian Zhang, Ivan Beschastnikh  
-_European Conference on Computer Systems_, Rotterdam, Netherlands, Apr. 2025.
+_European Conference on Computer Systems_, Rotterdam, Netherlands, Apr 2025.
  1. **<small>[GBC'24]</small> TeeData: Enabling Privacy-Preserving Blockchain Data Sharing and Trading via TEE**  
 <ins>Dahui Li</ins>, <ins>Pengru Chen</ins>, <ins>Hongyan Sun</ins>, **Jianyu Niu**, Yinqian Zhang  
 _IEEE Global Blockchain Conference_, Shanghai, China, Nov. 2024.
