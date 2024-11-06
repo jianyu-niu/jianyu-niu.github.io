@@ -60,7 +60,7 @@ Xingyu Lyu, Mengya Zhang, Xiaokuan Zhang, **Jianyu Niu**, Yinqian Zhang, Zhiqian
 1. **Leader Rotation Is Not Enough: Scrutinizing Leadership Democracy of Chained BFT Consensus**  
 <ins>Yining Tang</ins>, **Jianyu Niu***, Runchao Han, Chen Feng, and Yinqian Zhang, in submission.
 
-Conference Publications (*corresponding author, _ supervised students)
+Selected Conference Publications (*corresponding author, _ supervised students)
 ------
  1. **<small>[NDSS'25]</small> I Know What You Asked: Prompt Leakage via KV-Cache Sharing in Multi-Tenant LLM Serving**  
 Guanlong Wu, Zheng Zhang, Weili Wang, **Jianyu Niu***, Yao Zhang, Ye Wu, Yinqian Zhang  
@@ -68,15 +68,9 @@ _The Network and Distributed System Security Symposium_, San Diego, California. 
  1. **<small>[EuroSys'25]</small> Ladon: High-Performance Multi-BFT Consensus via Dynamic Global Ordering** [[Extended]](https://arxiv.org/abs/2409.10954)  
 <ins>Hanzheng Lyu</ins>, <ins>Shaokang Xie</ins>, **Jianyu Niu***, Chen Feng, Yinqian Zhang, Ivan Beschastnikh  
 _European Conference on Computer Systems_, Rotterdam, Netherlands, Apr 2025.
- 1. **<small>[GBC'24]</small> TeeData: Enabling Privacy-Preserving Blockchain Data Sharing and Trading via TEE**  
-<ins>Dahui Li</ins>, <ins>Pengru Chen</ins>, <ins>Hongyan Sun</ins>, **Jianyu Niu**, Yinqian Zhang  
-_IEEE Global Blockchain Conference_, Shanghai, China, Nov. 2024.
  1. **<small>[ACSAC'24]</small> Breaking the Privacy Barrier: On the Feasibility of Reorganization Attacks on Ethereum Private Transaction**  
  Mengya Zhang, Xingyu Lyu, **Jianyu Niu**, Xiaokuan Zhang, Yinqian Zhang, and Zhiqiang Lin  
 _Annual Computer Security Applications Conference_, December 2024.  
- 1. **<small>[ICMC'24]</small> SoK: AI-Powered Security Analysis of Smart Contract**  
-<ins>Shuo Yang</ins>, **Jianyu Niu**, Yinqian Zhang  
-_International Conference on Meta Computing_, Qingdao, China, Jun. 2024.  
  1. **<small>[FORTE'24]</small> Formally Verifying a Rollback-Prevention Protocol for TEEs**  
  Weili Wang,  **Jianyu Niu**, Michael K. Reiter, Yinqian Zhang  
 _International Conference on Formal Techniques for Distributed Objects, Components, and Systems_.
@@ -96,9 +90,6 @@ _ACM Conference on Computer and Communications Security_.
  1. **<small>[CCS'22]</small> ENGRAFT: Enclave-guarded Raft on Byzantine Faulty Nodes**  
 Weili Wang, Sen Deng, **Jianyu Niu**, Michael K. Reiter, Yinqian Zhang  
 _ACM Conference on Computer and Communications Security_.
-1. **<small>[IWQoS'22]</small> When Power-of-d-Choices Meets Priority**  
-**Jianyu Niu**, Chunpu Wang, Hong Xu, Chen Feng  
-_IEEE/ACM International Symposium on Quality of Service_, Virtual, Jun. 2022.
 1. **<small>[MSN'21]</small> Publish or Perish: Defending Withholding Attack in Dfinity Consensus**  (<font color=Red>Best Paper Award</font>)  
 <ins>Hanzheng Lyu</ins>, **Jianyu Niu**, Fangyu Gai, Chen Feng   
 _IEEE International Conference on Mobility, Sensing and Networking_, Virtual, Dec. 2021.  
@@ -115,7 +106,7 @@ _International Symposium on Computer Performance, Modeling, Measurements and Eva
 **Jianyu Niu**, Chen Feng  
 _IEEE International Conference on Distributed Computing Systems_, Dallas, Texas, Jun. 2019.
 
-Journal Publications
+Selected Journal Publications
 ---
 1. **<small>[TDSC]</small>  Ensuring State Continuity for Confidential Computing: A Blockchain-based Approach**  
 Wei Peng, Xiang Li, **Jianyu Niu***, Xiaokuan Zhang, Yinqian Zhang  
