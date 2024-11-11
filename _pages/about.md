@@ -26,6 +26,8 @@ My research fields include blockchain, distributed systems, and confidential com
 
 News
 ------
+- (2024/11)**[Service]** I am invited to serve on the technical program committee of [ACM/IFIP Middleware'25](https://middleware-conf.github.io/2025/).
+- (2024/11)**[Paper]** Our work about side-channel attacks on KV cache sharing of multi-tenant LLM serving has been accepted to [NDSS'25](https://www.ndss-symposium.org/ndss2025/). 
 - (2024/10)**[Service]** I am invited to serve on the technical program committee of [ACM CCS'25](https://www.sigsac.org/ccs/CCS2025/).
 - (2024/08)**[Service]** I am invited to serve on the technical program committee of [AsiaCCS'25](https://asiaccs2025.hust.edu.vn/).
 - (2024/07)**[Paper]** Our work, Ladon, a high-performance multi-BFT protocol has been accepted to [EuroSys'25](). 
@@ -63,7 +65,7 @@ Xingyu Lyu, Mengya Zhang, Xiaokuan Zhang, **Jianyu Niu**, Yinqian Zhang, Zhiqian
 Selected Conference Publications (*corresponding author, _ supervised students)
 ------
  1. **<small>[NDSS'25]</small> I Know What You Asked: Prompt Leakage via KV-Cache Sharing in Multi-Tenant LLM Serving**  
-Guanlong Wu, Zheng Zhang, Weili Wang, **Jianyu Niu***, Yao Zhang, Ye Wu, Yinqian Zhang  
+Guanlong Wu, Zheng Zhang, Weili Wang, **Jianyu Niu**, Yao Zhang, Ye Wu, Yinqian Zhang  
 _The Network and Distributed System Security Symposium_, San Diego, California. Feb 2025.
  1. **<small>[EuroSys'25]</small> Ladon: High-Performance Multi-BFT Consensus via Dynamic Global Ordering** [[Extended]](https://arxiv.org/abs/2409.10954)  
 <ins>Hanzheng Lyu</ins>, <ins>Shaokang Xie</ins>, **Jianyu Niu***, Chen Feng, Yinqian Zhang, Ivan Beschastnikh  
@@ -183,4 +185,4 @@ Professional Activities
 - Asia Conference on Computer and Communications Security (AsiaCCS), 2024.
 - International Conference on Parallel and Distributed Systems (ICPADS), 2024.
 
-Last updated: 2024/09.
+Last updated: 2024/11.
