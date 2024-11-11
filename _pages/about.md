@@ -171,6 +171,7 @@ Professional Activities
 -----
 **Program Committee Member**
 - IEEE Global Blockchain Conference (GBC) [2024](http://ieee-gbc.org/)
+- ACM/IFIP International Middleware Conference (Middleware) [2025](https://middleware-conf.github.io/2025/)
 - ACM Conference on Computer and Communications Security (CCS) [2024](https://www.sigsac.org/ccs/CCS2024/), [2025](https://www.sigsac.org/ccs/CCS2025/)
 - IEEE International Conference on Mobility, Sensing and Networking (MSN) [2021](https://ieee-msn.org/2021/)
 - ACM Asia Conference on Computer and Communications Security (AsiaCCS) [2025](https://asiaccs2025.hust.edu.vn/)
