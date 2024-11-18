@@ -178,6 +178,7 @@ Professional Activities
 
 **Journal & Conference Reviewer**
 - IEEE Network, 2023.
+- ELSP Blockchain, 2024.
 - IEEE Transactions on Computer (TOC), 2023.
 - IEEE Internet of Things Journal (IoTJ), 2025.
 - IEEE Communications Letters (CL), Exemplary Reviewers (2019), 2019.
