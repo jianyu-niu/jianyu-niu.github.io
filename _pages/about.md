@@ -59,8 +59,10 @@ Xingyu Lyu, Mengya Zhang, Xiaokuan Zhang, **Jianyu Niu**, Yinqian Zhang, Zhiqian
 <ins>Xiaoqing Wen</ins>, <ins>Quanbi Feng</ins>, **Jianyu Niu***, Yinqian Zhang, Chen Feng  
 1. **Klotski: Towards Consensus Enabled Collaborative Vehicles in Intelligent Transportation**  
 <ins>Yuanhang Zhou</ins>, <ins>Shubo Peng</ins>, <ins>Hanzheng Lyu</ins>, Fei Tong, Chengqiang Huang, **Jianyu Niu***, in submission.
-1. **Leader Rotation Is Not Enough: Scrutinizing Leadership Democracy of Chained BFT Consensus**  
+1. **Leader Rotation Is Not Enough: Scrutinizing Leadership Democracy of Chained BFT Consensus**  [[Paper]](https://arxiv.org/pdf/2501.02970)   
 <ins>Yining Tang</ins>, **Jianyu Niu***, Runchao Han, Chen Feng, and Yinqian Zhang, in submission.
+1. **Fides: Scalable Censorship-Resistant DAG Consensus via Trusted Components**  [[Paper]](https://arxiv.org/abs/2501.01062)  
+<ins>Shaokang Xie</ins>, Dakai Kang, <ins>Hanzheng Lyu</ins>, **Jianyu Niu**, Mohammad Sadoghi.
 
 Selected Conference Publications (*corresponding author, _ supervised students)
 ------
