@@ -151,10 +151,6 @@ Mentoring Students
 - Quanbi Feng (2024.9-, SUSTech)
 - Shubo Peng (2024.9-, SUSTech)
 
-**Research Assistants & Interns:**
-- Yinan Mi (2023.9-2024.10)
-- Hongyan Sun (2024.4-2024.6)
-
 **Undergraduate Students (Thesis):**
 - Qiyuan Huang (2024.9-)
 - Hongjing Huang (2024.9-)
@@ -165,7 +161,11 @@ Mentoring Students
 - Shubo Peng (2023.9-2024.6, next position: MSc at SUSTech)
 - Hang Huang (2023.9-2024.6, next position: Huawei 2012 Lab)
 - Shengqi Liu (2023.9-2024.6, next position: MSc at UIUC)
-  
+
+**Research Assistants & Interns:**
+- Yinan Mi (2023.9-2024.10)
+- Hongyan Sun (2024.4-2024.6)
+
 **Visting Students:**
 - [Yuanhang Zhou](https://scholar.google.com/citations?user=Cu431uMAAAAJ) (2023.6-2024.01, MSc at SEU, next position: PhD at HKBU)
 - Shuo Yang (2023.10-2024.8, MPhil at CUHK, next position: PhD at CityU)
