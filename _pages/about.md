@@ -159,7 +159,6 @@ Mentoring Students
 
 **Undergraduate Students (Thesis):**
 - Qiyuan Huang (2024.9-)
-- Hongjing Huang (2024.9-)
 - Qihang Luo (2024.9-)
 - Dahui Li (2024.9-)
 - Shaokang Xie (2023.9-2024.6, next position: PhD at UC Davis)
