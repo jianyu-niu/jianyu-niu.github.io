@@ -26,6 +26,7 @@ My research fields include blockchain, distributed systems, and confidential com
 
 News
 ------
+- (2025/01)**[Paper]** Our work, Achilles, an efficient TEE-assisted BFT protocol with rollback resilient recovery has been accepted to [EuroSys'25](). 
 - (2024/11)**[Service]** I am invited to serve on the technical program committee of [ACM/IFIP Middleware'25](https://middleware-conf.github.io/2025/).
 - (2024/11)**[Paper]** Our work about side-channel attacks on KV cache sharing of multi-tenant LLM serving has been accepted to [NDSS'25](https://www.ndss-symposium.org/ndss2025/). 
 - (2024/10)**[Service]** I am invited to serve on the technical program committee of [ACM CCS'25](https://www.sigsac.org/ccs/CCS2025/).
@@ -72,6 +73,9 @@ Xingyu Lyu, Mengya Zhang, Xiaokuan Zhang, **Jianyu Niu**, Yinqian Zhang, Zhiqian
 
 Selected Conference Publications (*corresponding author, _ supervised students)
 ------
+1. **<small>[EuroSys'25]</small> Achilles: Efficient TEE-Assisted BFT Consensus via Rollback Resilient Recovery**  
+ **Jianyu Niu***, <ins>Xiaoqing Wen</ins>, <ins>Guanlong Wu</ins>, <ins>Shenqi Liu</ins>, Jiangshan Yu, Yinqian Zhang  
+_European Conference on Computer Systems_, Rotterdam, Netherlands, Apr 2025.
  1. **<small>[NDSS'25]</small> I Know What You Asked: Prompt Leakage via KV-Cache Sharing in Multi-Tenant LLM Serving**  
 Guanlong Wu, Zheng Zhang, Weili Wang, **Jianyu Niu**, Yao Zhang, Ye Wu, Yinqian Zhang  
 _The Network and Distributed System Security Symposium_, San Diego, California. Feb 2025.
@@ -194,4 +198,4 @@ Professional Activities
 - Asia Conference on Computer and Communications Security (AsiaCCS), 2024.
 - International Conference on Parallel and Distributed Systems (ICPADS), 2024.
 
-Last updated: 2024/11.
+Last updated: 2025/01.
