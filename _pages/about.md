@@ -111,7 +111,7 @@ _IEEE International Conference on Mobility, Sensing and Networking_, Virtual, De
 Fangyu Gai, Ali Farahbakhsh, **Jianyu Niu**, Chen Feng, Ivan Beschastnikh, Hao Duan  
 _IEEE International Conference on Distributed Computing Systems_, Virtual, Jul. 2021.
 1. **<small>[INFOCOM'21]</small> On the Performance of Pipelined HotStuff**  [[Blogs]](https://salemal.medium.com/on-the-performance-of-pipelined-hotstuff-a8e468f66095)  
-**Jianyu Niu**, Fangyu Gai, Mohammad Mussadiq Jalalzai, Chen Feng  
+**Jianyu Niu**, Fangyu Gai, Mohammad M. Jalalzai, Chen Feng  
 _IEEE International Conference on Computer Communications_, Virtual, May. 2021.
 1. **<small>[Performance'20]</small> Incentive Analysis of Bitcoin-NG, Revisited**  
 **Jianyu Niu**, Ziyu Wang, Fangyu Gai, Chen Feng  
@@ -123,7 +123,7 @@ _IEEE International Conference on Distributed Computing Systems_, Dallas, Texas,
 Selected Journal Publications
 ---
 1. **<small>[TDSC]</small> Chained HotStuff Under Performance Attack**  
-**Jianyu Niu**, Minjie Wang, Fangyu Gai, Mohammad Mussadiq Jalalzai, Chen Feng, Yinqian Zhang  
+**Jianyu Niu**, Minjie Wang, Fangyu Gai, Mohammad M. Jalalzai, Chen Feng, Yinqian Zhang  
 _IEEE Transactions on Dependable and Secure Computing_, 2025.  
 1. **<small>[TDSC]</small>  Ensuring State Continuity for Confidential Computing: A Blockchain-based Approach**  
 Wei Peng, Xiang Li, **Jianyu Niu***, Xiaokuan Zhang, Yinqian Zhang  
