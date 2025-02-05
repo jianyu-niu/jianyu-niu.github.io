@@ -18,11 +18,11 @@ Research
 ------
 My research fields include blockchain, distributed systems, and confidential computing.  Below are some major research projects.
 
-**Analysis of blockchain incentive and consensus**: This project applies stochastic processes to analyze decentralized incentive and BFT consensus designs. Related works include Ethereum (selfish mining, [ICDCS'19](https://arxiv.org/abs/1901.04620)), Bitcoin-NG (selfish mining, [Performance'20](https://arxiv.org/pdf/2001.05082.pdf)), chained HotStuff (evaluation framework, [INFOCOM'21](https://arxiv.org/abs/2107.04947)/[TDSC'25]()),  Crystal (transparent mining protocol, [TDSC'22](https://arxiv.org/abs/2312.00741)), and private transactions ([ACSAC'24](https://jianyu-niu.github.io/)).  
+**Analysis of blockchain incentive and consensus**: This project applies stochastic processes to analyze decentralized incentive and BFT consensus designs. Related works include Ethereum (selfish mining, [ICDCS'19](https://arxiv.org/abs/1901.04620)), Bitcoin-NG (selfish mining, [Performance'20](https://arxiv.org/pdf/2001.05082.pdf)), chained HotStuff (evaluation framework, [INFOCOM'21](https://arxiv.org/abs/2107.04947)/[TDSC'25]()),  Crystal (transparent mining protocol, [TDSC'22](https://arxiv.org/abs/2312.00741)), private transactions ([ACSAC'24](https://jianyu-niu.github.io/)), chained BFT ([Responsiveness](https://arxiv.org/abs/2501.03695), [Democracy](https://arxiv.org/pdf/2501.02970)) 
 
-**BFT consensus at scale**: This project aims to design simple and scalable BFT systems. Related works include Hermes (structured transmission, [TDSC'21](https://ieeexplore.ieee.org/document/9543565)), EBFT (extreme simplicity, [Homepage](https://ebftalgorithm.github.io/)), Fast-HotStuff (robust chained BFT, [TDSC'23](https://arxiv.org/abs/2010.11454)), Stratus (shared mempool, [ICDE'23](https://github.com/gitferry/bamboo-stratus)), and Ladon (multi-BFT consensus, [EuroSys'25](https://arxiv.org/abs/2409.10954)).
+**BFT consensus at scale**: This project aims to design simple and scalable BFT systems. Related works include Hermes (structured transmission, [TDSC'21](https://ieeexplore.ieee.org/document/9543565)), EBFT (extreme simplicity, [Homepage](https://ebftalgorithm.github.io/)), Fast-HotStuff (robust chained BFT, [TDSC'23](https://arxiv.org/abs/2010.11454)), Stratus (shared mempool, [ICDE'23](https://github.com/gitferry/bamboo-stratus)), and Ladon/Orthrus (multi-BFT consensus, [EuroSys'25](https://arxiv.org/abs/2409.10954)/[Arxiv]()).
 
-**Distributed confidential computing**: This project explores integrations of confidential computing and various distributed computing techniques like blockchains and Federated Learning. Related works include Engraft (confidential consensus, [CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560639)), Narrator/Narrator-Pro (state continuity system, [CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560620)/[TDSC'24](https://ieeexplore.ieee.org/abstract/document/10480251)), Achilles (TEE-assisted BFT, [EuroSys'25]()), and Mercury/TeeRollup ([Exchange](https://arxiv.org/abs/2409.14640)/[Layer 2](https://arxiv.org/abs/2409.14647)).  
+**Distributed confidential computing**: This project explores integrations of confidential computing and various distributed computing techniques like blockchains and Federated Learning. Related works include Engraft (confidential consensus, [CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560639)), Narrator/Narrator-Pro (state continuity system, [CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560620)/[TDSC'24](https://ieeexplore.ieee.org/abstract/document/10480251)), Achilles (TEE-assisted BFT, [EuroSys'25]()), Mercury/TeeRollup ([Exchange](https://arxiv.org/abs/2409.14640)/[Layer 2](https://arxiv.org/abs/2409.14647)), and Fides ([TEE-assisted DAG](https://arxiv.org/abs/2501.01062)).
 
 News
 ------
@@ -49,24 +49,24 @@ Preprints
 1. **Analysis of Nakamoto Consensus, Revisited**  
 **Jianyu Niu**, Chen Feng, Hoang Dau, Yu-Chih Huang, Jingge Zhu  
 [[Paper]](https://arxiv.org/pdf/1910.08510.pdf) [[Selected as "Paper of the Week" (Issue #31) by ZK Capital]](https://zkcapital.substack.com/p/this-week-in-blockchain-research-927?token=eyJ1c2VyX2lkIjoyNzY3MzU2LCJwb3N0X2lkIjoxNTI4MDcsIl8iOiIrK24rMCIsImlhdCI6MTYzMjQ0ODMxNCwiZXhwIjoxNjMyNDUxOTE0LCJpc3MiOiJwdWItNjQ0MSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.n361wEaWHTRxnXO63B-vNwv9mzFIUGk5qCs0q2yScJk)  
-1. **EBFT: Simplifying BFT Consensus Through Egalitarianism**  
+1. **EBFT: Simplifying BFT Consensus Through Egalitarianism** [[Paper]](https://arxiv.org/pdf/2012.01636.pdf)  
 **Jianyu Niu**, Runchao Han, <ins>Shengqi Liu</ins>, Fangyu Gai, Ivan Beschastnikh, Yinqian Zhang, Chen Feng  
-**[[One variant used in VeChain]](https://github.com/vechain/VIPs/blob/master/vips/VIP-220.md) [[Paper]](https://arxiv.org/pdf/2012.01636.pdf) [[Previous version selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/)**  
+**[[One variant used in VeChain]](https://github.com/vechain/VIPs/blob/master/vips/VIP-220.md) [[Previous version selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/)**  
 1. **An Empirical Study on Ethereum Private Transactions and the Security Implications** [[Paper]](https://arxiv.org/abs/2208.02858)  
 Xingyu Lyu, Mengya Zhang, Xiaokuan Zhang, **Jianyu Niu**, Yinqian Zhang, Zhiqiang Lin
-1. **Mercury: Practical Cross-Chain Exchange via Trusted Hardware**  [[Paper]](https://arxiv.org/abs/2409.14640)  
+1. **Mercury: Practical Cross-Chain Exchange via Trusted Hardware** [[Paper]](https://arxiv.org/abs/2409.14640)  
 <ins>Xiaoqing Wen</ins>, <ins>Quanbi Feng</ins>, **Jianyu Niu***, Yinqian Zhang, Chen Feng  
 1. **TeeRollup: Efficient Rollup Design Using Heterogeneous TEE** [[Paper]](https://arxiv.org/abs/2409.14647)  
 <ins>Xiaoqing Wen</ins>, <ins>Quanbi Feng</ins>, **Jianyu Niu***, Yinqian Zhang, Chen Feng  
 1. **Klotski: Towards Consensus Enabled Collaborative Vehicles in Intelligent Transportation**  
 <ins>Yuanhang Zhou</ins>, <ins>Shubo Peng</ins>, <ins>Hanzheng Lyu</ins>, Fei Tong, Chengqiang Huang, **Jianyu Niu***, in submission.
-1. **Orthrus: Accelerating Multi-BFT Consensus through Concurrent Partial Ordering of Transactions**  
+1. **Orthrus: Accelerating Multi-BFT Consensus through Concurrent Partial Ordering of Transactions** [[Paper]](https://arxiv.org/abs/2501.14732)   
 <ins>Hanzheng Lyu</ins>, <ins>Shaokang Xie</ins>, **Jianyu Niu***, Mohammad Sadoghi, Ivan Beschastnikh, Yinqian Zhang, Chen Feng. in submission.
-1. **Leader Rotation Is Not Enough: Scrutinizing Leadership Democracy of Chained BFT Consensus**  [[Paper]](https://arxiv.org/pdf/2501.02970)   
+1. **Leader Rotation Is Not Enough: Scrutinizing Leadership Democracy of Chained BFT Consensus** [[Paper]](https://arxiv.org/pdf/2501.02970)   
 <ins>Yining Tang</ins>,  Runchao Han, **Jianyu Niu***, Chen Feng, and Yinqian Zhang.  
-1. **Fides: Scalable Censorship-Resistant DAG Consensus via Trusted Components**  [[Paper]](https://arxiv.org/abs/2501.01062)  
+1. **Fides: Scalable Censorship-Resistant DAG Consensus via Trusted Components** [[Paper]](https://arxiv.org/abs/2501.01062)  
 <ins>Shaokang Xie</ins>, Dakai Kang, <ins>Hanzheng Lyu</ins>, **Jianyu Niu**, Mohammad Sadoghi.  
-1. **Unraveling Responsiveness of Chained BFT Consensus with Network Delay**  [[Paper]](https://arxiv.org/abs/2501.03695)   
+1. **Unraveling Responsiveness of Chained BFT Consensus with Network Delay** [[Paper]](https://arxiv.org/abs/2501.03695)    
 <ins>Yining Tang</ins>, <ins>Qihang Luo</ins>, Runchao Han, **Jianyu Niu***, Chen Feng, and Yinqian Zhang.  
 
 
