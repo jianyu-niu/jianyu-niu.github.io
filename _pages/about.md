@@ -18,7 +18,7 @@ Research
 ------
 My research fields include blockchain, distributed systems, and confidential computing.  Below are some major research projects.
 
-**Analysis of blockchain incentive and consensus**: This project applies stochastic processes to analyze decentralized incentive and BFT consensus designs. Related works include Ethereum (selfish mining, [ICDCS'19](https://arxiv.org/abs/1901.04620)), Bitcoin-NG (selfish mining, [Performance'20](https://arxiv.org/pdf/2001.05082.pdf)), chained HotStuff (evaluation framework, [INFOCOM'21](https://arxiv.org/abs/2107.04947)),  Crystal (transparent mining protocol, [TDSC'22](https://arxiv.org/abs/2312.00741)), and private transactions ([ACSAC'24](https://jianyu-niu.github.io/)).  
+**Analysis of blockchain incentive and consensus**: This project applies stochastic processes to analyze decentralized incentive and BFT consensus designs. Related works include Ethereum (selfish mining, [ICDCS'19](https://arxiv.org/abs/1901.04620)), Bitcoin-NG (selfish mining, [Performance'20](https://arxiv.org/pdf/2001.05082.pdf)), chained HotStuff (evaluation framework, [INFOCOM'21](https://arxiv.org/abs/2107.04947)/[TDSC'25]()),  Crystal (transparent mining protocol, [TDSC'22](https://arxiv.org/abs/2312.00741)), and private transactions ([ACSAC'24](https://jianyu-niu.github.io/)).  
 
 **BFT consensus at scale**: This project aims to design simple and scalable BFT systems. Related works include Hermes (structured transmission, [TDSC'21](https://ieeexplore.ieee.org/document/9543565)), EBFT (extreme simplicity, [Homepage](https://ebftalgorithm.github.io/)), Fast-HotStuff (robust chained BFT, [TDSC'23](https://arxiv.org/abs/2010.11454)), Stratus (shared mempool, [ICDE'23](https://github.com/gitferry/bamboo-stratus)), and Ladon (multi-BFT consensus, [EuroSys'25](https://arxiv.org/abs/2409.10954)).
 
@@ -122,6 +122,9 @@ _IEEE International Conference on Distributed Computing Systems_, Dallas, Texas,
 
 Selected Journal Publications
 ---
+1. **<small>[TDSC]</small> Chained HotStuff Under Performance Attack**  
+**Jianyu Niu**, Minjie Wang, Fangyu Gai, Mohammad Mussadiq Jalalzai, Chen Feng, Yinqian Zhang  
+_IEEE Transactions on Dependable and Secure Computing_, 2025.  
 1. **<small>[TDSC]</small>  Ensuring State Continuity for Confidential Computing: A Blockchain-based Approach**  
 Wei Peng, Xiang Li, **Jianyu Niu***, Xiaokuan Zhang, Yinqian Zhang  
 _IEEE Transactions on Dependable and Secure Computing_, 2024.  
