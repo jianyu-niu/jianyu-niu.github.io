@@ -123,10 +123,10 @@ _IEEE International Conference on Distributed Computing Systems_, Dallas, Texas,
 Selected Journal Publications
 ---
 1. **<small>[TDSC]</small> Chained HotStuff Under Performance Attack**  
-**Jianyu Niu**, Minjie Wang, Fangyu Gai, Mohammad M. Jalalzai, Chen Feng, Yinqian Zhang  
+<ins>Minjie Wang</ins>, **Jianyu Niu***, Fangyu Gai, Mohammad M. Jalalzai, Chen Feng, Yinqian Zhang  
 _IEEE Transactions on Dependable and Secure Computing_, 2025.  
 1. **<small>[TDSC]</small>  Ensuring State Continuity for Confidential Computing: A Blockchain-based Approach**  
-Wei Peng, Xiang Li, **Jianyu Niu***, Xiaokuan Zhang, Yinqian Zhang  
+<ins>Wei Peng</ins>, <ins>Xiang Li</ins>, **Jianyu Niu***, Xiaokuan Zhang, Yinqian Zhang  
 _IEEE Transactions on Dependable and Secure Computing_, 2024.  
 1. **<small>[TDSC]</small>  A Privacy-Preserving Incentive Mechanism for Mobile Crowdsensing based on Blockchain**  
 Fei Tong, Yuanhang Zhou, Kaiming Wang, Guang Cheng, **Jianyu Niu**, Shibo He  
