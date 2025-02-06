@@ -33,16 +33,11 @@ News
 - (2024/08)**[Service]** I am invited to serve on the technical program committee of [AsiaCCS'25](https://asiaccs2025.hust.edu.vn/).
 - (2024/07)**[Paper]** Our work, Ladon, a high-performance multi-BFT protocol has been accepted to [EuroSys'25](). 
 - (2024/03)**[Paper]** Our work, Narrator-Pro (an extension to Narrator), has been accepted to [TDSC](https://ieeexplore.ieee.org/abstract/document/10480251). 
-- (2024/03)**[Service]** I am invited to serve on the technical program committee of [IEEE GBC'24](http://ieee-gbc.org/).
 - (2024/01)**[Service]** I am invited to serve on the technical program committee of [ACM CCS'24](https://www.sigsac.org/ccs/CCS2024/).
-- (2023/08)**[Paper]** Our work, Fast-HotStuff, has been accepted to [TDSC](https://ieeexplore.ieee.org/document/10041785), respectively.
-- (2023/02)**[Paper]** Our work, SodsBC, has been accepted to [TDSC](https://ieeexplore.ieee.org/document/10041785).
-- (2022/10)**[Paper]** Our paper, “Crystal: Enhancing Blockchain Mining Transparency with Quorum Certificate”, has been accepted to [TDSC](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=8858).
 - (2022/08)**[Paper]** Our work, Narrator, has been accepted to [CCS 2022](https://www.sigsac.org/ccs/CCS2022/).
 - (2022/08)**[Paper]** Our paper, “ENGRAFT: Enclave-guarded Raft on Byzantine Faulty Nodes”, has been accepted to [CCS 2022](https://www.sigsac.org/ccs/CCS2022/).
 - (2022/08)**[Paper]** Our paper, “Scaling Blockchain Consensus via a Robust Shared Mempool”, has been accepted to [ICDE 2023](https://icde2023.ics.uci.edu/).
-- (2022/04)**[Paper]** Our paper, “When Power-of-d-Choices Meets Priority”, has been accepted to [IWQoS 2022](https://iwqos2022.ieee-iwqos.org/).
-- (2021/12)**[Paper]** Our paper, “Publish or Perish: Defending Withholding Attack in Dfinity Consensus”, has been selected as the best paper in [MSN 2021](https://www.ieee-msn.org/2021/).
+- (2021/12)**[Paper]** Our paper, “Publish or Perish: Defending Withholding Attack in Dfinity Consensus”, has been selected as the **best paper** in [MSN 2021](https://www.ieee-msn.org/2021/).
 
 Preprints
 ------
@@ -168,7 +163,7 @@ Mentoring Students
 - Qiyuan Huang (2024.9-)
 - Qihang Luo (2024.9-)
 - Dahui Li (2024.9-)
-- Shaokang Xie (2023.9-2024.6, next position: PhD at UC Davis)
+- [Shaokang Xie](https://scholar.google.com/citations?user=ziRt4M8AAAAJ&hl=en) (2023.9-2024.6, next position: PhD at UC Davis)
 - Quanbi Feng (2023.9-2024.6, next position:  MSc at SUSTech)
 - Shubo Peng (2023.9-2024.6, next position: MSc at SUSTech)
 - Hang Huang (2023.9-2024.6, next position: Huawei 2012 Lab)
