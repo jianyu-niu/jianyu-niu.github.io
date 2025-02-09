@@ -116,22 +116,16 @@ _IEEE International Conference on Distributed Computing Systems_, Dallas, Texas,
 
 Selected Journal Publications
 ---
-1. **<small>[TDSC]</small> Chained HotStuff Under Performance Attack**  
+1. **<small>[TDSC]</small> Chained HotStuff under Performance Attack**  
 <ins>Minjie Wang</ins>, **Jianyu Niu***, Fangyu Gai, Mohammad M. Jalalzai, Yinqian Zhang, Chen Feng  
 _IEEE Transactions on Dependable and Secure Computing_, 2025.  
 1. **<small>[TDSC]</small>  Ensuring State Continuity for Confidential Computing: A Blockchain-based Approach**  
 <ins>Wei Peng</ins>, <ins>Xiang Li</ins>, **Jianyu Niu***, Xiaokuan Zhang, Yinqian Zhang  
 _IEEE Transactions on Dependable and Secure Computing_, 2024.  
-1. **<small>[TDSC]</small>  A Privacy-Preserving Incentive Mechanism for Mobile Crowdsensing based on Blockchain**  
-Fei Tong, Yuanhang Zhou, Kaiming Wang, Guang Cheng, **Jianyu Niu**, Shibo He  
-_IEEE Transactions on Dependable and Secure Computing_, 2024.
 1. **<small>[TDSC]</small>  Fast-Hotstuff: A Fast and Resilient Hotstuff Protocol**  
 Mohammad Jalalzai, **Jianyu Niu**, Chen Feng, Fangyu Gai  
 [[Paper]](https://arxiv.org/pdf/2010.11454.pdf) [[Selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/) [\[Used in Deso](https://revolution.deso.com/) [and Zilliqa 2.0\]](https://blog.zilliqa.com/evm-and-the-road-to-zilliqa-2-0-upgrading-network-efficiency/)  
 _IEEE Transactions on Dependable and Secure Computing_, 2023.  
-1. **<small>[IoTJ]</small> A Secure Sidechain for Decentralized Trading in Internet of Things**  
-Fangyu Gai , **Jianyu Niu***, Mohammad M. Jalalzai , Seyed Ali Tabatabaee, Chen Feng  
-_IEEE Internet of Things Journal_, 2023.
 1. **<small>[TDSC]</small>  SodsBC: A Practical Post-quantum by Design Asynchronous Blockchain Framework**  
 Shlomi Dolev, Bingyong Guo, **Jianyu Niu**, Ziyu Wang (**Alphabetically ordered**)  
 _IEEE Transactions on Dependable and Secure Computing_, 2023. 
@@ -195,4 +189,4 @@ Professional Activities
 - Asia Conference on Computer and Communications Security (AsiaCCS), 2024.
 - International Conference on Parallel and Distributed Systems (ICPADS), 2024.
 
-Last updated: 2025/01.
+Last updated: 2025/02.
