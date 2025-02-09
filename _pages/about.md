@@ -79,16 +79,6 @@ _European Conference on Computer Systems_, Rotterdam, Netherlands, Apr 2025.
  1. **<small>[ACSAC'24]</small> Breaking the Privacy Barrier: On the Feasibility of Reorganization Attacks on Ethereum Private Transaction**  
  Mengya Zhang, Xingyu Lyu, **Jianyu Niu**, Xiaokuan Zhang, Yinqian Zhang, and Zhiqiang Lin  
 _Annual Computer Security Applications Conference_, December 2024.  
- 1. **<small>[FORTE'24]</small> Formally Verifying a Rollback-Prevention Protocol for TEEs**  
- Weili Wang,  **Jianyu Niu**, Michael K. Reiter, Yinqian Zhang  
-_International Conference on Formal Techniques for Distributed Objects, Components, and Systems_.
- 1. **<small>[SEED'24]</small> SoK: Opportunities for Accelerating Multi-Party Computation via 
-  Trusted Hardware**  
-Tong Liu, Zhen Huang, Jiaao Li, **Jianyu Niu**, Guoxing Chen, Yinqian Zhang   
-_International Symposium on Secure and Private Execution Environment Design_.  
- 1. **<small>[SecureComm'23]</small> Byzantine Protocols with Asymptotically Optimal Communication Complexity**  
-<ins>Hanzheng Lyu</ins>, <ins>Shaokang Xie</ins>, **Jianyu Niu**, Chen Feng   
-_EAI International Conference on Security and Privacy in Communication Networks_.  
  1. **<small>[ICDE'23]</small> Scaling Blockchain Consensus via a Robust Shared Mempool**  
 Fangyu Gai, **Jianyu Niu***, Ivan Beschastnikh, Chen Feng, Sheng Wang  
 _IEEE International Conference on Data Engineering_.
