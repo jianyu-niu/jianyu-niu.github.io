@@ -87,9 +87,6 @@ _ACM Conference on Computer and Communications Security_.
 1. **<small>[MSN'21]</small> Publish or Perish: Defending Withholding Attack in Dfinity Consensus**  (<font color=Red>Best Paper Award</font>)  
 <ins>Hanzheng Lyu</ins>, **Jianyu Niu**, Fangyu Gai, Chen Feng   
 _IEEE International Conference on Mobility, Sensing and Networking_, Virtual, Dec. 2021.  
-1. **<small>[ICDCS'21]</small> Dissecting the Performance of Chained-BFT**  
-Fangyu Gai, Ali Farahbakhsh, **Jianyu Niu**, Chen Feng, Ivan Beschastnikh, Hao Duan  
-_IEEE International Conference on Distributed Computing Systems_, Virtual, Jul. 2021.
 1. **<small>[INFOCOM'21]</small> On the Performance of Pipelined HotStuff**  [[Blogs]](https://salemal.medium.com/on-the-performance-of-pipelined-hotstuff-a8e468f66095)  
 **Jianyu Niu**, Fangyu Gai, Mohammad M. Jalalzai, Chen Feng  
 _IEEE International Conference on Computer Communications_, Virtual, May. 2021.
@@ -112,19 +109,12 @@ _IEEE Transactions on Dependable and Secure Computing_, 2024.
 Mohammad Jalalzai, **Jianyu Niu**, Chen Feng, Fangyu Gai  
 [[Paper]](https://arxiv.org/pdf/2010.11454.pdf) [[Selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/) [\[Used in Deso](https://revolution.deso.com/) [and Zilliqa 2.0\]](https://blog.zilliqa.com/evm-and-the-road-to-zilliqa-2-0-upgrading-network-efficiency/)  
 _IEEE Transactions on Dependable and Secure Computing_, 2023.  
-1. **<small>[TDSC]</small>  SodsBC: A Practical Post-quantum by Design Asynchronous Blockchain Framework**  
-Shlomi Dolev, Bingyong Guo, **Jianyu Niu**, Ziyu Wang (**Alphabetically ordered**)  
-_IEEE Transactions on Dependable and Secure Computing_, 2023. 
 1. **<small>[TDSC]</small> Crystal: Enhancing Blockchain Mining Transparency with Quorum Certificate**  
 **Jianyu Niu**, Fangyu Gai, Runchao Han, Ren Zhang, Yinqian Zhang, Chen Feng  
 _IEEE Transactions on Dependable and Secure Computing_, 2022.
 1. **<small>[TDSC]</small> The Hermes BFT for Blockchains**  
 Mohammad Jalalzai, Chen Feng, Costas Busch, Golden, Richard III, **Jianyu Niu**  
 _IEEE Transactions on Dependable and Secure Computing_, 2021.
-1. **<small>[PEVA]</small> Incentive Analysis of Bitcoin-NG, Revisited**  
-**Jianyu Niu**, Ziyu Wang, Fangyu Gai, Chen Feng  
-_Elsevier journal Performance Evaluation_ （**Fast tracked from Performance'20**), 2020.
-
 
 Mentoring Students 
 -----
