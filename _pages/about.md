@@ -40,9 +40,11 @@ News
 
 Preprints
 ------
-1. **Analysis of Nakamoto Consensus, Revisited**  
-**Jianyu Niu**, Chen Feng, Hoang Dau, Yu-Chih Huang, Jingge Zhu  
-[[Paper]](https://arxiv.org/pdf/1910.08510.pdf) [[Selected as "Paper of the Week" (Issue #31) by ZK Capital]](https://zkcapital.substack.com/p/this-week-in-blockchain-research-927?token=eyJ1c2VyX2lkIjoyNzY3MzU2LCJwb3N0X2lkIjoxNTI4MDcsIl8iOiIrK24rMCIsImlhdCI6MTYzMjQ0ODMxNCwiZXhwIjoxNjMyNDUxOTE0LCJpc3MiOiJwdWItNjQ0MSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.n361wEaWHTRxnXO63B-vNwv9mzFIUGk5qCs0q2yScJk)  
+<!---
+/* 1. **Analysis of Nakamoto Consensus, Revisited**  
+**Jianyu Niu**, Chen Feng, Hoang Dau, Yu-Chih Huang, Jingge Zhu [[Paper]](https://arxiv.org/pdf/1910.08510.pdf)  
+[[Selected as "Paper of the Week" (Issue #31) by ZK Capital]](https://zkcapital.substack.com/p/this-week-in-blockchain-research-927?token=eyJ1c2VyX2lkIjoyNzY3MzU2LCJwb3N0X2lkIjoxNTI4MDcsIl8iOiIrK24rMCIsImlhdCI6MTYzMjQ0ODMxNCwiZXhwIjoxNjMyNDUxOTE0LCJpc3MiOiJwdWItNjQ0MSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.n361wEaWHTRxnXO63B-vNwv9mzFIUGk5qCs0q2yScJk)  
+-->
 1. **EBFT: Simplifying BFT Consensus Through Egalitarianism** [[Paper]](https://arxiv.org/pdf/2012.01636.pdf)  
 **Jianyu Niu**, Runchao Han, <ins>Shengqi Liu</ins>, Fangyu Gai, Ivan Beschastnikh, Yinqian Zhang, Chen Feng  
 **[[One variant used in VeChain]](https://github.com/vechain/VIPs/blob/master/vips/VIP-220.md) [[Previous version selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/)**  
