@@ -50,15 +50,14 @@ Preprints
 <ins>Xiaoqing Wen</ins>, <ins>Quanbi Feng</ins>, **Jianyu Niu***, Yinqian Zhang, Chen Feng  
 1. **TeeRollup: Efficient Rollup Design Using Heterogeneous TEE** [[Paper]](https://arxiv.org/abs/2409.14647)  
 <ins>Xiaoqing Wen</ins>, <ins>Quanbi Feng</ins>, **Jianyu Niu***, Yinqian Zhang, Chen Feng  
-1. **Orthrus: Accelerating Multi-BFT Consensus through Concurrent Partial Ordering of Transactions** [[Paper]](https://arxiv.org/abs/2501.14732)   
-<ins>Hanzheng Lyu</ins>, <ins>Shaokang Xie</ins>, **Jianyu Niu***, Mohammad Sadoghi, Ivan Beschastnikh, Yinqian Zhang, Chen Feng. in submission.
+1. **Unraveling Responsiveness of Chained BFT Consensus with Network Delay** [[Paper]](https://arxiv.org/abs/2501.03695)    
+<ins>Yining Tang</ins>, <ins>Qihang Luo</ins>, Runchao Han, **Jianyu Niu***, Chen Feng, and Yinqian Zhang.  
 1. **Leader Rotation Is Not Enough: Scrutinizing Leadership Democracy of Chained BFT Consensus** [[Paper]](https://arxiv.org/pdf/2501.02970)   
 <ins>Yining Tang</ins>,  Runchao Han, **Jianyu Niu***, Chen Feng, and Yinqian Zhang.  
 1. **Fides: Scalable Censorship-Resistant DAG Consensus via Trusted Components** [[Paper]](https://arxiv.org/abs/2501.01062)  
-<ins>Shaokang Xie</ins>, Dakai Kang, <ins>Hanzheng Lyu</ins>, **Jianyu Niu**, Mohammad Sadoghi.  
-1. **Unraveling Responsiveness of Chained BFT Consensus with Network Delay** [[Paper]](https://arxiv.org/abs/2501.03695)    
-<ins>Yining Tang</ins>, <ins>Qihang Luo</ins>, Runchao Han, **Jianyu Niu***, Chen Feng, and Yinqian Zhang.  
-
+<ins>Shaokang Xie</ins>, Dakai Kang, <ins>Hanzheng Lyu</ins>, **Jianyu Niu**, Mohammad Sadoghi.
+1. **Orthrus: Accelerating Multi-BFT Consensus through Concurrent Partial Ordering of Transactions** [[Paper]](https://arxiv.org/abs/2501.14732)   
+<ins>Hanzheng Lyu</ins>, <ins>Shaokang Xie</ins>, **Jianyu Niu***, Mohammad Sadoghi, Ivan Beschastnikh, Yinqian Zhang, Chen Feng. 
 
 
 Selected Conference Publications (*corresponding author, _ supervised students)
