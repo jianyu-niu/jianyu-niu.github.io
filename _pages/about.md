@@ -107,14 +107,14 @@ _IEEE Transactions on Dependable and Secure Computing_, 2025.
 <ins>Wei Peng</ins>, <ins>Xiang Li</ins>, **Jianyu Niu***, Xiaokuan Zhang, Yinqian Zhang  
 _IEEE Transactions on Dependable and Secure Computing_, 2024.  
 1. **<small>[TDSC]</small>  Fast-Hotstuff: A Fast and Resilient Hotstuff Protocol**  
-Mohammad Jalalzai, **Jianyu Niu**, Chen Feng, Fangyu Gai  
+Mohammad M. Jalalzai, **Jianyu Niu**, Chen Feng, Fangyu Gai  
 [[Paper]](https://arxiv.org/pdf/2010.11454.pdf) [[Selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/) [\[Used in Deso](https://revolution.deso.com/) [and Zilliqa 2.0\]](https://blog.zilliqa.com/evm-and-the-road-to-zilliqa-2-0-upgrading-network-efficiency/)  
 _IEEE Transactions on Dependable and Secure Computing_, 2023.  
 1. **<small>[TDSC]</small> Crystal: Enhancing Blockchain Mining Transparency with Quorum Certificate**  
 **Jianyu Niu**, Fangyu Gai, Runchao Han, Ren Zhang, Yinqian Zhang, Chen Feng  
 _IEEE Transactions on Dependable and Secure Computing_, 2022.
 1. **<small>[TDSC]</small> The Hermes BFT for Blockchains**  
-Mohammad Jalalzai, Chen Feng, Costas Busch, Golden, Richard III, **Jianyu Niu**  
+Mohammad M. Jalalzai, Chen Feng, Costas Busch, Golden G. Richard III, **Jianyu Niu**  
 _IEEE Transactions on Dependable and Secure Computing_, 2021.
 
 Mentoring Students 
