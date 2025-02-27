@@ -65,7 +65,7 @@ Preprints
 Selected Conference Publications (*corresponding author, _ supervised students)
 ------
 1. **<small>[EuroSys'25]</small> Achilles: Efficient TEE-Assisted BFT Consensus via Rollback Resilient Recovery**  
- **Jianyu Niu***, <ins>Xiaoqing Wen</ins>, <ins>Guanlong Wu</ins>, <ins>Shenqi Liu</ins>, Jiangshan Yu, Yinqian Zhang  
+ **Jianyu Niu**, <ins>Xiaoqing Wen</ins>, <ins>Guanlong Wu</ins>, <ins>Shenqi Liu</ins>, Jiangshan Yu, Yinqian Zhang  
 _European Conference on Computer Systems_, Rotterdam, Netherlands, Apr 2025.
  1. **<small>[NDSS'25]</small> I Know What You Asked: Prompt Leakage via KV-Cache Sharing in Multi-Tenant LLM Serving**  
 Guanlong Wu, Zheng Zhang, Weili Wang, **Jianyu Niu**, Yao Zhang, Ye Wu, Yinqian Zhang  
