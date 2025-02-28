@@ -47,7 +47,8 @@ Preprints
 -->
 1. **EBFT: Simplifying BFT Consensus Through Egalitarianism** [[Paper]](https://arxiv.org/pdf/2012.01636.pdf)  
 **Jianyu Niu**, Runchao Han, <ins>Shengqi Liu</ins>, Fangyu Gai, Ivan Beschastnikh, Yinqian Zhang, Chen Feng  
-**[[One variant used in VeChain]](https://github.com/vechain/VIPs/blob/master/vips/VIP-220.md) [[Previous version selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/)**  
+**[[Homepage with
+ Animation ]](https://ebftalgorithm.github.io/) [[One variant used in VeChain]](https://github.com/vechain/VIPs/blob/master/vips/VIP-220.md) [[Previous version selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/)**  
 1. **Mercury: Practical Cross-Chain Exchange via Trusted Hardware** [[Paper]](https://arxiv.org/abs/2409.14640)  
 <ins>Xiaoqing Wen</ins>, <ins>Quanbi Feng</ins>, **Jianyu Niu***, Yinqian Zhang, Chen Feng  
 1. **TeeRollup: Efficient Rollup Design Using Heterogeneous TEE** [[Paper]](https://arxiv.org/abs/2409.14647)  
@@ -106,10 +107,10 @@ _IEEE Transactions on Dependable and Secure Computing_, 2025.
 1. **<small>[TDSC]</small>  Ensuring State Continuity for Confidential Computing: A Blockchain-based Approach**  
 <ins>Wei Peng</ins>, <ins>Xiang Li</ins>, **Jianyu Niu***, Xiaokuan Zhang, Yinqian Zhang  
 _IEEE Transactions on Dependable and Secure Computing_, 2024.  
-1. **<small>[TDSC]</small>  Fast-Hotstuff: A Fast and Resilient Hotstuff Protocol**  
+1. **<small>[TDSC]</small>  Fast-Hotstuff: A Fast and Resilient Hotstuff Protocol** 
 Mohammad M. Jalalzai, **Jianyu Niu**, Chen Feng, Fangyu Gai  
-[[Paper]](https://arxiv.org/pdf/2010.11454.pdf) [[Selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/) [\[Used in Deso](https://revolution.deso.com/) [and Zilliqa 2.0\]](https://blog.zilliqa.com/evm-and-the-road-to-zilliqa-2-0-upgrading-network-efficiency/)  
 _IEEE Transactions on Dependable and Secure Computing_, 2023.  
+[[Selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/) [\[Used in Deso](https://revolution.deso.com/) [and Zilliqa 2.0\]](https://blog.zilliqa.com/evm-and-the-road-to-zilliqa-2-0-upgrading-network-efficiency/)  
 1. **<small>[TDSC]</small> Crystal: Enhancing Blockchain Mining Transparency with Quorum Certificate**  
 **Jianyu Niu**, Fangyu Gai, Runchao Han, Ren Zhang, Yinqian Zhang, Chen Feng  
 _IEEE Transactions on Dependable and Secure Computing_, 2022.
@@ -121,7 +122,7 @@ Mentoring Students
 -----
 **Ph.D. Students:**
 - [Hanzheng Lyu](https://hanzheng2021.github.io/)  (2021.9-, UBCO, co-advised with Prof. Chen Feng)
-- Xiaoqing Wen  (2022.11-, UBCO, co-advised with Prof. Chen Feng)
+- Xiaoqing Wen (2022.11-, UBCO, co-advised with Prof. Chen Feng)
 
 **Master Students:**
 - Yining Tang  (2022.11-, SUSTech, co-advised with Prof. Yinqian Zhang)
@@ -161,9 +162,9 @@ Professional Activities
 - IEEE Transactions on Computer (TC), 2023.
 - IEEE Internet of Things Journal (IoTJ), 2024.
 - IEEE Communications Letters (CL), Exemplary Reviewers (2019), 2019.
-- IEEE Transactions on Dependable and Secure Computing (TDSC), 2024.
+- IEEE Transactions on Dependable and Secure Computing (TDSC), 2024, 2025.
 - IEEE Open Journal of the Communications Society, 2020, 2021, 2022, 2023, 2024.
 - Asia Conference on Computer and Communications Security (AsiaCCS), 2024.
 - International Conference on Parallel and Distributed Systems (ICPADS), 2024.
 
-Last updated: 2025/02.
+Last updated: 2025/03.
