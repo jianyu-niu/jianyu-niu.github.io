@@ -135,18 +135,18 @@ Mentoring Students
 - Qihang Luo (2024.9-)
 - Dahui Li (2024.9-)
 - [Shaokang Xie](https://scholar.google.com/citations?user=ziRt4M8AAAAJ&hl=en) (2023.9-2024.6, next position: PhD at UC Davis)
-- Quanbi Feng (2023.9-2024.6, next position:  MSc at SUSTech)
-- Shubo Peng (2023.9-2024.6, next position: MSc at SUSTech)
+- Quanbi Feng (2023.9-2024.6, next position:  master student at SUSTech)
+- Shubo Peng (2023.9-2024.6, next position: master student at SUSTech)
 - Hang Huang (2023.9-2024.6, next position: Huawei 2012 Lab)
-- Shengqi Liu (2023.9-2024.6, next position: MSc at UIUC)
+- Shengqi Liu (2023.9-2024.6, next position: master student at UIUC)
 
 **Research Assistants & Interns:**
 - Yinan Mi (2023.9-2024.10)
 - Hongyan Sun (2024.4-2024.6)
 
 **Visting Students:**
-- [Yuanhang Zhou](https://scholar.google.com/citations?user=Cu431uMAAAAJ) (2023.6-2024.01, MSc at SEU, next position: PhD at HKBU)
-- Shuo Yang (2023.10-2024.8, MPhil at CUHK, next position: PhD at CityU)
+- [Yuanhang Zhou](https://scholar.google.com/citations?user=Cu431uMAAAAJ) (2023.6-2024.01, master student at SEU, next position: PhD at HKBU)
+- Shuo Yang (2023.10-2024.8, master student at CUHK, next position: PhD at CityU)
 
 Professional Activities
 -----
