@@ -34,10 +34,10 @@ News
 - (2024/08)**[Service]** I am invited to serve on the technical program committee of [AsiaCCS'25](https://asiaccs2025.hust.edu.vn/).
 - (2024/07)**[Paper]** Our work, Ladon, a high-performance multi-BFT protocol has been accepted to [EuroSys'25](). 
 - (2024/01)**[Service]** I am invited to serve on the technical program committee of [ACM CCS'24](https://www.sigsac.org/ccs/CCS2024/).
-- (2022/08)**[Paper]** Our work, Narrator, has been accepted to [CCS 2022](https://www.sigsac.org/ccs/CCS2022/).
-- (2022/08)**[Paper]** Our paper, “ENGRAFT: Enclave-guarded Raft on Byzantine Faulty Nodes”, has been accepted to [CCS 2022](https://www.sigsac.org/ccs/CCS2022/).
-- (2022/08)**[Paper]** Our paper, “Scaling Blockchain Consensus via a Robust Shared Mempool”, has been accepted to [ICDE 2023](https://icde2023.ics.uci.edu/).
-- (2021/12)**[Paper]** Our paper, “Publish or Perish: Defending Withholding Attack in Dfinity Consensus”, has been selected as the **best paper** in [MSN 2021](https://www.ieee-msn.org/2021/).
+- (2022/08)**[Paper]** Our work, Narrator, has been accepted to [CCS'22](https://www.sigsac.org/ccs/CCS2022/).
+- (2022/08)**[Paper]** Our paper, “ENGRAFT: Enclave-guarded Raft on Byzantine Faulty Nodes”, has been accepted to [CCS'22](https://www.sigsac.org/ccs/CCS2022/).
+- (2022/08)**[Paper]** Our paper, “Scaling Blockchain Consensus via a Robust Shared Mempool”, has been accepted to [ICDE'23](https://icde2023.ics.uci.edu/).
+- (2021/12)**[Paper]** Our paper, “Publish or Perish: Defending Withholding Attack in Dfinity Consensus”, has been selected as the **best paper** in [MSN'21](https://www.ieee-msn.org/2021/).
 
 Preprints
 ------
