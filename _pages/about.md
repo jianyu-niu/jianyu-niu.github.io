@@ -110,7 +110,7 @@ _IEEE Transactions on Dependable and Secure Computing_, 2024.
 1. **<small>[TDSC]</small>  Fast-Hotstuff: A Fast and Resilient Hotstuff Protocol**   
 Mohammad M. Jalalzai, **Jianyu Niu**, Chen Feng, Fangyu Gai  
 _IEEE Transactions on Dependable and Secure Computing_, 2023.  
-[[Selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/) [\[Used in Deso](https://revolution.deso.com/) [and Zilliqa 2.0\]](https://blog.zilliqa.com/evm-and-the-road-to-zilliqa-2-0-upgrading-network-efficiency/)  
+[[Selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/) [\[Used in Deso](https://revolution.deso.com/), [Plasma](https://docs.plasma.to/), [and Zilliqa 2.0\]](https://blog.zilliqa.com/evm-and-the-road-to-zilliqa-2-0-upgrading-network-efficiency/)  
 1. **<small>[TDSC]</small> Crystal: Enhancing Blockchain Mining Transparency with Quorum Certificate**  
 **Jianyu Niu**, Fangyu Gai, Runchao Han, Ren Zhang, Yinqian Zhang, Chen Feng  
 _IEEE Transactions on Dependable and Secure Computing_, 2022.
