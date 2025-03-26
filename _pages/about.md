@@ -76,9 +76,6 @@ _The Network and Distributed System Security Symposium_, San Diego, California. 
  1. **<small>[EuroSys'25]</small> Ladon: High-Performance Multi-BFT Consensus via Dynamic Global Ordering** [[Extended]](https://arxiv.org/abs/2409.10954)  
 <ins>Hanzheng Lyu</ins>, <ins>Shaokang Xie</ins>, **Jianyu Niu***, Chen Feng, Yinqian Zhang, Ivan Beschastnikh  
 _European Conference on Computer Systems_, Rotterdam, Netherlands, Apr 2025.
- 1. **<small>[ACSAC'24]</small> Breaking the Privacy Barrier: On the Feasibility of Reorganization Attacks on Ethereum Private Transaction**  
- Mengya Zhang, Xingyu Lyu, **Jianyu Niu**, Xiaokuan Zhang, Yinqian Zhang, and Zhiqiang Lin  
-_Annual Computer Security Applications Conference_, December 2024.  
  1. **<small>[ICDE'23]</small> Scaling Blockchain Consensus via a Robust Shared Mempool**  
 Fangyu Gai, **Jianyu Niu***, Ivan Beschastnikh, Chen Feng, Sheng Wang  
 _IEEE International Conference on Data Engineering_.
@@ -100,6 +97,11 @@ _International Symposium on Computer Performance, Modeling, Measurements and Eva
 1. **<small>[ICDCS'19]</small> Selfish Mining in Ethereum**  
 **Jianyu Niu**, Chen Feng  
 _IEEE International Conference on Distributed Computing Systems_, Dallas, Texas, Jun. 2019.
+
+
+<!-- 1. **<small>[ACSAC'24]</small> Breaking the Privacy Barrier: On the Feasibility of Reorganization Attacks on Ethereum Private Transaction**  
+ Mengya Zhang, Xingyu Lyu, **Jianyu Niu**, Xiaokuan Zhang, Yinqian Zhang, and Zhiqiang Lin  
+_Annual Computer Security Applications Conference_, December 2024. -->
 
 Selected Journal Publications
 ---
