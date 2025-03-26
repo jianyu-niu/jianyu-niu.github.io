@@ -26,6 +26,7 @@ My research fields include blockchain, distributed systems, and confidential com
 
 News
 ------
+- (2025/03)**[Paper]** Our work, Orthrus, a high-performance Multi-BFT consensus protocol has been accepted to [ICDE'25](). 
 - (2025/01)**[Paper]** Our work, Achilles, an efficient TEE-assisted BFT protocol with rollback resilient recovery has been accepted to [EuroSys'25](). 
 - (2024/11)**[Service]** I am invited to serve on the technical program committee of [ACM/IFIP Middleware'25](https://middleware-conf.github.io/2025/).
 - (2024/11)**[Paper]** Our work about side-channel attacks on KV cache sharing of multi-tenant LLM serving has been accepted to [NDSS'25](https://www.ndss-symposium.org/ndss2025/). 
@@ -59,12 +60,13 @@ Preprints
 <ins>Yining Tang</ins>,  Runchao Han, **Jianyu Niu***, Chen Feng, and Yinqian Zhang.  
 1. **Fides: Scalable Censorship-Resistant DAG Consensus via Trusted Components** [[Paper]](https://arxiv.org/abs/2501.01062)  
 <ins>Shaokang Xie</ins>, Dakai Kang, <ins>Hanzheng Lyu</ins>, **Jianyu Niu**, Mohammad Sadoghi.
-1. **Orthrus: Accelerating Multi-BFT Consensus through Concurrent Partial Ordering of Transactions** [[Paper]](https://arxiv.org/abs/2501.14732)   
-<ins>Hanzheng Lyu</ins>, <ins>Shaokang Xie</ins>, **Jianyu Niu***, Mohammad Sadoghi, Ivan Beschastnikh, Yinqian Zhang, Chen Feng. 
 
 
 Selected Conference Publications (*corresponding author, _ supervised students)
 ------
+1. **<small>[ICDE'25]</small> Orthrus: Accelerating Multi-BFT Consensus through Concurrent Partial Ordering of Transactions** [[Paper]](https://arxiv.org/abs/2501.14732)   
+<ins>Hanzheng Lyu</ins>, <ins>Shaokang Xie</ins>, **Jianyu Niu***, Mohammad Sadoghi, Ivan Beschastnikh, Yinqian Zhang, Chen Feng.  
+_IEEE International Conference on Data Engineering_, Hong Kong, China, May 2025.  
 1. **<small>[EuroSys'25]</small> Achilles: Efficient TEE-Assisted BFT Consensus via Rollback Resilient Recovery**  
  **Jianyu Niu**, <ins>Xiaoqing Wen</ins>, <ins>Guanlong Wu</ins>, <ins>Shenqi Liu</ins>, Jiangshan Yu, Yinqian Zhang  
 _European Conference on Computer Systems_, Rotterdam, Netherlands, Apr 2025.
