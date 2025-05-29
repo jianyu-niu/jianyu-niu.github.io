@@ -125,32 +125,31 @@ _IEEE Transactions on Dependable and Secure Computing_, 2021.
 Mentoring Students 
 -----
 **Ph.D. Students:**
-- [Hanzheng Lyu](https://hanzheng2021.github.io/)  (2021.9-, UBCO, co-advised with Prof. Chen Feng)
 - Xiaoqing Wen (2022.11-, UBCO, co-advised with Prof. Chen Feng)
-
+- [Hanzheng Lyu](https://hanzheng2021.github.io/)  (2021.9-, UBCO, co-advised with Prof. Chen Feng)
+  
 **Master Students:**
-- Yining Tang  (2022.11-, SUSTech, co-advised with Prof. Yinqian Zhang)
-- Tong Liu (2024.6-, SUSTech, co-advised with Prof. Yinqian Zhang)
 - Quanbi Feng (2024.9-, SUSTech)
 - Shubo Peng (2024.9-, SUSTech)
-
+- Tong Liu (2024.6-, SUSTech, co-advised with Prof. Yinqian Zhang)
+- Yining Tang  (2022.11-, SUSTech, co-advised with Prof. Yinqian Zhang)
+  
 **Undergraduate Students (Thesis):**
-- Qiyuan Huang (2024.9-)
-- Qihang Luo (2024.9-)
-- Dahui Li (2024.9-)
+- Qiyuan Huang (2024.9-2025.6, next position: master student at NUS)
+- Qihang Luo (2024.9-2025.6, next position: BYD Company)
+- Dahui Li (2024.9-2025.6, next position: master student at SUSTech)
 - [Shaokang Xie](https://scholar.google.com/citations?user=ziRt4M8AAAAJ&hl=en) (2023.9-2024.6, next position: PhD at UC Davis)
 - Quanbi Feng (2023.9-2024.6, next position:  master student at SUSTech)
 - Shubo Peng (2023.9-2024.6, next position: master student at SUSTech)
 - Hang Huang (2023.9-2024.6, next position: Huawei 2012 Lab)
 - Shengqi Liu (2023.9-2024.6, next position: master student at UIUC)
 
-**Research Assistants & Interns:**
+**Research Assistants:**
 - Yinan Mi (2023.9-2024.10)
-- Hongyan Sun (2024.4-2024.6)
 
-**Visting Students:**
-- [Yuanhang Zhou](https://scholar.google.com/citations?user=Cu431uMAAAAJ) (2023.6-2024.01, master student at SEU, next position: PhD at HKBU)
+**Visiting Students:**
 - Shuo Yang (2023.10-2024.8, master student at CUHK, next position: PhD at CityU)
+- [Yuanhang Zhou](https://scholar.google.com/citations?user=Cu431uMAAAAJ) (2023.6-2024.01, master student at SEU, next position: PhD at HKBU)
 
 Professional Activities
 -----
