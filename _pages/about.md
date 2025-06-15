@@ -54,7 +54,7 @@ Preprints
 <ins>Xiaoqing Wen</ins>, <ins>Quanbi Feng</ins>, **Jianyu Niu***, Yinqian Zhang, Chen Feng  
 1. **TeeRollup: Efficient Rollup Design Using Heterogeneous TEE** [[Paper]](https://arxiv.org/abs/2409.14647)  
 <ins>Xiaoqing Wen</ins>, <ins>Quanbi Feng</ins>, **Jianyu Niu***, Yinqian Zhang, Chen Feng  
-1. **Unraveling Responsiveness of Chained BFT Consensus with Network Delay** [[Paper]](https://arxiv.org/abs/2501.03695)    
+1. **Unraveling Responsiveness of Chained BFT Consensus with Network Delay** [[Paper]](https://arxiv.org/abs/2501.03695)   
 <ins>Yining Tang</ins>, <ins>Qihang Luo</ins>, Runchao Han, **Jianyu Niu***, Chen Feng, and Yinqian Zhang.  
 1. **Leader Rotation Is Not Enough: Scrutinizing Leadership Democracy of Chained BFT Consensus** [[Paper]](https://arxiv.org/pdf/2501.02970)   
 <ins>Yining Tang</ins>,  Runchao Han, **Jianyu Niu***, Chen Feng, and Yinqian Zhang.  
@@ -65,16 +65,16 @@ Preprints
 Selected Conference Publications (*corresponding author, _ supervised students)
 ------
 1. **<small>[ICDE'25]</small> Orthrus: Accelerating Multi-BFT Consensus through Concurrent Partial Ordering of Transactions** [[Paper]](https://arxiv.org/abs/2501.14732)   
-<ins>Hanzheng Lyu</ins>, <ins>Shaokang Xie</ins>, **Jianyu Niu***, Mohammad Sadoghi, Ivan Beschastnikh, Yinqian Zhang, Chen Feng.  
+<ins>Hanzheng Lyu^</ins>, <ins>Shaokang Xie^</ins> (**^equally contributed**), **Jianyu Niu***, Mohammad Sadoghi, Ivan Beschastnikh, Yinqian Zhang, Chen Feng.  
 _IEEE International Conference on Data Engineering_, Hong Kong, China, May 2025.  
 1. **<small>[EuroSys'25]</small> Achilles: Efficient TEE-Assisted BFT Consensus via Rollback Resilient Recovery**  
- **Jianyu Niu**, <ins>Xiaoqing Wen</ins>, <ins>Guanlong Wu</ins>, <ins>Shengqi Liu</ins>, Jiangshan Yu, Yinqian Zhang  
+ **Jianyu Niu^**, <ins>Xiaoqing Wen^</ins>, <ins>Guanlong Wu^</ins>, (**^equally contributed**) <ins>Shengqi Liu</ins>, Jiangshan Yu, Yinqian Zhang  
 _European Conference on Computer Systems_, Rotterdam, Netherlands, Apr 2025.
  1. **<small>[NDSS'25]</small> I Know What You Asked: Prompt Leakage via KV-Cache Sharing in Multi-Tenant LLM Serving**  
 Guanlong Wu, Zheng Zhang, Weili Wang, **Jianyu Niu**, Yao Zhang, Ye Wu, Yinqian Zhang  
 _The Network and Distributed System Security Symposium_, San Diego, California. Feb 2025.
  1. **<small>[EuroSys'25]</small> Ladon: High-Performance Multi-BFT Consensus via Dynamic Global Ordering** [[Extended]](https://arxiv.org/abs/2409.10954)  
-<ins>Hanzheng Lyu</ins>, <ins>Shaokang Xie</ins>, **Jianyu Niu***, Chen Feng, Yinqian Zhang, Ivan Beschastnikh  
+<ins>Hanzheng Lyu^</ins>, <ins>Shaokang Xie^</ins> (**^equally contributed**), **Jianyu Niu***, Chen Feng, Yinqian Zhang, Ivan Beschastnikh  
 _European Conference on Computer Systems_, Rotterdam, Netherlands, Apr 2025.
  1. **<small>[ICDE'23]</small> Scaling Blockchain Consensus via a Robust Shared Mempool**  
 Fangyu Gai, **Jianyu Niu***, Ivan Beschastnikh, Chen Feng, Sheng Wang  
