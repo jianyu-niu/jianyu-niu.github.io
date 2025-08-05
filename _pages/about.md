@@ -22,7 +22,7 @@ My research fields include blockchain, distributed systems, and confidential com
 
 **BFT consensus at scale**: This project aims to design simple and scalable BFT systems. Related works include Hermes (structured transmission, [TDSC'21](https://ieeexplore.ieee.org/document/9543565)), EBFT (extreme simplicity, [Homepage](https://ebftalgorithm.github.io/)), Fast-HotStuff (robust chained BFT, [TDSC'23](https://arxiv.org/abs/2010.11454)), Stratus (shared mempool, [ICDE'23](https://github.com/gitferry/bamboo-stratus)), and Ladon/Orthrus (multi-BFT consensus, [EuroSys'25](https://arxiv.org/abs/2409.10954)/[ICDE'25](https://arxiv.org/abs/2501.14732)).
 
-**Distributed confidential computing**: This project explores integrations of confidential computing and various distributed computing techniques like blockchains and Federated Learning. Related works include Engraft (confidential consensus, [CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560639)), Narrator/Narrator-Pro (state continuity system, [CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560620)/[TDSC'24](https://ieeexplore.ieee.org/abstract/document/10480251)), Achilles (TEE-assisted BFT, [EuroSys'25]()), Mercury/TeeRollup ([Exchange](https://arxiv.org/abs/2409.14640), [Layer 2](https://arxiv.org/abs/2409.14647)), and Fides ([TEE-assisted DAG](https://arxiv.org/abs/2501.01062)).
+**Distributed confidential computing**: This project explores integrations of confidential computing and various distributed computing techniques like blockchains and Federated Learning. Related works include Engraft (confidential consensus, [CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560639)), Narrator/Narrator-Pro (state continuity system, [CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560620)/[TDSC'24](https://ieeexplore.ieee.org/abstract/document/10480251)), Achilles (TEE-assisted BFT, [EuroSys'25]()), Mercury/TeeRollup ([Bridge](https://arxiv.org/abs/2409.14640), [Rollup/TC'25](https://arxiv.org/abs/2409.14647)), and Fides ([TEE-assisted DAG](https://arxiv.org/abs/2501.01062)).
 
 News
 ------
@@ -51,8 +51,6 @@ Preprints
 **[[Homepage with
  Animation ]](https://ebftalgorithm.github.io/) [[One variant used in VeChain]](https://github.com/vechain/VIPs/blob/master/vips/VIP-220.md) [[Previous version selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/)**  
 1. **Mercury: Practical Cross-Chain Exchange via Trusted Hardware** [[Paper]](https://arxiv.org/abs/2409.14640)  
-<ins>Xiaoqing Wen</ins>, <ins>Quanbi Feng</ins>, **Jianyu Niu***, Yinqian Zhang, Chen Feng  
-1. **TeeRollup: Efficient Rollup Design Using Heterogeneous TEE** [[Paper]](https://arxiv.org/abs/2409.14647)  
 <ins>Xiaoqing Wen</ins>, <ins>Quanbi Feng</ins>, **Jianyu Niu***, Yinqian Zhang, Chen Feng  
 1. **Unraveling Responsiveness of Chained BFT Consensus with Network Delay** [[Paper]](https://arxiv.org/abs/2501.03695)   
 <ins>Yining Tang</ins>, <ins>Qihang Luo</ins>, Runchao Han, **Jianyu Niu***, Chen Feng, and Yinqian Zhang.  
@@ -105,6 +103,9 @@ _Annual Computer Security Applications Conference_, December 2024. -->
 
 Selected Journal Publications
 ---
+1. **<small>[TC]</small> TeeRollup: Efficient Rollup Design Using Heterogeneous TEE**  
+<ins>Xiaoqing Wen</ins>, <ins>Quanbi Feng</ins>, **Jianyu Niu***, Yinqian Zhang, Chen Feng   
+_IEEE Transactions on Computers_, 2025.  
 1. **<small>[TDSC]</small> Chained HotStuff under Performance Attack**  
 <ins>Minjie Wang</ins>, **Jianyu Niu***, Fangyu Gai, Mohammad M. Jalalzai, Yinqian Zhang, Chen Feng  
 _IEEE Transactions on Dependable and Secure Computing_, 2025.  
