@@ -10,9 +10,7 @@ redirect_from:
 
 Short Bios
 ------
-I am currently a research assistant professor at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech), working with [Prof. Yinqian Zhang](https://yinqian.org/). I received my Ph.D. degree from [The University of British Columbia](https://ok.ubc.ca/) (UBC) in Sep. 2021, under the supervision of [Prof. Chen Feng](https://engineering.ok.ubc.ca/about/contact/chen-feng/). 
-
-**[Opening] I am looking for self-motivated students (1-2 Master students) to start in fall 2025 at SUSTech**
+I am currently a Research Fellow at [City University of Hong Kong](https://www.cityu.edu.hk/) (CityU), working with [Prof. Cong Wang](https://www.cs.cityu.edu.hk/~congwang/). Previously, I was a Research Assistant Professor at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech), working with [Prof. Yinqian Zhang](https://yinqian.org/) from 2021-2025. I received my Ph.D. degree from [The University of British Columbia](https://ok.ubc.ca/) (UBC) in Sep. 2021, under the supervision of [Prof. Chen Feng](https://engineering.ok.ubc.ca/about/contact/chen-feng/). 
 
 Research
 ------
@@ -155,6 +153,7 @@ Mentoring Students
 Professional Activities
 -----
 **Program Committee Member**
+- USENIX Security Symposium [2026](https://www.usenix.org/conference/usenixsecurity26)
 - ACM/IFIP International Middleware Conference (Middleware) [2025](https://middleware-conf.github.io/2025/)
 - ACM Conference on Computer and Communications Security (CCS) [2024](https://www.sigsac.org/ccs/CCS2024/), [2025](https://www.sigsac.org/ccs/CCS2025/)
 - IEEE International Conference on Mobility, Sensing and Networking (MSN) [2021](https://ieee-msn.org/2021/)
@@ -171,4 +170,4 @@ Professional Activities
 - Asia Conference on Computer and Communications Security (AsiaCCS), 2024.
 - International Conference on Parallel and Distributed Systems (ICPADS), 2024.
 
-Last updated: 2025/03.
+Last updated: 2025/08.
