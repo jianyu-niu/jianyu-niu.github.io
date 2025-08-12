@@ -128,11 +128,12 @@ Mentoring Students
 - [Hanzheng Lyu](https://hanzheng2021.github.io/)  (2021.9-, UBCO, co-advised with Prof. Chen Feng)
   
 **Master Students:**
+- Dahui Li (2025.9-, SUSTech)
 - Quanbi Feng (2024.9-, SUSTech)
 - Shubo Peng (2024.9-, SUSTech)
 - Tong Liu (2024.6-, SUSTech, co-advised with Prof. Yinqian Zhang)
-- Yining Tang  (2022.11-, SUSTech, co-advised with Prof. Yinqian Zhang)
-  
+- Yining Tang  (2022.11-2025.7, SUSTech, co-advised with Prof. Yinqian Zhang, next position: China Telecom Company)
+
 **Undergraduate Students (Thesis):**
 - Qiyuan Huang (2024.9-2025.6, next position: master student at NTU)
 - Qihang Luo (2024.9-2025.6, next position: BYD Company)
