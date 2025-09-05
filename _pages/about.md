@@ -24,6 +24,7 @@ My research fields include blockchain, distributed systems, and confidential com
 
 News
 ------
+- (2025/08)**[Paper]** I am invited to serve on the technical program committee of [USENIX Security‘26](https://www.usenix.org/conference/usenixsecurity26) and [IEEE ICPADS'25](http://ieee-icpads.org.cn/).
 - (2025/03)**[Paper]** Our work, Orthrus, a high-performance Multi-BFT consensus protocol, has been accepted to [ICDE'25](). 
 - (2025/01)**[Paper]** Our work, Achilles, an efficient TEE-assisted BFT protocol with rollback resilient recovery, has been accepted to [EuroSys'25](). 
 - (2024/11)**[Service]** I am invited to serve on the technical program committee of [ACM/IFIP Middleware'25](https://middleware-conf.github.io/2025/).
@@ -117,9 +118,6 @@ _IEEE Transactions on Dependable and Secure Computing_, 2023.
 1. **<small>[TDSC]</small> Crystal: Enhancing Blockchain Mining Transparency with Quorum Certificate**  
 **Jianyu Niu**, Fangyu Gai, Runchao Han, Ren Zhang, Yinqian Zhang, Chen Feng  
 _IEEE Transactions on Dependable and Secure Computing_, 2022.
-1. **<small>[TDSC]</small> The Hermes BFT for Blockchains**  
-Mohammad M. Jalalzai, Chen Feng, Costas Busch, Golden G. Richard III, **Jianyu Niu**  
-_IEEE Transactions on Dependable and Secure Computing_, 2021.
 
 Mentoring Students 
 -----
@@ -155,7 +153,8 @@ Professional Activities
 -----
 **Program Committee Member**
 - USENIX Security Symposium [2026](https://www.usenix.org/conference/usenixsecurity26)
-- ACM/IFIP International Middleware Conference (Middleware) [2025](https://middleware-conf.github.io/2025/)
+- ACM/IFIP International Middleware Conference (Middleware) [2025](https://middleware-conf.github.io/2025/)  
+- IEEE International Conference on Parallel and Distributed Systems (ICPADS), [2025](http://ieee-icpads.org.cn/)  
 - ACM Conference on Computer and Communications Security (CCS) [2024](https://www.sigsac.org/ccs/CCS2024/), [2025](https://www.sigsac.org/ccs/CCS2025/)
 - IEEE International Conference on Mobility, Sensing and Networking (MSN) [2021](https://ieee-msn.org/2021/)
 - ACM Asia Conference on Computer and Communications Security (AsiaCCS) [2025](https://asiaccs2025.hust.edu.vn/)
