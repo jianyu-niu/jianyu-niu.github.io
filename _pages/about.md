@@ -24,7 +24,7 @@ My research fields include blockchain, distributed systems, and confidential com
 
 News
 ------
-- (2025/08)**[Paper]** I am invited to serve on the technical program committee of [USENIX Security‘26](https://www.usenix.org/conference/usenixsecurity26) and [IEEE ICPADS'25](http://ieee-icpads.org.cn/).
+- (2025/08)**[Service]** I am invited to serve on the technical program committee of [USENIX Security‘26](https://www.usenix.org/conference/usenixsecurity26) and [IEEE ICPADS'25](http://ieee-icpads.org.cn/).
 - (2025/03)**[Paper]** Our work, Orthrus, a high-performance Multi-BFT consensus protocol, has been accepted to [ICDE'25](). 
 - (2025/01)**[Paper]** Our work, Achilles, an efficient TEE-assisted BFT protocol with rollback resilient recovery, has been accepted to [EuroSys'25](). 
 - (2024/11)**[Service]** I am invited to serve on the technical program committee of [ACM/IFIP Middleware'25](https://middleware-conf.github.io/2025/).
