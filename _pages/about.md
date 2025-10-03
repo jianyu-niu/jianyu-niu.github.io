@@ -123,7 +123,7 @@ Mentoring Students
 -----
 **Ph.D. Students:**
 - Xiaoqing Wen (2022.11-, UBCO, co-advised with Prof. Chen Feng)
-- [Hanzheng Lyu](https://hanzheng2021.github.io/)  (2021.9-, UBCO, co-advised with Prof. Chen Feng)
+- [Hanzheng Lyu](https://hanzheng2021.github.io/)  (2021.9-2025.9, UBCO, co-advised with Prof. Chen Feng)
   
 **Master Students:**
 - Dahui Li (2025.9-, SUSTech)
@@ -144,6 +144,7 @@ Mentoring Students
 
 **Research Assistants:**
 - Yinan Mi (2023.9-2024.10)
+- Mohan Yu (2025.08-)
 
 **Visiting Students:**
 - Shuo Yang (2023.10-2024.8, master student at CUHK, next position: PhD at CityU)
@@ -170,4 +171,4 @@ Professional Activities
 - Asia Conference on Computer and Communications Security (AsiaCCS), 2024.
 - International Conference on Parallel and Distributed Systems (ICPADS), 2024.
 
-Last updated: 2025/08.
+Last updated: 2025/10.
