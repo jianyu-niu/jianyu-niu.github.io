@@ -20,10 +20,11 @@ My research fields include blockchain, distributed systems, and confidential com
 
 **BFT consensus at scale**: This project aims to design simple and scalable BFT systems. Related works include Hermes (structured transmission, [TDSC'21](https://ieeexplore.ieee.org/document/9543565)), EBFT (extreme simplicity, [Homepage](https://ebftalgorithm.github.io/)), Fast-HotStuff (robust chained BFT, [TDSC'23](https://arxiv.org/abs/2010.11454)), Stratus (shared mempool, [ICDE'23](https://github.com/gitferry/bamboo-stratus)), and Ladon/Orthrus (multi-BFT consensus, [EuroSys'25](https://arxiv.org/abs/2409.10954)/[ICDE'25](https://arxiv.org/abs/2501.14732)).
 
-**Distributed confidential computing**: This project explores integrations of confidential computing and various distributed computing techniques like blockchains and Federated Learning. Related works include Engraft (confidential consensus, [CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560639)), Narrator/Narrator-Pro (state continuity system, [CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560620)/[TDSC'24](https://ieeexplore.ieee.org/abstract/document/10480251)), Achilles (TEE-assisted BFT, [EuroSys'25]()), Mercury/TeeRollup ([Bridge](https://arxiv.org/abs/2409.14640), [Rollup/TC'25](https://arxiv.org/abs/2409.14647)), and Fides ([TEE-assisted DAG](https://arxiv.org/abs/2501.01062)).
+**Distributed confidential computing**: This project explores integrations of confidential computing and various distributed computing techniques like blockchains and Federated Learning. Related works include Engraft (confidential consensus, [CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560639)), Narrator/Narrator-Pro (state continuity system, [CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560620)/[TDSC'24](https://ieeexplore.ieee.org/abstract/document/10480251)), Achilles (TEE-assisted BFT, [EuroSys'25]()), Mercury/TeeRollup ([Bridge/TDSC'26](https://arxiv.org/abs/2409.14640), [Rollup/TC'25](https://arxiv.org/abs/2409.14647)), and Fides ([TEE-assisted DAG](https://arxiv.org/abs/2501.01062)).
 
 News
 ------
+- (2025/10)**[Paper]** Our work on measuring Ethereum Staking and Mercury has been accepted to [ICPADS'25](http://ieee-icpads.org.cn/) and TDSC. 
 - (2025/08)**[Service]** I am invited to serve on the technical program committee of [USENIX Security‘26](https://www.usenix.org/conference/usenixsecurity26) and [IEEE ICPADS'25](http://ieee-icpads.org.cn/).
 - (2025/03)**[Paper]** Our work, Orthrus, a high-performance Multi-BFT consensus protocol, has been accepted to [ICDE'25](). 
 - (2025/01)**[Paper]** Our work, Achilles, an efficient TEE-assisted BFT protocol with rollback resilient recovery, has been accepted to [EuroSys'25](). 
@@ -49,8 +50,6 @@ Preprints
 **Jianyu Niu**, Runchao Han, <ins>Shengqi Liu</ins>, Fangyu Gai, Ivan Beschastnikh, Yinqian Zhang, Chen Feng  
 **[[Homepage with
  Animation ]](https://ebftalgorithm.github.io/) [[One variant used in VeChain]](https://github.com/vechain/VIPs/blob/master/vips/VIP-220.md) [[Previous version selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/)**  
-1. **Mercury: Practical Cross-Chain Exchange via Trusted Hardware** [[Paper]](https://arxiv.org/abs/2409.14640)  
-<ins>Xiaoqing Wen</ins>, <ins>Quanbi Feng</ins>, **Jianyu Niu***, Yinqian Zhang, Chen Feng  
 1. **Unraveling Responsiveness of Chained BFT Consensus with Network Delay** [[Paper]](https://arxiv.org/abs/2501.03695)   
 <ins>Yining Tang</ins>, <ins>Qihang Luo</ins>, Runchao Han, **Jianyu Niu***, Chen Feng, and Yinqian Zhang.  
 1. **Leader Rotation Is Not Enough: Scrutinizing Leadership Democracy of Chained BFT Consensus** [[Paper]](https://arxiv.org/pdf/2501.02970)   
@@ -102,21 +101,24 @@ _Annual Computer Security Applications Conference_, December 2024. -->
 
 Selected Journal Publications
 ---
+1. **<small>[TDSC]</small> Mercury: Practical Cross-Chain Exchange via Trusted Hardware**  
+<ins>Xiaoqing Wen</ins>, <ins>Quanbi Feng</ins>, **Jianyu Niu***, Yinqian Zhang, and Chen Feng  
+_IEEE Transactions on Dependable and Secure Computing_, 2026. 
 1. **<small>[TC]</small> TeeRollup: Efficient Rollup Design Using Heterogeneous TEE**  
-<ins>Xiaoqing Wen</ins>, <ins>Quanbi Feng</ins>, **Jianyu Niu***, Yinqian Zhang, Chen Feng   
+<ins>Xiaoqing Wen</ins>, <ins>Quanbi Feng</ins>,  <ins>Hanzheng Lyu</ins>, **Jianyu Niu***, Yinqian Zhang, and Chen Feng   
 _IEEE Transactions on Computers_, 2025.  
 1. **<small>[TDSC]</small> Chained HotStuff under Performance Attack**  
-<ins>Minjie Wang</ins>, **Jianyu Niu***, Fangyu Gai, Mohammad M. Jalalzai, Yinqian Zhang, Chen Feng  
+<ins>Minjie Wang</ins>, **Jianyu Niu***, Fangyu Gai, Mohammad M. Jalalzai, Yinqian Zhang, and Chen Feng  
 _IEEE Transactions on Dependable and Secure Computing_, 2025.  
 1. **<small>[TDSC]</small>  Ensuring State Continuity for Confidential Computing: A Blockchain-based Approach**  
-<ins>Wei Peng</ins>, <ins>Xiang Li</ins>, **Jianyu Niu***, Xiaokuan Zhang, Yinqian Zhang  
-_IEEE Transactions on Dependable and Secure Computing_, 2024.  
+<ins>Wei Peng</ins>, <ins>Xiang Li</ins>, **Jianyu Niu***, Xiaokuan Zhang, and Yinqian Zhang  
+_IEEE Transactions on Dependable and Secure Computing_, 2024.
 1. **<small>[TDSC]</small>  Fast-Hotstuff: A Fast and Resilient Hotstuff Protocol**   
-Mohammad M. Jalalzai, **Jianyu Niu**, Chen Feng, Fangyu Gai  
-_IEEE Transactions on Dependable and Secure Computing_, 2023.  
+Mohammad M. Jalalzai, **Jianyu Niu**, Chen Feng, and Fangyu Gai  
+_IEEE Transactions on Dependable and Secure Computing_, 2023.
 [[Selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/) [\[Used in Deso](https://revolution.deso.com/), [Plasma](https://docs.plasma.to/), [and Zilliqa 2.0\]](https://blog.zilliqa.com/evm-and-the-road-to-zilliqa-2-0-upgrading-network-efficiency/)  
 1. **<small>[TDSC]</small> Crystal: Enhancing Blockchain Mining Transparency with Quorum Certificate**  
-**Jianyu Niu**, Fangyu Gai, Runchao Han, Ren Zhang, Yinqian Zhang, Chen Feng  
+**Jianyu Niu**, Fangyu Gai, Runchao Han, Ren Zhang, Yinqian Zhang, and Chen Feng  
 _IEEE Transactions on Dependable and Secure Computing_, 2022.
 
 Mentoring Students 
