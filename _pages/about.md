@@ -24,6 +24,7 @@ My research fields include blockchain, distributed systems, and confidential com
 
 News
 ------
+- (2025/10)**[Service]** I am invited to serve on the technical program committee of [ACM CCS'26](https://www.sigsac.org/ccs/CCS2026/).
 - (2025/10)**[Paper]** Our work on measuring Ethereum Staking and Mercury has been accepted to [ICPADS'25](http://ieee-icpads.org.cn/) and TDSC. 
 - (2025/08)**[Service]** I am invited to serve on the technical program committee of [USENIX Security‘26](https://www.usenix.org/conference/usenixsecurity26) and [IEEE ICPADS'25](http://ieee-icpads.org.cn/).
 - (2025/03)**[Paper]** Our work, Orthrus, a high-performance Multi-BFT consensus protocol, has been accepted to [ICDE'25](). 
@@ -160,7 +161,7 @@ Professional Activities
 - USENIX Security Symposium [2026](https://www.usenix.org/conference/usenixsecurity26)
 - ACM/IFIP International Middleware Conference (Middleware) [2025](https://middleware-conf.github.io/2025/)  
 - IEEE International Conference on Parallel and Distributed Systems (ICPADS), [2025](http://ieee-icpads.org.cn/)  
-- ACM Conference on Computer and Communications Security (CCS) [2024](https://www.sigsac.org/ccs/CCS2024/), [2025](https://www.sigsac.org/ccs/CCS2025/)
+- ACM Conference on Computer and Communications Security (CCS) [2024](https://www.sigsac.org/ccs/CCS2024/), [2025](https://www.sigsac.org/ccs/CCS2025/),  [2026](https://www.sigsac.org/ccs/CCS2026/)
 - IEEE International Conference on Mobility, Sensing and Networking (MSN) [2021](https://ieee-msn.org/2021/)
 - ACM Asia Conference on Computer and Communications Security (AsiaCCS) [2025](https://asiaccs2025.hust.edu.vn/)
 
