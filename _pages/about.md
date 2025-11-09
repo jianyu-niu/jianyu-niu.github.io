@@ -52,9 +52,9 @@ Preprints
 **[[Homepage with
  Animation ]](https://ebftalgorithm.github.io/) [[One variant used in VeChain]](https://github.com/vechain/VIPs/blob/master/vips/VIP-220.md) [[Previous version selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/)**  
 1. **Unraveling Responsiveness of Chained BFT Consensus with Network Delay** [[Paper]](https://arxiv.org/abs/2501.03695)   
-<ins>Yining Tang</ins>, <ins>Qihang Luo</ins>, Runchao Han, **Jianyu Niu***, Chen Feng, and Yinqian Zhang.  
+<ins>Yining Tang</ins>, <ins>Qihang Luo</ins>, Runchao Han, **Jianyu Niu<sup>*</sup>**, Chen Feng, and Yinqian Zhang.  
 1. **Leader Rotation Is Not Enough: Scrutinizing Leadership Democracy of Chained BFT Consensus** [[Paper]](https://arxiv.org/pdf/2501.02970)   
-<ins>Yining Tang</ins>,  Runchao Han, **Jianyu Niu***, Chen Feng, and Yinqian Zhang.  
+<ins>Yining Tang</ins>,  Runchao Han, **Jianyu Niu<sup>*</sup>**, Chen Feng, and Yinqian Zhang.  
 1. **Fides: Scalable Censorship-Resistant DAG Consensus via Trusted Components** [[Paper]](https://arxiv.org/abs/2501.01062)  
 <ins>Shaokang Xie</ins>, Dakai Kang, <ins>Hanzheng Lyu</ins>, **Jianyu Niu**, Mohammad Sadoghi.
 
@@ -62,19 +62,19 @@ Preprints
 Selected Conference Publications (*corresponding author, _supervised students, †equally contributed)
 ------
 1. **<small>[ICDE'25]</small> Orthrus: Accelerating Multi-BFT Consensus through Concurrent Partial Ordering of Transactions** [[Paper]](https://arxiv.org/abs/2501.14732)   
-<ins>Hanzheng Lyu†</ins>, <ins>Shaokang Xie†</ins>, **Jianyu Niu***, Mohammad Sadoghi, Ivan Beschastnikh, Yinqian Zhang, Chen Feng.  
+<ins>Hanzheng Lyu<sup>†</sup></ins>, <ins>Shaokang Xie<sup>†</sup></ins>, **Jianyu Niu<sup>*</sup>**, Mohammad Sadoghi, Ivan Beschastnikh, Yinqian Zhang, Chen Feng.  
 _IEEE International Conference on Data Engineering_, Hong Kong, China, May 2025.  
 1. **<small>[EuroSys'25]</small> Achilles: Efficient TEE-Assisted BFT Consensus via Rollback Resilient Recovery**  
- **Jianyu Niu†**, <ins>Xiaoqing Wen†</ins>, <ins>Guanlong Wu†</ins>, <ins>Shengqi Liu</ins>, Jiangshan Yu, Yinqian Zhang  
+ **Jianyu Niu<sup>*</sup>**, <ins>Xiaoqing Wen<sup>†</sup></ins>, <ins>Guanlong Wu<sup>†</sup></ins>, <ins>Shengqi Liu</ins>, Jiangshan Yu, Yinqian Zhang  
 _European Conference on Computer Systems_, Rotterdam, Netherlands, Apr 2025.
  1. **<small>[NDSS'25]</small> I Know What You Asked: Prompt Leakage via KV-Cache Sharing in Multi-Tenant LLM Serving**  
 Guanlong Wu, Zheng Zhang, Weili Wang, **Jianyu Niu**, Yao Zhang, Ye Wu, Yinqian Zhang  
 _The Network and Distributed System Security Symposium_, San Diego, California. Feb 2025.
  1. **<small>[EuroSys'25]</small> Ladon: High-Performance Multi-BFT Consensus via Dynamic Global Ordering** [[Extended]](https://arxiv.org/abs/2409.10954)  
-<ins>Hanzheng Lyu†</ins>, <ins>Shaokang Xie†</ins>, **Jianyu Niu***, Chen Feng, Yinqian Zhang, Ivan Beschastnikh  
+<ins>Hanzheng Lyu<sup>†</sup></ins>, <ins>Shaokang Xie<sup>†</sup></ins>, **Jianyu Niu<sup>*</sup>**, Chen Feng, Yinqian Zhang, Ivan Beschastnikh  
 _European Conference on Computer Systems_, Rotterdam, Netherlands, Apr 2025.
  1. **<small>[ICDE'23]</small> Scaling Blockchain Consensus via a Robust Shared Mempool**  
-Fangyu Gai, **Jianyu Niu***, Ivan Beschastnikh, Chen Feng, Sheng Wang  
+Fangyu Gai, **Jianyu Niu<sup>*</sup>**, Ivan Beschastnikh, Chen Feng, Sheng Wang  
 _IEEE International Conference on Data Engineering_.
  1. **<small>[CCS'22]</small> Narrator: Secure and Practical State Continuity for Trusted Execution in the Cloud**  
 **Jianyu Niu**, Wei Peng, Xiaokuan Zhang, Yinqian Zhang  
@@ -103,16 +103,16 @@ _Annual Computer Security Applications Conference_, December 2024. -->
 Selected Journal Publications
 ---
 1. **<small>[TDSC]</small> Mercury: Practical Cross-Chain Exchange via Trusted Hardware**  
-<ins>Xiaoqing Wen</ins>, <ins>Quanbi Feng</ins>, **Jianyu Niu***, Yinqian Zhang, and Chen Feng  
+<ins>Xiaoqing Wen</ins>, <ins>Quanbi Feng</ins>, **Jianyu Niu<sup>*</sup>**, Yinqian Zhang, and Chen Feng  
 _IEEE Transactions on Dependable and Secure Computing_, 2026. 
 1. **<small>[TC]</small> TeeRollup: Efficient Rollup Design Using Heterogeneous TEE**  
-<ins>Xiaoqing Wen</ins>, <ins>Quanbi Feng</ins>,  <ins>Hanzheng Lyu</ins>, **Jianyu Niu***, Yinqian Zhang, and Chen Feng   
+<ins>Xiaoqing Wen</ins>, <ins>Quanbi Feng</ins>,  <ins>Hanzheng Lyu</ins>, **Jianyu Niu<sup>*</sup>**, Yinqian Zhang, and Chen Feng   
 _IEEE Transactions on Computers_, 2025.  
 1. **<small>[TDSC]</small> Chained HotStuff under Performance Attack**  
-<ins>Minjie Wang</ins>, **Jianyu Niu***, Fangyu Gai, Mohammad M. Jalalzai, Yinqian Zhang, and Chen Feng  
+<ins>Minjie Wang</ins>, **Jianyu Niu<sup>*</sup>**, Fangyu Gai, Mohammad M. Jalalzai, Yinqian Zhang, and Chen Feng  
 _IEEE Transactions on Dependable and Secure Computing_, 2025.  
 1. **<small>[TDSC]</small>  Ensuring State Continuity for Confidential Computing: A Blockchain-based Approach**  
-<ins>Wei Peng</ins>, <ins>Xiang Li</ins>, **Jianyu Niu***, Xiaokuan Zhang, and Yinqian Zhang  
+<ins>Wei Peng</ins>, <ins>Xiang Li</ins>, **Jianyu Niu<sup>*</sup>**, Xiaokuan Zhang, and Yinqian Zhang  
 _IEEE Transactions on Dependable and Secure Computing_, 2024.
 1. **<small>[TDSC]</small>  Fast-Hotstuff: A Fast and Resilient Hotstuff Protocol**   
 Mohammad M. Jalalzai, **Jianyu Niu**, Chen Feng, and Fangyu Gai  
