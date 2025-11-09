@@ -310,16 +310,3 @@ compress_html:
   ignore:
     envs: development
 
-navigation:
-  - text: "About"
-    url: /about/
-  - text: "Research"
-    url: /research/
-  - text: "Projects"
-    url: /portfolio/
-  - text: "Publications"
-    url: /publications/
-  - text: "Talks"
-    url: /talks/
-  - text: "Contact"
-    url: /contact/
