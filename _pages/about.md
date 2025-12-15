@@ -24,6 +24,7 @@ My research fields include blockchain, distributed systems, and confidential com
 
 News
 ------
+- (2025/12)**[Service]** I am invited to serve on the technical program committee of [ACM SOCC‘26](https://acmsocc.org/2026/index.html).
 - (2025/10)**[Service]** I am invited to serve on the technical program committee of [ACM CCS'26](https://www.sigsac.org/ccs/CCS2026/).
 - (2025/10)**[Paper]** Our work on measuring Ethereum Staking and Mercury has been accepted to [ICPADS'25](http://ieee-icpads.org.cn/) and TDSC. 
 - (2025/08)**[Service]** I am invited to serve on the technical program committee of [USENIX Security‘26](https://www.usenix.org/conference/usenixsecurity26) and [IEEE ICPADS'25](http://ieee-icpads.org.cn/).
@@ -61,6 +62,9 @@ Preprints
 
 Selected Conference Publications (*corresponding author, _supervised students, †equally contributed)
 ------
+ 1. **<small>[NDSS'26]</small> When Cache Poisoning Meets LLM Systems: Semantic Cache Poisoning and Its Countermeasures**  
+Guanlong Wu, Taojie Wang, Yao Zhang, Zheng Zhang, **Jianyu Niu**, Ye Wu, Yinqian Zhang  
+_The Network and Distributed System Security Symposium_, San Diego, California. Feb 2026.  
 1. **<small>[ICDE'25]</small> Orthrus: Accelerating Multi-BFT Consensus through Concurrent Partial Ordering of Transactions** [[Paper]](https://arxiv.org/abs/2501.14732)   
 <ins>Hanzheng Lyu<sup>†</sup></ins>, <ins>Shaokang Xie<sup>†</sup></ins>, **Jianyu Niu<sup>*</sup>**, Mohammad Sadoghi, Ivan Beschastnikh, Yinqian Zhang, Chen Feng.  
 _IEEE International Conference on Data Engineering_, Hong Kong, China, May 2025.  
@@ -176,4 +180,4 @@ Professional Activities
 - Asia Conference on Computer and Communications Security (AsiaCCS), 2024.
 - International Conference on Parallel and Distributed Systems (ICPADS), 2024.
 
-Last updated: 2025/10.
+Last updated: 2025/12.
