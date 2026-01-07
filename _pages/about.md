@@ -24,7 +24,7 @@ My research fields include blockchain, distributed systems, and confidential com
 
 News
 ------
-- (2025/12)**[Service]** I am invited to serve on the technical program committee of [ACM SOCC‘26](https://acmsocc.org/2026/index.html).
+- (2025/12)**[Service]** I am invited to serve on the technical program committee of [ACM SoCC‘26](https://acmsocc.org/2026/index.html).
 - (2025/10)**[Service]** I am invited to serve on the technical program committee of [ACM CCS'26](https://www.sigsac.org/ccs/CCS2026/).
 - (2025/08)**[Service]** I am invited to serve on the technical program committee of [USENIX Security‘26](https://www.usenix.org/conference/usenixsecurity26) and [IEEE ICPADS'25](http://ieee-icpads.org.cn/).
 - (2025/03)**[Paper]** Our work, Orthrus, a high-performance Multi-BFT consensus protocol, has been accepted to [ICDE'25](). 
