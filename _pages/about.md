@@ -106,7 +106,7 @@ _Annual Computer Security Applications Conference_, December 2024. -->
 Selected Journal Publications
 ---
 1. **<small>[ToN]</small> Leader Rotation Is Not Enough: Scrutinizing Leadership Democracy of Chained BFT Consensus**   
-**Jianyu Niu<sup>**, <ins>Yining Tang</ins>, Runchao Han, Chen Feng, and Yinqian Zhang      
+**Jianyu Niu**, <ins>Yining Tang</ins>, Runchao Han, Chen Feng, and Yinqian Zhang      
 _IEEE/ACM Transactions on Networking_, 2026. 
 1. **<small>[TDSC]</small> Mercury: Practical Cross-Chain Exchange via Trusted Hardware**  
 <ins>Xiaoqing Wen</ins>, <ins>Quanbi Feng</ins>, **Jianyu Niu<sup>*</sup>**, Yinqian Zhang, and Chen Feng  
