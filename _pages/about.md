@@ -53,10 +53,10 @@ Preprints
  Animation ]](https://ebftalgorithm.github.io/) [[One variant used in VeChain]](https://github.com/vechain/VIPs/blob/master/vips/VIP-220.md) [[Previous version selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/)**  
 1. **Unraveling Responsiveness of Chained BFT Consensus with Network Delay** [[Paper]](https://arxiv.org/abs/2501.03695)   
 <ins>Yining Tang</ins>, <ins>Qihang Luo</ins>, Runchao Han, **Jianyu Niu<sup>*</sup>**, Chen Feng, and Yinqian Zhang.  
-1. **Leader Rotation Is Not Enough: Scrutinizing Leadership Democracy of Chained BFT Consensus** [[Paper]](https://arxiv.org/pdf/2501.02970)   
-<ins>Yining Tang</ins>,  Runchao Han, **Jianyu Niu<sup>*</sup>**, Chen Feng, and Yinqian Zhang.  
 1. **Fides: Scalable Censorship-Resistant DAG Consensus via Trusted Components** [[Paper]](https://arxiv.org/abs/2501.01062)  
 <ins>Shaokang Xie</ins>, Dakai Kang, <ins>Hanzheng Lyu</ins>, **Jianyu Niu**, Mohammad Sadoghi.
+1. **HYDRA: Breaking the Global Ordering Barrier in Multi-BFT Consensus** [[Paper]](https://arxiv.org/abs/2511.05843)  
+<ins>Hanzheng Lyu</ins>, <ins>Shaokang Xie</ins>, **Jianyu Niu**, Mohammad Sadoghi, Yinqian Zhang, Cong Wang, Ivan Beschastnikh, Chen Feng  
 
 
 Selected Conference Publications (*corresponding author, _supervised students, †equally contributed)
@@ -105,6 +105,9 @@ _Annual Computer Security Applications Conference_, December 2024. -->
 
 Selected Journal Publications
 ---
+1. **<small>[ToN]</small> Leader Rotation Is Not Enough: Scrutinizing Leadership Democracy of Chained BFT Consensus**   
+**Jianyu Niu<sup>**, <ins>Yining Tang</ins>, Runchao Han, Chen Feng, and Yinqian Zhang      
+_IEEE/ACM Transactions on Networking_, 2026. 
 1. **<small>[TDSC]</small> Mercury: Practical Cross-Chain Exchange via Trusted Hardware**  
 <ins>Xiaoqing Wen</ins>, <ins>Quanbi Feng</ins>, **Jianyu Niu<sup>*</sup>**, Yinqian Zhang, and Chen Feng  
 _IEEE Transactions on Dependable and Secure Computing_, 2026. 
@@ -119,7 +122,7 @@ _IEEE Transactions on Dependable and Secure Computing_, 2025.
 _IEEE Transactions on Dependable and Secure Computing_, 2024.
 1. **<small>[TDSC]</small>  Fast-Hotstuff: A Fast and Resilient Hotstuff Protocol**   
 Mohammad M. Jalalzai, **Jianyu Niu**, Chen Feng, and Fangyu Gai  
-_IEEE Transactions on Dependable and Secure Computing_, 2023.
+_IEEE Transactions on Dependable and Secure Computing_, 2023.  
 [[Selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/) [\[Used in Deso](https://revolution.deso.com/), [Plasma](https://docs.plasma.to/), [and Zilliqa 2.0\]](https://blog.zilliqa.com/evm-and-the-road-to-zilliqa-2-0-upgrading-network-efficiency/)  
 1. **<small>[TDSC]</small> Crystal: Enhancing Blockchain Mining Transparency with Quorum Certificate**  
 **Jianyu Niu**, Fangyu Gai, Runchao Han, Ren Zhang, Yinqian Zhang, and Chen Feng  
