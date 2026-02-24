@@ -55,13 +55,14 @@ Preprints
 <ins>Yining Tang</ins>, <ins>Qihang Luo</ins>, Runchao Han, **Jianyu Niu<sup>*</sup>**, Chen Feng, and Yinqian Zhang.  
 1. **Fides: Scalable Censorship-Resistant DAG Consensus via Trusted Components** [[Paper]](https://arxiv.org/abs/2501.01062)  
 <ins>Shaokang Xie</ins>, Dakai Kang, <ins>Hanzheng Lyu</ins>, **Jianyu Niu**, Mohammad Sadoghi.
-1. **HYDRA: Breaking the Global Ordering Barrier in Multi-BFT Consensus** [[Paper]](https://arxiv.org/abs/2511.05843)  
-<ins>Hanzheng Lyu</ins>, <ins>Shaokang Xie</ins>, **Jianyu Niu**, Mohammad Sadoghi, Yinqian Zhang, Cong Wang, Ivan Beschastnikh, Chen Feng  
 
 
 Selected Conference Publications (*corresponding author, _supervised students, †equally contributed)
 ------
- 1. **<small>[NDSS'26]</small> When Cache Poisoning Meets LLM Systems: Semantic Cache Poisoning and Its Countermeasures**  
+1. **<small>[ICDE'26]</small> HYDRA: Breaking the Global Ordering Barrier in Multi-BFT Consensus**   
+<ins>Hanzheng Lyu</ins>, <ins>Shaokang Xie</ins>, **Jianyu Niu<sup>*</sup>**, Mohammad Sadoghi, Yinqian Zhang, Cong Wang, Ivan Beschastnikh, Chen Feng  
+_IEEE International Conference on Data Engineering_, Montréal, Canada, May 2026.  
+1. **<small>[NDSS'26]</small> When Cache Poisoning Meets LLM Systems: Semantic Cache Poisoning and Its Countermeasures**  
 Guanlong Wu, Taojie Wang, Yao Zhang, Zheng Zhang, **Jianyu Niu**, Ye Wu, Yinqian Zhang  
 _The Network and Distributed System Security Symposium_, San Diego, California. Feb 2026.  
 1. **<small>[ICDE'25]</small> Orthrus: Accelerating Multi-BFT Consensus through Concurrent Partial Ordering of Transactions** [[Paper]](https://arxiv.org/abs/2501.14732)   
@@ -132,8 +133,8 @@ Mentoring Students
 -----
 **Ph.D. Students:**
 - Pinshen Xu (2025.09-, CityU, supervised by Prof. Cong Wang)
-- Shaokang Xie (2024.09-, UC Davis, supervised by Prof. Mohammad Sadoghi)
-- Xiaoqing Wen (2022.11-, UBCO, supervised by Prof. Chen Feng)
+- [Shaokang Xie](https://scholar.google.com/citations?user=ziRt4M8AAAAJ&hl=en) (2024.09-, UC Davis, supervised by Prof. Mohammad Sadoghi)
+- [Xiaoqing Wen](https://scholar.google.com.tw/citations?user=iuc8lvkAAAAJ&hl=zh-CN) (2022.11-, UBCO, supervised by Prof. Chen Feng)
 - [Hanzheng Lyu](https://hanzheng2021.github.io/)  (2021.9-2025.9, UBCO, supervised by Prof. Chen Feng)
   
 **Master Students:**
@@ -183,4 +184,4 @@ Professional Activities
 - Asia Conference on Computer and Communications Security (AsiaCCS), 2024.
 - International Conference on Parallel and Distributed Systems (ICPADS), 2024.
 
-Last updated: 2025/12.
+Last updated: 2026/02.
