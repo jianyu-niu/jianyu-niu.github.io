@@ -47,10 +47,6 @@ Preprints
 **Jianyu Niu**, Chen Feng, Hoang Dau, Yu-Chih Huang, Jingge Zhu [[Paper]](https://arxiv.org/pdf/1910.08510.pdf)  
 [[Selected as "Paper of the Week" (Issue #31) by ZK Capital]](https://zkcapital.substack.com/p/this-week-in-blockchain-research-927?token=eyJ1c2VyX2lkIjoyNzY3MzU2LCJwb3N0X2lkIjoxNTI4MDcsIl8iOiIrK24rMCIsImlhdCI6MTYzMjQ0ODMxNCwiZXhwIjoxNjMyNDUxOTE0LCJpc3MiOiJwdWItNjQ0MSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.n361wEaWHTRxnXO63B-vNwv9mzFIUGk5qCs0q2yScJk)  
 -->
-1. **EBFT: Simplifying BFT Consensus Through Egalitarianism** [[Paper]](https://arxiv.org/pdf/2012.01636.pdf)  
-**Jianyu Niu**, Runchao Han, <ins>Shengqi Liu</ins>, Fangyu Gai, Ivan Beschastnikh, Yinqian Zhang, Chen Feng  
-**[[Homepage with
- Animation ]](https://ebftalgorithm.github.io/) [[One variant used in VeChain]](https://github.com/vechain/VIPs/blob/master/vips/VIP-220.md) [[Previous version selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/)**  
 1. **Unraveling Responsiveness of Chained BFT Consensus with Network Delay** [[Paper]](https://arxiv.org/abs/2501.03695)   
 <ins>Yining Tang</ins>, <ins>Qihang Luo</ins>, Runchao Han, **Jianyu Niu<sup>*</sup>**, Chen Feng, and Yinqian Zhang.  
 1. **Fides: Scalable Censorship-Resistant DAG Consensus via Trusted Components** [[Paper]](https://arxiv.org/abs/2501.01062)  
@@ -106,6 +102,11 @@ _Annual Computer Security Applications Conference_, December 2024. -->
 
 Selected Journal Publications
 ---
+1. **EBFT: Simplifying BFT Consensus Through Egalitarianism** [[Paper]](https://arxiv.org/pdf/2012.01636.pdf)  
+**Jianyu Niu<sup>†</sup>**, Runchao Han<sup>†</sup>, <ins>Hanzheng Lyu</ins>, Ivan Beschastnikh, Yinqian Zhang, Chen Feng   
+_IEEE Transactions on Dependable and Secure Computing_, 2026.   
+**[[Homepage with
+ Animation ]](https://ebftalgorithm.github.io/) [[One variant used in VeChain]](https://github.com/vechain/VIPs/blob/master/vips/VIP-220.md) [[Previous version selected as reading list by Stanford EE374]](http://web.stanford.edu/class/ee374/)**  
 1. **<small>[ToN]</small> Leader Rotation Is Not Enough: Scrutinizing Leadership Democracy of Chained BFT Consensus**   
 **Jianyu Niu**, <ins>Yining Tang</ins>, Runchao Han, Chen Feng, and Yinqian Zhang      
 _IEEE/ACM Transactions on Networking_, 2026. 
