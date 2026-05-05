@@ -136,7 +136,7 @@ Mentoring Students
 - Pinshen Xu (2025.09-, CityU, supervised by Prof. Cong Wang)
 - [Shaokang Xie](https://scholar.google.com/citations?user=ziRt4M8AAAAJ&hl=en) (2024.09-, UC Davis, supervised by Prof. Mohammad Sadoghi)
 - [Xiaoqing Wen](https://scholar.google.com.tw/citations?user=iuc8lvkAAAAJ&hl=zh-CN) (2022.11-, UBCO, supervised by Prof. Chen Feng)
-- [Hanzheng Lyu](https://hanzheng2021.github.io/)  (2021.9-2025.9, UBCO, supervised by Prof. Chen Feng)
+- [Hanzheng Lyu](https://hanzheng2021.github.io/)  (2021.9-2025.9, UBCO, supervised by Prof. Chen Feng, next position: Postdoc at Beihang University)
   
 **Master Students:**
 - Dahui Li (2025.9-, SUSTech, supervised by Prof. Yinqian Zhang)
