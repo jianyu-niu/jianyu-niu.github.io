@@ -40,20 +40,19 @@ News
 - (2022/08)**[Paper]** Our paper, “Scaling Blockchain Consensus via a Robust Shared Mempool”, has been accepted to [ICDE'23](https://icde2023.ics.uci.edu/).
 - (2021/12)**[Paper]** Our paper, “Publish or Perish: Defending Withholding Attack in Dfinity Consensus”, has been selected as the **best paper** in [MSN'21](https://www.ieee-msn.org/2021/).
 
-Preprints
-------
-<!---
+<!--- Preprints
+-----
 /* 1. **Analysis of Nakamoto Consensus, Revisited**  
 **Jianyu Niu**, Chen Feng, Hoang Dau, Yu-Chih Huang, Jingge Zhu [[Paper]](https://arxiv.org/pdf/1910.08510.pdf)  
 [[Selected as "Paper of the Week" (Issue #31) by ZK Capital]](https://zkcapital.substack.com/p/this-week-in-blockchain-research-927?token=eyJ1c2VyX2lkIjoyNzY3MzU2LCJwb3N0X2lkIjoxNTI4MDcsIl8iOiIrK24rMCIsImlhdCI6MTYzMjQ0ODMxNCwiZXhwIjoxNjMyNDUxOTE0LCJpc3MiOiJwdWItNjQ0MSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.n361wEaWHTRxnXO63B-vNwv9mzFIUGk5qCs0q2yScJk)  
--->
+
 1. **Unraveling Responsiveness of Chained BFT Consensus with Network Delay** [[Paper]](https://arxiv.org/abs/2501.03695)   
 <ins>Yining Tang</ins>, <ins>Qihang Luo</ins>, Runchao Han, **Jianyu Niu<sup>*</sup>**, Chen Feng, and Yinqian Zhang.  
 1. **Fides: Scalable Censorship-Resistant DAG Consensus via Trusted Components** [[Paper]](https://arxiv.org/abs/2501.01062)  
-<ins>Shaokang Xie</ins>, Dakai Kang, <ins>Hanzheng Lyu</ins>, **Jianyu Niu**, Mohammad Sadoghi.
+<ins>Shaokang Xie</ins>, Dakai Kang, <ins>Hanzheng Lyu</ins>, **Jianyu Niu**, Mohammad Sadoghi.-->
 
 
-Selected Conference Publications (*corresponding author, _supervised students, †equally contributed)
+Selected Conference Publications (*corresponding author, _supervised students, †equally contributed) Full List at [Google Scholar](https://scholar.google.com/citations?user=2BakBVcAAAAJ&hl=en) and [DBLP](https://dblp.org/pid/161/2037.html)
 ------
 1. **<small>[ICDE'26]</small> HYDRA: Breaking the Global Ordering Barrier in Multi-BFT Consensus**   
 <ins>Hanzheng Lyu</ins>, <ins>Shaokang Xie</ins>, **Jianyu Niu<sup>*</sup>**, Mohammad Sadoghi, Yinqian Zhang, Cong Wang, Ivan Beschastnikh, Chen Feng  
@@ -82,7 +81,8 @@ _ACM Conference on Computer and Communications Security_.
  1. **<small>[CCS'22]</small> ENGRAFT: Enclave-guarded Raft on Byzantine Faulty Nodes**  
 Weili Wang, Sen Deng, **Jianyu Niu**, Michael K. Reiter, Yinqian Zhang  
 _ACM Conference on Computer and Communications Security_.
-1. **<small>[MSN'21]</small> Publish or Perish: Defending Withholding Attack in Dfinity Consensus**  (<font color=Red>Best Paper Award</font>)  
+
+<!-- 1. **<small>[MSN'21]</small> Publish or Perish: Defending Withholding Attack in Dfinity Consensus**  (<font color=Red>Best Paper Award</font>)  
 <ins>Hanzheng Lyu</ins>, **Jianyu Niu**, Fangyu Gai, Chen Feng   
 _IEEE International Conference on Mobility, Sensing and Networking_, Virtual, Dec. 2021.  
 1. **<small>[INFOCOM'21]</small> On the Performance of Pipelined HotStuff**  [[Blogs]](https://salemal.medium.com/on-the-performance-of-pipelined-hotstuff-a8e468f66095)  
@@ -93,9 +93,7 @@ _IEEE International Conference on Computer Communications_, Virtual, May. 2021.
 _International Symposium on Computer Performance, Modeling, Measurements and Evaluation_, Virtual, Nov. 2020.
 1. **<small>[ICDCS'19]</small> Selfish Mining in Ethereum**  
 **Jianyu Niu**, Chen Feng  
-_IEEE International Conference on Distributed Computing Systems_, Dallas, Texas, Jun. 2019.
-
-
+_IEEE International Conference on Distributed Computing Systems_, Dallas, Texas, Jun. 2019.-->
 <!-- 1. **<small>[ACSAC'24]</small> Breaking the Privacy Barrier: On the Feasibility of Reorganization Attacks on Ethereum Private Transaction**  
  Mengya Zhang, Xingyu Lyu, **Jianyu Niu**, Xiaokuan Zhang, Yinqian Zhang, and Zhiqiang Lin  
 _Annual Computer Security Applications Conference_, December 2024. -->
@@ -143,7 +141,7 @@ Mentoring Students
 - Quanbi Feng (2024.9-, SUSTech, supervised by Prof. Yinqian Zhang)
 - Shubo Peng (2024.9-, SUSTech, supervised by Prof. Yinqian Zhang)
 - Tong Liu (2024.6-, SUSTech, supervised by Prof. Yinqian Zhang)
-- Yining Tang  (2022.11-2025.7, SUSTech, supervised by Prof. Yinqian Zhang, next position: China Telecom Company)
+- Yining Tang (2022.11-2025.7, SUSTech, supervised by Prof. Yinqian Zhang, next position: China Telecom Company)
 
 **Undergraduate Students (Thesis):**
 - Qiyuan Huang (2024.9-2025.6, next position: master student at NTU)
