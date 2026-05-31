@@ -5,8 +5,6 @@ permalink: /services/
 author_profile: true
 ---
 
-## Academic Service
-
 ### Program Committee Member
 
 * ACM Conference on Computer and Communications Security (CCS), [2024](https://www.sigsac.org/ccs/CCS2024/), [2025](https://www.sigsac.org/ccs/CCS2025/), [2026](https://www.sigsac.org/ccs/CCS2026/)
