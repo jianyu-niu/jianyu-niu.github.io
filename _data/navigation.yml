@@ -6,5 +6,5 @@ main:
   - title: "Students"
     url: "/students/"
 
-  - title: "Service"
+  - title: "Services"
     url: "/services/"
