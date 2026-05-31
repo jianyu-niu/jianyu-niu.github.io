@@ -1,32 +1,10 @@
 # main links
-
 main:
+  - title: "Publications"
+    url: "/publications/"
 
-* title: "Publications"
-  url: /publications/
+  - title: "Students"
+    url: "/students/"
 
-* title: "Students"
-  url: /students/
-
-* title: "Service"
-  url: /services/
-
-# - title: "Teaching"
-
-# url: /teaching/
-
-# - title: "Portfolio"
-
-# url: /portfolio/
-
-# - title: "Blog Posts"
-
-# url: /year-archive/
-
-# - title: "CV"
-
-# url: /cv/
-
-# - title: "Guide"
-
-# url: /markdown/
+  - title: "Service"
+    url: "/services/"
