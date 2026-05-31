@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-------
 I am currently a Research Fellow at [City University of Hong Kong](https://www.cityu.edu.hk/) (CityU), working with [Prof. Cong Wang](https://www.cs.cityu.edu.hk/~congwang/). Previously, I was a Research Assistant Professor at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech), working with [Prof. Yinqian Zhang](https://yinqian.org/) from 2021-2025. I received my Ph.D. degree from [The University of British Columbia](https://ok.ubc.ca/) (UBC) in Sep. 2021, under the supervision of [Prof. Chen Feng](https://engineering.ok.ubc.ca/about/contact/chen-feng/). 
 
 
