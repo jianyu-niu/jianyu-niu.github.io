@@ -27,14 +27,12 @@ I have been fortunate to work with many talented students at different stages of
 
 ## Alumni
 
-| Name                                                                    | Role                         | Period          | Next Position                               |
-| ----------------------------------------------------------------------- | ---------------------------- | --------------- | ------------------------------------------- |
-| [Hanzheng Lyu](https://hanzheng2021.github.io/)                         | Ph.D. Student                | 2021.09–2025.09 | Postdoctoral Researcher, Beihang University |
-| Yining Tang                                                             | Master's Student             | 2022.11–2025.07 | China Telecom                               |
-| Qiyuan Huang                                                            | Undergraduate Student | 2023.09–2025.06 | M.S. Student, NTU                           |
-| Qihang Luo                                                              | Undergraduate Student | 2023.09–2025.06 | BYD                                         |
-| Hang Huang                                                              | Undergraduate Student | 2022.09–2024.06 | Huawei 2012 Lab                             |
-| Shengqi Liu                                                             | Undergraduate Student | 2022.09–2024.06 | M.S. Student, UIUC                          |
-| Yinan Mi                                                                | Research Assistant           | 2023.09–2024.10 | —                                           |
-| Shuo Yang                                                               | Visiting Student             | 2023.10–2024.08 | Ph.D. Student, CityU                        |
-| [Yuanhang Zhou](https://scholar.google.com/citations?user=Cu431uMAAAAJ) | Visiting Student             | 2023.06–2024.01 | Ph.D. Student, HKBU                         |
+* [Hanzheng Lyu](https://hanzheng2021.github.io/) (Ph.D. Student, 2021.09–2025.09), now Postdoctoral Researcher at Beihang University.
+* Yining Tang (Master's Student, 2022.11–2025.07), now with China Telecom.
+* Qiyuan Huang (Undergraduate Thesis Student, 2024.09–2025.06), now M.S. student at NTU.
+* Qihang Luo (Undergraduate Thesis Student, 2024.09–2025.06), now with BYD.
+* Hang Huang (Undergraduate Thesis Student, 2023.09–2024.06), now with Huawei 2012 Lab.
+* Shengqi Liu (Undergraduate Thesis Student, 2023.09–2024.06), now M.S. student at UIUC.
+* Yinan Mi (Research Assistant, 2023.09–2024.10).
+* Shuo Yang (Visiting Student, 2023.10–2024.08), now Ph.D. student at CityU.
+* [Yuanhang Zhou](https://scholar.google.com/citations?user=Cu431uMAAAAJ) (Visiting Student, 2023.06–2024.01), now Ph.D. student at HKBU.
