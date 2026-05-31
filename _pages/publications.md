@@ -1,11 +1,16 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% include base_path %}
+{% include base_path %}  
+
+A selection of my recent publications in distributed systems, blockchain systems, Byzantine fault-tolerant consensus, and confidential computing. For a complete publication list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=2BakBVcAAAAJ&hl=en) and [DBLP](https://dblp.org/pid/161/2037.html).
+
+Notation: * Corresponding author; _ Supervised student; † Equal contribution.
+
 
 
 <!--- Preprints
@@ -20,7 +25,7 @@ author_profile: true
 <ins>Shaokang Xie</ins>, Dakai Kang, <ins>Hanzheng Lyu</ins>, **Jianyu Niu**, Mohammad Sadoghi.-->
 
 
-Selected Conference Publications (*corresponding author, _supervised students, †equally contributed) Full List at [Google Scholar](https://scholar.google.com/citations?user=2BakBVcAAAAJ&hl=en) and [DBLP](https://dblp.org/pid/161/2037.html)
+Conference Papers
 ------
 1. **<small>[Security'26]</small> Exploiting PoH Time Semantics in Solana via Re-Anchoring and Forking**   
 <ins>Quanbi Feng<sup>†</sup></ins>, <ins>Pinshen Xu<sup>†</sup></ins>, **Jianyu Niu**, Cong Wang, and Yinqian Zhang  
@@ -69,7 +74,7 @@ _IEEE International Conference on Distributed Computing Systems_, Dallas, Texas,
  Mengya Zhang, Xingyu Lyu, **Jianyu Niu**, Xiaokuan Zhang, Yinqian Zhang, and Zhiqiang Lin  
 _Annual Computer Security Applications Conference_, December 2024. -->
 
-Selected Journal Publications
+Conference Papers 
 ---
 1. **<small>[TDSC]</small> EBFT: Simplifying BFT Consensus Through Egalitarianism** 
 **Jianyu Niu<sup>†</sup>**, Runchao Han<sup>†</sup>, <ins>Hanzheng Lyu</ins>, Ivan Beschastnikh, Yinqian Zhang, Chen Feng   
