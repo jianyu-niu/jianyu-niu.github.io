@@ -33,17 +33,27 @@ This project explores integrations of confidential computing and various distrib
 * (2025/01) Our work, *Achilles*, an efficient TEE-assisted BFT protocol, has been accepted to [EuroSys'25]().
 * (2024/11) I am invited to serve as a PC member for [ACM/IFIP Middleware'25](https://middleware-conf.github.io/2025/).
 
+
 <details>
 <summary><b>Older News</b></summary>
 
-* (2024/11) Our work on side-channel attacks against KV-cache sharing has been accepted to [NDSS'25](https://www.ndss-symposium.org/ndss2025/).
-* (2024/10) I am invited to serve as a PC member for [ACM CCS'25](https://www.sigsac.org/ccs/CCS2025/).
-* (2024/08) I am invited to serve as a PC member for [AsiaCCS'25](https://asiaccs2025.hust.edu.vn/).
-* (2024/07) Our work, *Ladon*, a high-performance Multi-BFT protocol, has been accepted to [EuroSys'25]().
-* (2024/01) I am invited to serve as a PC member for [ACM CCS'24](https://www.sigsac.org/ccs/CCS2024/).
-* (2022/08) Our works, *Narrator* and *ENGRAFT*, have been accepted to [CCS'22](https://www.sigsac.org/ccs/CCS2022/).
-* (2022/08) Our work on robust shared mempool design has been accepted to [ICDE'23](https://icde2023.ics.uci.edu/).
+<ul>
+  <li>(2024/11) Our work on side-channel attacks against KV-cache sharing has been accepted to <a href="https://www.ndss-symposium.org/ndss2025/">NDSS'25</a>.</li>
+
+  <li>(2024/10) I am invited to serve as a PC member for <a href="https://www.sigsac.org/ccs/CCS2025/">ACM CCS'25</a>.</li>
+
+  <li>(2024/08) I am invited to serve as a PC member for <a href="https://asiaccs2025.hust.edu.vn/">AsiaCCS'25</a>.</li>
+
+  <li>(2024/07) Our work, <i>Ladon</i>, a high-performance Multi-BFT protocol, has been accepted to EuroSys'25.</li>
+
+  <li>(2024/01) I am invited to serve as a PC member for <a href="https://www.sigsac.org/ccs/CCS2024/">ACM CCS'24</a>.</li>
+
+  <li>(2022/08) Our works, <i>Narrator</i> and <i>ENGRAFT</i>, have been accepted to <a href="https://www.sigsac.org/ccs/CCS2022/">CCS'22</a>.</li>
+
+  <li>(2022/08) Our work on robust shared mempool design has been accepted to <a href="https://icde2023.ics.uci.edu/">ICDE'23</a>.</li>
+</ul>
 
 </details>
+
 
 Last updated: 2026/05.
