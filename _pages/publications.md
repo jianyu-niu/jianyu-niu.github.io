@@ -70,7 +70,7 @@ _IEEE International Conference on Distributed Computing Systems_, Dallas, Texas,
  Mengya Zhang, Xingyu Lyu, **Jianyu Niu**, Xiaokuan Zhang, Yinqian Zhang, and Zhiqiang Lin  
 _Annual Computer Security Applications Conference_, December 2024. -->
 
-Conference Papers 
+Journal Papers 
 ---
 1. **<small>[TDSC]</small> EBFT: Simplifying BFT Consensus Through Egalitarianism** 
 **Jianyu Niu<sup>†</sup>**, Runchao Han<sup>†</sup>, <ins>Hanzheng Lyu</ins>, Ivan Beschastnikh, Yinqian Zhang, Chen Feng   
