@@ -49,10 +49,14 @@ Fangyu Gai, **Jianyu Niu<sup>*</sup>**, Ivan Beschastnikh, Chen Feng, Sheng Wang
 _IEEE International Conference on Data Engineering_.
  1. **<small>[CCS'22]</small> Narrator: Secure and Practical State Continuity for Trusted Execution in the Cloud**  
 **Jianyu Niu**, Wei Peng, Xiaokuan Zhang, Yinqian Zhang  
-_ACM Conference on Computer and Communications Security_.
+_ACM Conference on Computer and Communications Security_, Nov 2022.
  1. **<small>[CCS'22]</small> ENGRAFT: Enclave-guarded Raft on Byzantine Faulty Nodes**  
 Weili Wang, Sen Deng, **Jianyu Niu**, Michael K. Reiter, Yinqian Zhang  
-_ACM Conference on Computer and Communications Security_.
+_ACM Conference on Computer and Communications Security_, Nov 2022.
+ 1. **<small>[INFOCOM'21]</small> On the Performance of Pipelined HotStuff**  
+**Jianyu Niu**, Fangyu Gai, Mohammad Mussadiq Jalalzai, and Chen Feng  
+_IEEE International Conference on Computer Communications_, May 2021.  
+
 
 <!-- 1. **<small>[MSN'21]</small> Publish or Perish: Defending Withholding Attack in Dfinity Consensus**  (<font color=Red>Best Paper Award</font>)  
 <ins>Hanzheng Lyu</ins>, **Jianyu Niu**, Fangyu Gai, Chen Feng   
