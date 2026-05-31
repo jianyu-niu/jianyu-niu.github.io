@@ -26,7 +26,7 @@ My research interests span blockchain systems, Byzantine fault-tolerant (BFT) co
 
 News
 ------
-- (2025/03)**[Paper]** Our work about Solana's PoH security analysis has been accepted to [Security'26](). 
+- (2026/05)**[Paper]** Our work about Solana's PoH security analysis has been accepted to [Security'26](). 
 - (2026/02)**[Paper]** Our work, Hydra, a Multi-BFT protocol without global ordering, has been accepted to [ICDE'26](). 
 - (2025/12)**[Service]** I am invited to serve as a PC member for [ACM SoCC‘26](https://acmsocc.org/2026/index.html).
 - (2025/10)**[Service]** I am invited to serve as a PC member for [ACM CCS'26](https://www.sigsac.org/ccs/CCS2026/).
@@ -45,4 +45,4 @@ News
 - (2021/12)**[Paper]** Our paper about withholding attack analysis in Dfinity has been selected as the **best paper** in [MSN'21](https://www.ieee-msn.org/2021/).
 
 
-Last updated: 2026/02.
+Last updated: 2026/05.
