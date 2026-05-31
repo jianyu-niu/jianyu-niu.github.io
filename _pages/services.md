@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Academic Service"
 permalink: /services/
 author_profile: true
