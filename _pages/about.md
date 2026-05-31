@@ -14,7 +14,7 @@ I am currently a Research Fellow at [City University of Hong Kong](https://www.c
 
 Research
 ------
-My research fields include blockchain, distributed systems, and confidential computing.  Below are some major research projects.
+My research interests span blockchain systems, Byzantine fault-tolerant (BFT) consensus, distributed confidential computing, and AI-assisted distributed systems. My work aims to build decentralized systems that are secure, scalable, and confidential. Below are several representative research directions.
 
 **Blockchain performance and security analysis**: This project applies stochastic processes to analyze decentralized incentive and BFT consensus designs. Related analysis include Ethereum (selfish mining, [ICDCS'19](https://arxiv.org/abs/1901.04620)), Bitcoin-NG (selfish mining, [Performance'20](https://arxiv.org/pdf/2001.05082.pdf)), chained HotStuff (evaluation framework, [INFOCOM'21](https://arxiv.org/abs/2107.04947)/[TDSC'25]()),  Crystal (block withholding resilience, [TDSC'22](https://arxiv.org/abs/2312.00741)), private transactions ([ACSAC'24](https://jianyu-niu.github.io/)), chained BFT (Responsiveness & Democracy,[ToN'26](https://arxiv.org/pdf/2501.02970)), Solana (PoH re-anchoring, [Security'26](https://www.usenix.org/conference/usenixsecurity26)).
 
