@@ -1,10 +1,9 @@
 ---
-
 layout: single
 title: "Students"
 permalink: /students/
 author_profile: true
---------------------
+---
 
 ## Mentoring Students
 
