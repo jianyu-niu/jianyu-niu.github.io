@@ -26,21 +26,23 @@ My research interests span blockchain systems, Byzantine fault-tolerant (BFT) co
 
 News
 ------
-- (2025/12)**[Service]** I am invited to serve on the technical program committee of [ACM SoCC‘26](https://acmsocc.org/2026/index.html).
-- (2025/10)**[Service]** I am invited to serve on the technical program committee of [ACM CCS'26](https://www.sigsac.org/ccs/CCS2026/).
-- (2025/08)**[Service]** I am invited to serve on the technical program committee of [USENIX Security‘26](https://www.usenix.org/conference/usenixsecurity26) and [IEEE ICPADS'25](http://ieee-icpads.org.cn/).
-- (2025/03)**[Paper]** Our work, Orthrus, a high-performance Multi-BFT consensus protocol, has been accepted to [ICDE'25](). 
-- (2025/01)**[Paper]** Our work, Achilles, an efficient TEE-assisted BFT protocol with rollback resilient recovery, has been accepted to [EuroSys'25](). 
-- (2024/11)**[Service]** I am invited to serve on the technical program committee of [ACM/IFIP Middleware'25](https://middleware-conf.github.io/2025/).
-- (2024/11)**[Paper]** Our work about side-channel attacks on KV cache sharing of multi-tenant LLM serving has been accepted to [NDSS'25](https://www.ndss-symposium.org/ndss2025/). 
-- (2024/10)**[Service]** I am invited to serve on the technical program committee of [ACM CCS'25](https://www.sigsac.org/ccs/CCS2025/).
-- (2024/08)**[Service]** I am invited to serve on the technical program committee of [AsiaCCS'25](https://asiaccs2025.hust.edu.vn/).
+- (2025/03)**[Paper]** Our work about Solana's PoH security analysis has been accepted to [Security'26](). 
+- (2026/02)**[Paper]** Our work, Hydra, a Multi-BFT protocol without global ordering, has been accepted to [ICDE'26](). 
+- (2025/12)**[Service]** I am invited to serve as a PC member for [ACM SoCC‘26](https://acmsocc.org/2026/index.html).
+- (2025/10)**[Service]** I am invited to serve as a PC member for [ACM CCS'26](https://www.sigsac.org/ccs/CCS2026/).
+- (2025/08)**[Service]** I am invited to serve as a PC member for [USENIX Security‘26](https://www.usenix.org/conference/usenixsecurity26) and [IEEE ICPADS'25](http://ieee-icpads.org.cn/).
+- (2025/03)**[Paper]** Our work, Orthrus, a high-performance Multi-BFT protocol, has been accepted to [ICDE'25](). 
+- (2025/01)**[Paper]** Our work, Achilles, an efficient TEE-assisted BFT protocol, has been accepted to [EuroSys'25](). 
+- (2024/11)**[Service]** I am invited to serve as a PC member for [ACM/IFIP Middleware'25](https://middleware-conf.github.io/2025/).
+- (2024/11)**[Paper]** Our work about side-channel attacks on KV cache sharing has been accepted to [NDSS'25](https://www.ndss-symposium.org/ndss2025/). 
+- (2024/10)**[Service]** I am invited to serve as a PC member for [ACM CCS'25](https://www.sigsac.org/ccs/CCS2025/).
+- (2024/08)**[Service]** I am invited to serve as a PC member for [AsiaCCS'25](https://asiaccs2025.hust.edu.vn/).
 - (2024/07)**[Paper]** Our work, Ladon, a high-performance multi-BFT protocol, has been accepted to [EuroSys'25](). 
-- (2024/01)**[Service]** I am invited to serve on the technical program committee of [ACM CCS'24](https://www.sigsac.org/ccs/CCS2024/).
+- (2024/01)**[Service]** I am invited to serve as a PC member for [ACM CCS'24](https://www.sigsac.org/ccs/CCS2024/).
 - (2022/08)**[Paper]** Our work, Narrator, has been accepted to [CCS'22](https://www.sigsac.org/ccs/CCS2022/).
-- (2022/08)**[Paper]** Our paper, “ENGRAFT: Enclave-guarded Raft on Byzantine Faulty Nodes”, has been accepted to [CCS'22](https://www.sigsac.org/ccs/CCS2022/).
-- (2022/08)**[Paper]** Our paper, “Scaling Blockchain Consensus via a Robust Shared Mempool”, has been accepted to [ICDE'23](https://icde2023.ics.uci.edu/).
-- (2021/12)**[Paper]** Our paper, “Publish or Perish: Defending Withholding Attack in Dfinity Consensus”, has been selected as the **best paper** in [MSN'21](https://www.ieee-msn.org/2021/).
+- (2022/08)**[Paper]** Our paper, ENGRAFT, an Enclave-guarded Raft, has been accepted to [CCS'22](https://www.sigsac.org/ccs/CCS2022/).
+- (2022/08)**[Paper]** Our paper about robust shared mempool has been accepted to [ICDE'23](https://icde2023.ics.uci.edu/).
+- (2021/12)**[Paper]** Our paper about withholding attack analysis in Dfinity has been selected as the **best paper** in [MSN'21](https://www.ieee-msn.org/2021/).
 
 
 Last updated: 2026/02.
