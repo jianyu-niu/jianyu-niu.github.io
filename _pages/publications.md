@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% include base_path %}  
-
 A selection of my recent publications in distributed systems, blockchain systems, Byzantine fault-tolerant consensus, and confidential computing. For a complete publication list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=2BakBVcAAAAJ&hl=en) and [DBLP](https://dblp.org/pid/161/2037.html).
 
 Notation: * Corresponding author; _ Supervised student; † Equal contribution.
