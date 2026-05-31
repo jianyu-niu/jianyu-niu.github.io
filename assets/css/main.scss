@@ -40,15 +40,10 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* =========================================================
-   Homepage Optimization
-   ========================================================= */
+/* ===== Homepage typography only: safe version ===== */
 
-
-
-/* Content typography */
 .page__content {
-  font-size: 15px;
+  font-size: 14.5px;
   line-height: 1.65;
 }
 
@@ -56,47 +51,34 @@
   text-align: justify;
 }
 
-/* Section titles */
 .page__content h2 {
   font-size: 1.45em;
-  margin-top: 1.8em;
-  margin-bottom: 0.8em;
+  margin-top: 1.6em;
+  margin-bottom: 0.7em;
   padding-bottom: 0.25em;
   border-bottom: 1px solid #dddddd;
 }
 
 .page__content h3 {
   font-size: 1.15em;
-  margin-top: 1.4em;
+  margin-top: 1.3em;
   margin-bottom: 0.4em;
 }
 
-/* Publication list */
+.page__content ul li,
+.page__content ol li {
+  margin-bottom: 0.2em;
+}
+
 .archive__item {
   margin-bottom: 0.8em;
 }
 
-/* Sidebar */
-.sidebar {
-  width: 260px;
-}
-
-.author__avatar img {
-  max-width: 180px;
-}
-
-/* Improve readability of links */
 .page__content a {
   text-decoration: none;
 }
 
 .page__content a:hover {
   text-decoration: underline;
-}
-
-/* Slightly denser lists */
-.page__content ul li,
-.page__content ol li {
-  margin-bottom: 0.2em;
 }
 
