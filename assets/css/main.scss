@@ -40,21 +40,74 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Research page formatting */
-.page__content p {
-    text-align: justify;
+/* =========================================================
+   Homepage Optimization
+   ========================================================= */
+
+/* Wider layout */
+.page {
+  max-width: 1700px;
 }
 
+.page__inner-wrap {
+  max-width: 1500px;
+}
+
+.archive {
+  max-width: 1500px;
+}
+
+/* Content typography */
 .page__content {
-    line-height: 1.7;
+  font-size: 15px;
+  line-height: 1.65;
 }
 
+.page__content p {
+  text-align: justify;
+}
+
+/* Section titles */
 .page__content h2 {
-    margin-top: 2em;
-    padding-bottom: 0.3em;
-    border-bottom: 1px solid #e5e5e5;
+  font-size: 1.45em;
+  margin-top: 1.8em;
+  margin-bottom: 0.8em;
+  padding-bottom: 0.25em;
+  border-bottom: 1px solid #dddddd;
 }
 
 .page__content h3 {
-    margin-top: 1.5em;
+  font-size: 1.15em;
+  margin-top: 1.4em;
+  margin-bottom: 0.4em;
 }
+
+/* Publication list */
+.archive__item {
+  margin-bottom: 0.8em;
+}
+
+/* Sidebar */
+.sidebar {
+  width: 260px;
+}
+
+.author__avatar img {
+  max-width: 180px;
+}
+
+/* Improve readability of links */
+.page__content a {
+  text-decoration: none;
+}
+
+.page__content a:hover {
+  text-decoration: underline;
+}
+
+/* Slightly denser lists */
+.page__content ul li,
+.page__content ol li {
+  margin-bottom: 0.2em;
+}
+
