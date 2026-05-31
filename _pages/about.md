@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Short Bios
+About Me
 ------
 I am currently a Research Fellow at [City University of Hong Kong](https://www.cityu.edu.hk/) (CityU), working with [Prof. Cong Wang](https://www.cs.cityu.edu.hk/~congwang/). Previously, I was a Research Assistant Professor at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech), working with [Prof. Yinqian Zhang](https://yinqian.org/) from 2021-2025. I received my Ph.D. degree from [The University of British Columbia](https://ok.ubc.ca/) (UBC) in Sep. 2021, under the supervision of [Prof. Chen Feng](https://engineering.ok.ubc.ca/about/contact/chen-feng/). 
 
+<!--
 Research
 ------
 My research interests span blockchain systems, Byzantine fault-tolerant (BFT) consensus, distributed confidential computing, and AI-assisted distributed systems. My work aims to build decentralized systems that are secure, scalable, and confidential. Below are several representative research directions.
@@ -21,6 +22,7 @@ My research interests span blockchain systems, Byzantine fault-tolerant (BFT) co
 **BFT consensus at scale**: This project aims to design simple and scalable BFT systems. Related works include Hermes (structured transmission, [TDSC'21](https://ieeexplore.ieee.org/document/9543565)), EBFT (extreme simplicity, [TDSC'26]()/[Homepage](https://ebftalgorithm.github.io/)), Fast-HotStuff (robust chained BFT, [TDSC'23](https://arxiv.org/abs/2010.11454)), Stratus (shared mempool, [ICDE'23](https://github.com/gitferry/bamboo-stratus)), and Ladon/Orthrus/Hydra (multi-BFT consensus, [EuroSys'25](https://arxiv.org/abs/2409.10954)/[ICDE'25](https://arxiv.org/abs/2501.14732)/[ICDE'26](https://arxiv.org/abs/2511.05843)).
 
 **Distributed confidential computing**: This project explores integrations of confidential computing and various distributed computing techniques like blockchains and Federated Learning. Related works include Engraft (confidential consensus, [CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560639)), Narrator/Narrator-Pro (state continuity system, [CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560620)/[TDSC'24](https://ieeexplore.ieee.org/abstract/document/10480251)), Achilles (TEE-assisted BFT, [EuroSys'25]()), Mercury/TeeRollup ([Bridge/TDSC'26](https://arxiv.org/abs/2409.14640), [Rollup/TC'25](https://arxiv.org/abs/2409.14647)), and Fides ([TEE-assisted DAG](https://arxiv.org/abs/2501.01062)).
+-->
 
 News
 ------
