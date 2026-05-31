@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Academic Service"
-permalink: /service/
+permalink: /services/
 author_profile: true
 ---
 
