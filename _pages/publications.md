@@ -76,7 +76,7 @@ _Annual Computer Security Applications Conference_, December 2024. -->
 
 Journal Papers 
 ---
-1. **<small>[TDSC]</small> EBFT: Simplifying BFT Consensus Through Egalitarianism** 
+1. **<small>[TDSC]</small> EBFT: Simplifying BFT Consensus Through Egalitarianism**   
 **Jianyu Niu<sup>†</sup>**, Runchao Han<sup>†</sup>, <ins>Hanzheng Lyu</ins>, Ivan Beschastnikh, Yinqian Zhang, Chen Feng   
 _IEEE Transactions on Dependable and Secure Computing_, 2026.   
 [[Homepage with
