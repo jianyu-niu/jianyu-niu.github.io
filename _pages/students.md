@@ -5,8 +5,6 @@ permalink: /students/
 author_profile: true
 ---
 
-## Mentoring Students
-
 I have been fortunate to work with many talented students at different stages of their academic careers. 
 ### Ph.D. Students
 
