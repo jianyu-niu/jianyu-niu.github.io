@@ -24,7 +24,7 @@ This project aims to design simple and scalable BFT systems. Related works inclu
 This project explores integrations of confidential computing and various distributed computing techniques like blockchains and Federated Learning. Related works include Engraft (confidential consensus, [CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560639)), Narrator/Narrator-Pro (state continuity system, [CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560620)/[TDSC'24](https://ieeexplore.ieee.org/abstract/document/10480251)), Achilles (TEE-assisted BFT, [EuroSys'25]()), Mercury/TeeRollup ([Bridge/TDSC'26](https://arxiv.org/abs/2409.14640), [Rollup/TC'25](https://arxiv.org/abs/2409.14647)), and Fides ([TEE-assisted DAG](https://arxiv.org/abs/2501.01062)).
 
 ## News
-* (2026/05) Our work on Solana PoH security analysis has been accepted to [USENIX Security'26]().
+* (2026/05) Our work on *Solana PoH* security analysis has been accepted to [USENIX Security'26]().
 * (2026/02) Our work, *Hydra*, a Multi-BFT protocol without global ordering, has been accepted to [ICDE'26]().
 * (2025/12) I am invited to serve as a PC member for [ACM SoCC'26](https://acmsocc.org/2026/index.html).
 * (2025/10) I am invited to serve as a PC member for [ACM CCS'26](https://www.sigsac.org/ccs/CCS2026/).
