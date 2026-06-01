@@ -31,22 +31,22 @@ _USENIX Security Symposium (Security)_, Baltimore, MD, USA, August, 2026.
 _IEEE International Conference on Data Engineering_, Montréal, Canada, May 2026.  
 1. **<small>[NDSS'26]</small> When Cache Poisoning Meets LLM Systems: Semantic Cache Poisoning and Its Countermeasures**  
 Guanlong Wu, Taojie Wang, Yao Zhang, Zheng Zhang, **Jianyu Niu**, Ye Wu, Yinqian Zhang  
-_The Network and Distributed System Security Symposium_, San Diego, California. Feb 2026.  
-1. **<small>[ICDE'25]</small> Orthrus: Accelerating Multi-BFT Consensus through Concurrent Partial Ordering of Transactions** [[Paper]](https://arxiv.org/abs/2501.14732)   
-<ins>Hanzheng Lyu<sup>†</sup></ins>, <ins>Shaokang Xie<sup>†</sup></ins>, **Jianyu Niu<sup>*</sup>**, Mohammad Sadoghi, Ivan Beschastnikh, Yinqian Zhang, Chen Feng.  
+_The Network and Distributed System Security Symposium_, San Diego, California, Feb 2026.  
+1. **<small>[ICDE'25]</small> Orthrus: Accelerating Multi-BFT Consensus through Concurrent Partial Ordering of Transactions**   
+<ins>Hanzheng Lyu<sup>†</sup></ins>, <ins>Shaokang Xie<sup>†</sup></ins>, **Jianyu Niu<sup>*</sup>**, Mohammad Sadoghi, Ivan Beschastnikh, Yinqian Zhang, Chen Feng  
 _IEEE International Conference on Data Engineering_, Hong Kong, China, May 2025.  
 1. **<small>[EuroSys'25]</small> Achilles: Efficient TEE-Assisted BFT Consensus via Rollback Resilient Recovery**  
  **Jianyu Niu<sup>*</sup>**, <ins>Xiaoqing Wen<sup>†</sup></ins>, <ins>Guanlong Wu<sup>†</sup></ins>, <ins>Shengqi Liu</ins>, Jiangshan Yu, Yinqian Zhang  
 _European Conference on Computer Systems_, Rotterdam, Netherlands, Apr 2025.
  1. **<small>[NDSS'25]</small> I Know What You Asked: Prompt Leakage via KV-Cache Sharing in Multi-Tenant LLM Serving**  
 Guanlong Wu, Zheng Zhang, Weili Wang, **Jianyu Niu**, Yao Zhang, Ye Wu, Yinqian Zhang  
-_The Network and Distributed System Security Symposium_, San Diego, California. Feb 2025.
- 1. **<small>[EuroSys'25]</small> Ladon: High-Performance Multi-BFT Consensus via Dynamic Global Ordering** [[Extended]](https://arxiv.org/abs/2409.10954)  
+_The Network and Distributed System Security Symposium_, San Diego, California, Feb 2025.
+ 1. **<small>[EuroSys'25]</small> Ladon: High-Performance Multi-BFT Consensus via Dynamic Global Ordering**   
 <ins>Hanzheng Lyu<sup>†</sup></ins>, <ins>Shaokang Xie<sup>†</sup></ins>, **Jianyu Niu<sup>*</sup>**, Chen Feng, Yinqian Zhang, Ivan Beschastnikh  
 _European Conference on Computer Systems_, Rotterdam, Netherlands, Apr 2025.
  1. **<small>[ICDE'23]</small> Scaling Blockchain Consensus via a Robust Shared Mempool**  
 Fangyu Gai, **Jianyu Niu<sup>*</sup>**, Ivan Beschastnikh, Chen Feng, Sheng Wang  
-_IEEE International Conference on Data Engineering_.
+_IEEE International Conference on Data Engineering_, Apr 2023.
  1. **<small>[CCS'22]</small> Narrator: Secure and Practical State Continuity for Trusted Execution in the Cloud**  
 **Jianyu Niu**, Wei Peng, Xiaokuan Zhang, Yinqian Zhang  
 _ACM Conference on Computer and Communications Security_, Nov 2022.
@@ -61,9 +61,6 @@ _IEEE International Conference on Computer Communications_, May 2021.
 <!-- 1. **<small>[MSN'21]</small> Publish or Perish: Defending Withholding Attack in Dfinity Consensus**  (<font color=Red>Best Paper Award</font>)  
 <ins>Hanzheng Lyu</ins>, **Jianyu Niu**, Fangyu Gai, Chen Feng   
 _IEEE International Conference on Mobility, Sensing and Networking_, Virtual, Dec. 2021.  
-1. **<small>[INFOCOM'21]</small> On the Performance of Pipelined HotStuff**  [[Blogs]](https://salemal.medium.com/on-the-performance-of-pipelined-hotstuff-a8e468f66095)  
-**Jianyu Niu**, Fangyu Gai, Mohammad M. Jalalzai, Chen Feng  
-_IEEE International Conference on Computer Communications_, Virtual, May. 2021.
 1. **<small>[Performance'20]</small> Incentive Analysis of Bitcoin-NG, Revisited**  
 **Jianyu Niu**, Ziyu Wang, Fangyu Gai, Chen Feng  
 _International Symposium on Computer Performance, Modeling, Measurements and Evaluation_, Virtual, Nov. 2020.
