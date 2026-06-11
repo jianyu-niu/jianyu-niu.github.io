@@ -24,7 +24,7 @@ The following lists a selection of my recent publications. For a complete list, 
 Conference Papers
 ------
 1. **<small>[Security'26]</small> Exploiting PoH Time Semantics in Solana via Re-Anchoring and Forking**   
-<ins>Quanbi Feng<sup>†</sup></ins>, <ins>Pinshen Xu<sup>†</sup></ins>, **Jianyu Niu**, Cong Wang, and Yinqian Zhang  
+<ins>Quanbi Feng<sup>†</sup></ins>, <ins>Pinshen Xu<sup>†</sup></ins>, **Jianyu Niu<sup>*</sup>**, Cong Wang, and Yinqian Zhang  
 _USENIX Security Symposium (Security)_, Baltimore, MD, USA, August, 2026.  
 1. **<small>[ICDE'26]</small> HYDRA: Breaking the Global Ordering Barrier in Multi-BFT Consensus**   
 <ins>Hanzheng Lyu</ins>, <ins>Shaokang Xie</ins>, **Jianyu Niu<sup>*</sup>**, Mohammad Sadoghi, Yinqian Zhang, Cong Wang, Ivan Beschastnikh, Chen Feng  
