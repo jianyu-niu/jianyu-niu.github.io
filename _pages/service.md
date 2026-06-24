@@ -26,6 +26,6 @@ author_profile: true
 *  IEEE Open Journal of the Communications Society, 2020, 2021, 2022, 2023, 2024
 *  IEEE Transactions on Dependable and Secure Computing (TDSC), 2024, 2025, 2026
 ### Professional Memberships
-
-* Executive Committee Member, CCF Blockchain Technical Committee
 * Young Editorial Board Member, *Blockchain*
+* Executive Committee Member, CCF Blockchain Technical Committee
+
