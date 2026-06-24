@@ -28,7 +28,7 @@ I have been fortunate to work with many talented students at different stages of
 ## Alumni
 
 * [Hanzheng Lyu](https://hanzheng2021.github.io/) (Ph.D. Student, 2021.09–2025.09), now Postdoctoral Researcher at Beihang University.
-* Yining Tang (Master's Student, 2022.11–2025.07), now with China Telecom.
+* [Yining Tang](https://scholar.google.com/citations?user=WQrJpgMAAAAJ&hl=en&oi=ao) (Master's Student, 2022.11–2025.07), now with China Telecom.
 * Qiyuan Huang (Undergraduate Thesis Student, 2024.09–2025.06), now M.S. student at NTU.
 * Qihang Luo (Undergraduate Thesis Student, 2024.09–2025.06), now with BYD.
 * Hang Huang (Undergraduate Thesis Student, 2023.09–2024.06), now with Huawei 2012 Lab.
