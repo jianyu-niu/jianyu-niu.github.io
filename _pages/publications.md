@@ -74,7 +74,7 @@ _Annual Computer Security Applications Conference_, December 2024. -->
 Journal Papers 
 ---
 1. **<small>[TDSC]</small> Unraveling Responsiveness of Chained BFT Consensus with Network Delay**   
-<ins>Yining Tang<sup>†</sup></ins>, <ins>Mohan Yu<sup>†</sup></ins>, <ins>Qihang Luo</ins>, Runchao Han,  **Jianyu Niu**,  Chen Feng, and Yinqian Zhang      
+<ins>Yining Tang<sup>†</sup></ins>, <ins>Mohan Yu<sup>†</sup></ins>, <ins>Qihang Luo</ins>, Runchao Han,  **Jianyu Niu<sup>*</sup>**,  Chen Feng, and Yinqian Zhang      
 _IEEE Transactions on Dependable and Secure Computing_, 2026.   
 1. **<small>[TDSC]</small> EBFT: Simplifying BFT Consensus Through Egalitarianism**   
 **Jianyu Niu<sup>†</sup>**, Runchao Han<sup>†</sup>, <ins>Hanzheng Lyu</ins>, Ivan Beschastnikh, Yinqian Zhang, Chen Feng   
