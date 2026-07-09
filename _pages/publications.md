@@ -54,7 +54,6 @@ _ACM Conference on Computer and Communications Security_, Nov 2022.
 **Jianyu Niu**, Fangyu Gai, Mohammad Mussadiq Jalalzai, and Chen Feng  
 _IEEE International Conference on Computer Communications_, May 2021.  
 
-
 <!-- 1. **<small>[MSN'21]</small> Publish or Perish: Defending Withholding Attack in Dfinity Consensus**  (<font color=Red>Best Paper Award</font>)  
 <ins>Hanzheng Lyu</ins>, **Jianyu Niu**, Fangyu Gai, Chen Feng   
 _IEEE International Conference on Mobility, Sensing and Networking_, Virtual, Dec. 2021.  
@@ -66,13 +65,13 @@ _International Symposium on Computer Performance, Modeling, Measurements and Eva
 _IEEE International Conference on Distributed Computing Systems_, Dallas, Texas, Jun. 2019.-->
 <!-- 1. **<small>[ACSAC'24]</small> Breaking the Privacy Barrier: On the Feasibility of Reorganization Attacks on Ethereum Private Transaction**  
  Mengya Zhang, Xingyu Lyu, **Jianyu Niu**, Xiaokuan Zhang, Yinqian Zhang, and Zhiqiang Lin  
-_Annual Computer Security Applications Conference_, December 2024. -->
+_Annual Computer Security Applications Conference_, December 2024.
+1. **<small>[TIFS]</small> DisT-FL: Enhancing Security for TEE-based Aggregation in Federated Learning**   
+<ins>Guanlong Wu</ins>, <ins>Ju Yang</ins>, Zhen Huang, **Jianyu Niu<sup>*</sup>**, Guoxing Chen, and Yinqian Zhang    
+_Transactions on Information Forensics and Security (TIFS)_, 2026.   -->
 
 Journal Papers 
 ---
-1. **<small>[TIFS]</small> DisT-FL: Enhancing Security for TEE-based Aggregation in Federated Learning**   
-<ins>Guanlong Wu</ins>, <ins>Ju Yang</ins>, Zhen Huang, **Jianyu Niu<sup>*</sup>**, Guoxing Chen, and Yinqian Zhang    
-_Transactions on Information Forensics and Security (TIFS)_, 2026.    
 1. **<small>[TDSC]</small> Unraveling Responsiveness of Chained BFT Consensus with Network Delay**   
 <ins>Yining Tang<sup>†</sup></ins>, <ins>Mohan Yu<sup>†</sup></ins>, <ins>Qihang Luo</ins>, Runchao Han,  **Jianyu Niu<sup>*</sup>**,  Chen Feng, and Yinqian Zhang      
 _IEEE Transactions on Dependable and Secure Computing_, 2026.   
