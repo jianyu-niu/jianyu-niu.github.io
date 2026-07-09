@@ -13,16 +13,13 @@ The following lists a selection of my recent publications. For a complete list, 
 -----
 /* 1. **Analysis of Nakamoto Consensus, Revisited**  
 **Jianyu Niu**, Chen Feng, Hoang Dau, Yu-Chih Huang, Jingge Zhu [[Paper]](https://arxiv.org/pdf/1910.08510.pdf)  
-[[Selected as "Paper of the Week" (Issue #31) by ZK Capital]](https://zkcapital.substack.com/p/this-week-in-blockchain-research-927?token=eyJ1c2VyX2lkIjoyNzY3MzU2LCJwb3N0X2lkIjoxNTI4MDcsIl8iOiIrK24rMCIsImlhdCI6MTYzMjQ0ODMxNCwiZXhwIjoxNjMyNDUxOTE0LCJpc3MiOiJwdWItNjQ0MSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.n361wEaWHTRxnXO63B-vNwv9mzFIUGk5qCs0q2yScJk)  
-
-1. **Unraveling Responsiveness of Chained BFT Consensus with Network Delay** [[Paper]](https://arxiv.org/abs/2501.03695)   
-<ins>Yining Tang</ins>, <ins>Qihang Luo</ins>, Runchao Han, **Jianyu Niu<sup>*</sup>**, Chen Feng, and Yinqian Zhang.  
-1. **Fides: Scalable Censorship-Resistant DAG Consensus via Trusted Components** [[Paper]](https://arxiv.org/abs/2501.01062)  
-<ins>Shaokang Xie</ins>, Dakai Kang, <ins>Hanzheng Lyu</ins>, **Jianyu Niu**, Mohammad Sadoghi.-->
-
+[[Selected as "Paper of the Week" (Issue #31) by ZK Capital]](https://zkcapital.substack.com/p/this-week-in-blockchain-research-927?token=eyJ1c2VyX2lkIjoyNzY3MzU2LCJwb3N0X2lkIjoxNTI4MDcsIl8iOiIrK24rMCIsImlhdCI6MTYzMjQ0ODMxNCwiZXhwIjoxNjMyNDUxOTE0LCJpc3MiOiJwdWItNjQ0MSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.n361wEaWHTRxnXO63B-vNwv9mzFIUGk5qCs0q2yScJk)  -->
 
 Conference Papers
 ------
+1. **<small>[VLDB'26]</small>  Fides: Scalable Censorship-Resistant DAG Consensus via Trusted Components**    
+<ins>Shaokang Xie</ins>, Dakai Kang, <ins>Hanzheng Lyu</ins>, **Jianyu Niu<sup>*</sup>**, Mohammad Sadoghi<sup>*</sup>   
+_International Conference on Very Large Data Bases (VLDB)_, Boston, MA, USA, Aug 31st - Sep 4th, 2026
 1. **<small>[Security'26]</small> Exploiting PoH Time Semantics in Solana via Re-Anchoring and Forking**   
 <ins>Quanbi Feng<sup>†</sup></ins>, <ins>Pinshen Xu<sup>†</sup></ins>, **Jianyu Niu<sup>*</sup>**, Cong Wang, and Yinqian Zhang  
 _USENIX Security Symposium (Security)_, Baltimore, MD, USA, August, 2026.  
@@ -73,6 +70,9 @@ _Annual Computer Security Applications Conference_, December 2024. -->
 
 Journal Papers 
 ---
+1. **<small>[TIFS]</small> Unraveling Responsiveness of Chained BFT Consensus with Network Delay**   
+<ins>Guanlong Wu</ins>, <ins>Ju Yang</ins>, Zhen Huang, **Jianyu Niu<sup>*</sup>**, Guoxing Chen, and Yinqian Zhang    
+_Transactions on Information Forensics and Security (TIFS)_, 2026.
 1. **<small>[TDSC]</small> Unraveling Responsiveness of Chained BFT Consensus with Network Delay**   
 <ins>Yining Tang<sup>†</sup></ins>, <ins>Mohan Yu<sup>†</sup></ins>, <ins>Qihang Luo</ins>, Runchao Han,  **Jianyu Niu<sup>*</sup>**,  Chen Feng, and Yinqian Zhang      
 _IEEE Transactions on Dependable and Secure Computing_, 2026.   
