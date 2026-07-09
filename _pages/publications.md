@@ -19,7 +19,7 @@ Conference Papers
 ------
 1. **<small>[VLDB'26]</small>  Fides: Scalable Censorship-Resistant DAG Consensus via Trusted Components**    
 <ins>Shaokang Xie</ins>, Dakai Kang, <ins>Hanzheng Lyu</ins>, **Jianyu Niu<sup>*</sup>**, Mohammad Sadoghi<sup>*</sup>   
-_International Conference on Very Large Data Bases (VLDB)_, Boston, MA, USA, Aug 31st - Sep 4th, 2026
+_International Conference on Very Large Data Bases (VLDB)_, Boston, USA, Aug, 2026.   
 1. **<small>[Security'26]</small> Exploiting PoH Time Semantics in Solana via Re-Anchoring and Forking**   
 <ins>Quanbi Feng<sup>†</sup></ins>, <ins>Pinshen Xu<sup>†</sup></ins>, **Jianyu Niu<sup>*</sup>**, Cong Wang, and Yinqian Zhang  
 _USENIX Security Symposium (Security)_, Baltimore, MD, USA, August, 2026.  
@@ -72,7 +72,7 @@ Journal Papers
 ---
 1. **<small>[TIFS]</small> DisT-FL: Enhancing Security for TEE-based Aggregation in Federated Learning**   
 <ins>Guanlong Wu</ins>, <ins>Ju Yang</ins>, Zhen Huang, **Jianyu Niu<sup>*</sup>**, Guoxing Chen, and Yinqian Zhang    
-_Transactions on Information Forensics and Security (TIFS)_, 2026.
+_Transactions on Information Forensics and Security (TIFS)_, 2026.    
 1. **<small>[TDSC]</small> Unraveling Responsiveness of Chained BFT Consensus with Network Delay**   
 <ins>Yining Tang<sup>†</sup></ins>, <ins>Mohan Yu<sup>†</sup></ins>, <ins>Qihang Luo</ins>, Runchao Han,  **Jianyu Niu<sup>*</sup>**,  Chen Feng, and Yinqian Zhang      
 _IEEE Transactions on Dependable and Secure Computing_, 2026.   
