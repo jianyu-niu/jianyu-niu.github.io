@@ -70,7 +70,7 @@ _Annual Computer Security Applications Conference_, December 2024. -->
 
 Journal Papers 
 ---
-1. **<small>[TIFS]</small> Unraveling Responsiveness of Chained BFT Consensus with Network Delay**   
+1. **<small>[TIFS]</small> DisT-FL: Enhancing Security for TEE-based Aggregation in Federated Learning**   
 <ins>Guanlong Wu</ins>, <ins>Ju Yang</ins>, Zhen Huang, **Jianyu Niu<sup>*</sup>**, Guoxing Chen, and Yinqian Zhang    
 _Transactions on Information Forensics and Security (TIFS)_, 2026.
 1. **<small>[TDSC]</small> Unraveling Responsiveness of Chained BFT Consensus with Network Delay**   
