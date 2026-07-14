@@ -23,7 +23,8 @@ I have been fortunate to work with many talented students at different stages of
 
 ### Research Assistants
 
-* Mohan Yu (2025.08–)
+* Mohan Yu (2025.08–, )
+* Yuan Chang (2026.07–)
 
 ## Alumni
 
