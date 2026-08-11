@@ -18,7 +18,7 @@ The following lists a selection of my recent publications. For a complete list, 
 Conference Papers
 ------
 1. **<small>[NSDI'27]</small>  MANTA: Unlocking DAG Flexibility in Asynchronous BFT**    
-<ins>Mohan Yu</ins>, Chenlin Wu, **Jianyu Niu<sup>*</sup>**, Cong Wang, Chenyuan Wu<sup>*</sup>    
+<ins>Mohan Yu<sup>†</sup></ins>, Chenlin Wu<sup>†</sup>, **Jianyu Niu<sup>*</sup>**, Cong Wang, Chenyuan Wu<sup>*</sup>    
 _24th USENIX Symposium on Networked Systems Design and Implementation (NSDI)_, April 2027.
 1. **<small>[VLDB'26]</small>  Fides: Scalable Censorship-Resistant DAG Consensus via Trusted Components**    
 <ins>Shaokang Xie</ins>, Dakai Kang, <ins>Hanzheng Lyu</ins>, **Jianyu Niu<sup>*</sup>**, Mohammad Sadoghi<sup>*</sup>   
