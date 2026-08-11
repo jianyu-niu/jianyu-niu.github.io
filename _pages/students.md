@@ -10,7 +10,7 @@ I have been fortunate to work with many talented students at different stages of
 
 ### Ph.D. Students
 
-* Pinshen Xu (2025.09–, CityU, supervised by Prof. Cong Wang)
+* [Pinshen Xu](https://dblp.org/pid/353/7667.html) (2025.09–, CityU, supervised by Prof. Cong Wang)
 * [Shaokang Xie](https://scholar.google.com/citations?user=ziRt4M8AAAAJ&hl=en) (2024.09–, UC Davis, supervised by Prof. Mohammad Sadoghi; with the group since 2022)
 * [Xiaoqing Wen](https://scholar.google.com.tw/citations?user=iuc8lvkAAAAJ&hl=zh-CN) (2022.11–, UBCO, supervised by Prof. Chen Feng)
 
