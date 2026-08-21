@@ -24,9 +24,10 @@ This project aims to design simple and scalable BFT consensus protocols. Related
 This project explores integrations of confidential computing and various distributed computing techniques like blockchains and Federated Learning. Related works include Engraft (confidential consensus, [CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560639)), Narrator/Narrator-Pro (state continuity system, [CCS'22](https://dl.acm.org/doi/10.1145/3548606.3560620)/[TDSC'24](https://ieeexplore.ieee.org/abstract/document/10480251)), Achilles (TEE-assisted BFT, [EuroSys'25]()), Mercury/TeeRollup (Bridge/Rollup, [TDSC'26](https://arxiv.org/abs/2409.14640)/[TC'25](https://arxiv.org/abs/2409.14647)), Dist-FL (TEE-assisted FL, [TIFS'26](https://ieeexplore.ieee.org/abstract/document/11614556)), and Fides (TEE-assisted DAG, [VLDB'26]()).
 
 ## News
-* (2026/07) Our work on *Manta*, a flexible asynchronous DAG framework, has been accepted to [NSDI'27]().
+* (2026/08) Our work, *Raftel*, a hybrid TEE-assisted BFT, has been accepted to [EuroSys'27]().
+* (2026/07) Our work, *Manta*, a flexible asynchronous DAG framework, has been accepted to [NSDI'27]().
 * (2026/07) I am invited to serve as a PC member for [USENIX Security'27](https://www.usenix.org/conference/usenixsecurity27).
-* (2026/06) Our work on *Fides*, a TEE-assisted DAG protocol, has been accepted to [VLDB'26]().
+* (2026/06) Our work, *Fides*, a TEE-assisted DAG protocol, has been accepted to [VLDB'26]().
 * (2026/05) Our work on *Solana PoH* security analysis has been accepted to [USENIX Security'26]().
 * (2026/02) Our work, *Hydra*, a Multi-BFT protocol without global ordering, has been accepted to [ICDE'26]().
 * (2025/12) I am invited to serve as a PC member for [ACM SoCC'26](https://acmsocc.org/2026/index.html).
@@ -59,4 +60,4 @@ This project explores integrations of confidential computing and various distrib
 </details>
 
 
-Last updated: 2026/05.
+Last updated: 2026/08.
