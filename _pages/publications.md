@@ -17,6 +17,9 @@ The following lists a selection of my recent publications. For a complete list, 
 
 Conference Papers
 ------
+1. **<small>[EuroSys'27]</small> Breaking Fault Lines: Unifying TEE-Assisted BFT Consensus in Partially Trusted Worlds**  
+<ins>Xiaoqing Wen</ins>, <ins>Tong Liu</ins>,  **Jianyu Niu<sup>*</sup>**, Jialin Li, Cong Wang, Yinqian Zhang, and Chen Feng  
+_European Conference on Computer Systems_, Rabat, Morocco, Apr 2027.   
 1. **<small>[NSDI'27]</small>  MANTA: Unlocking DAG Flexibility in Asynchronous BFT**    
 <ins>Mohan Yu<sup>†</sup></ins>, Chenlin Wu<sup>†</sup>, **Jianyu Niu<sup>*</sup>**, Cong Wang, Chenyuan Wu<sup>*</sup>    
 _24th USENIX Symposium on Networked Systems Design and Implementation (NSDI)_, April 2027.
