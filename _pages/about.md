@@ -30,18 +30,25 @@ This project explores integrations of confidential computing and various distrib
 * (2026/06) Our work, *Fides*, a TEE-assisted DAG protocol, has been accepted to [VLDB'26]().
 * (2026/05) Our work on *Solana PoH* security analysis has been accepted to [USENIX Security'26]().
 * (2026/02) Our work, *Hydra*, a Multi-BFT protocol without global ordering, has been accepted to [ICDE'26]().
-* (2025/12) I am invited to serve as a PC member for [ACM SoCC'26](https://acmsocc.org/2026/index.html).
-* (2025/10) I am invited to serve as a PC member for [ACM CCS'26](https://www.sigsac.org/ccs/CCS2026/).
-* (2025/08) I am invited to serve as a PC member for [USENIX Security'26](https://www.usenix.org/conference/usenixsecurity26) and [IEEE ICPADS'25](http://ieee-icpads.org.cn/).
-* (2025/03) Our work, *Orthrus*, a high-performance Multi-BFT protocol, has been accepted to [ICDE'25]().
-* (2025/01) Our work, *Achilles*, an efficient TEE-assisted BFT protocol, has been accepted to [EuroSys'25]().
-* (2024/11) I am invited to serve as a PC member for [ACM/IFIP Middleware'25](https://middleware-conf.github.io/2025/).
 
 
 <details>
 <summary><b>Older News</b></summary>
 
 <ul>
+
+<li>(2025/12) I am invited to serve as a PC member for <a href="https://acmsocc.org/2026/index.html">ACM SoCC'26</a>.</li>
+
+<li>(2025/10) I am invited to serve as a PC member for <a href="https://www.sigsac.org/ccs/CCS2026/">ACM CCS'26</a>.</li>
+
+<li>(2025/08) I am invited to serve as a PC member for <a href="https://www.usenix.org/conference/usenixsecurity26">USENIX Security'26</a> and <a href="http://ieee-icpads.org.cn/">IEEE ICPADS'25</a>.</li>
+
+<li>(2025/03) Our work, <i>Orthrus</i>, a high-performance Multi-BFT protocol, has been accepted to <a href="">ICDE'25</a>.</li>
+
+<li>(2025/01) Our work, <i>Achilles</i>, an efficient TEE-assisted BFT protocol, has been accepted to <a href="">EuroSys'25</a>.</li>
+
+<li>(2024/11) I am invited to serve as a PC member for <a href="https://middleware-conf.github.io/2025/">ACM/IFIP Middleware'25</a>.</li>
+  
   <li>(2024/11) Our work on side-channel attacks against KV-cache sharing has been accepted to <a href="https://www.ndss-symposium.org/ndss2025/">NDSS'25</a>.</li>
 
   <li>(2024/10) I am invited to serve as a PC member for <a href="https://www.sigsac.org/ccs/CCS2025/">ACM CCS'25</a>.</li>
@@ -60,4 +67,4 @@ This project explores integrations of confidential computing and various distrib
 </details>
 
 
-Last updated: 2026/08.
+Last updated: 2026/10.
