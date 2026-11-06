@@ -12,7 +12,7 @@ I am currently a Research Fellow at [City University of Hong Kong](https://www.c
 
 
 ## Research
-My research interests lie in distributed systems and security, with a focus on emerging technologies including blockchain systems, confidential computing, and AI agents. My goal is to build trustworthy distributed infrastructures that remain secure, scalable, confidential, and adaptive under increasingly dynamic and heterogeneous environments. Below are several representative research directions.
+My research interests lie in distributed systems and security, with a focus on emerging technologies including blockchain systems, confidential computing, and Agentic AI. My goal is to build trustworthy distributed infrastructures that remain secure, scalable, reliable, and confidential under increasingly dynamic and heterogeneous environments. Below are several representative research directions.
 
 ### Performance and Security Analysis
 This project aims to analyze the security and performance of distributed systems, with a focus on the incentives of blockchains. Related analysis include selfish mining in Ethereum ([ICDCS'19](https://arxiv.org/abs/1901.04620)) and Bitcoin-NG ([Performance'20](https://arxiv.org/pdf/2001.05082.pdf)), chained HotStuff ([INFOCOM'21](https://arxiv.org/abs/2107.04947)/[TDSC'25]()),  Crystal (block withholding resilience, [TDSC'22](https://arxiv.org/abs/2312.00741)), Ethereum's private transactions ([ACSAC'24](https://jianyu-niu.github.io/)), chained BFT framework ([ToN'26](https://arxiv.org/pdf/2501.02970)/[TDSC'26](https://www.computer.org/csdl/journal/tq/5555/01/11592485/2hLQR8NLsUE)), Solana's PoH ([Security'26](https://www.usenix.org/conference/usenixsecurity26)).
